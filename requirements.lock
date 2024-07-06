@@ -130,6 +130,8 @@ sphinxcontrib-qthelp==1.0.7
     # via sphinx
 sphinxcontrib-serializinghtml==1.1.10
     # via sphinx
+tqdm==4.66.4
+    # via paper-scraper
 trio==0.25.1
     # via selenium
     # via trio-websocket
