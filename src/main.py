@@ -69,7 +69,7 @@ df = pd.DataFrame(paper_citations, columns=['Title', 'DOI', 'Citations'])
 df_sorted = df.sort_values(by='Citations', ascending=False)
 
 # CSVファイルに保存
-output_filename = f'{conference}_{year}_papers.csv'
+output_filename = f'./output/{conference}_{year}_papers.csv'
 df_sorted.to_csv(output_filename, index=False)
 
 # 結果を表示
