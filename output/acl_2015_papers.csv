@@ -1,0 +1,359 @@
+Title,DOI,Citations
+Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks,10.3115/v1/P15-1150,1136
+Knowledge Graph Embedding via Dynamic Mapping Matrix,10.3115/v1/P15-1067,969
+Event Extraction via Dynamic Multi-Pooling Convolutional Neural Networks,10.3115/v1/P15-1017,397
+Neural Responding Machine for Short-Text Conversation,10.3115/v1/P15-1152,370
+Deep Unordered Composition Rivals Syntactic Methods for Text Classification,10.3115/v1/P15-1162,275
+Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base,10.3115/v1/P15-1128,273
+Leveraging Linguistic Structure For Open Domain Information Extraction,10.3115/v1/P15-1034,241
+Question Answering over Freebase with Multi-Column Convolutional Neural Networks,10.3115/v1/P15-1026,234
+A Hierarchical Neural Autoencoder for Paragraphs and Documents,10.3115/v1/P15-1107,210
+On Using Very Large Target Vocabulary for Neural Machine Translation,10.3115/v1/P15-1001,196
+Addressing the Rare Word Problem in Neural Machine Translation,10.3115/v1/P15-1002,181
+Transition-Based Dependency Parsing with Stack Long Short-Term Memory,10.3115/v1/P15-1033,176
+Learning Semantic Representations of Users and Products for Document Level Sentiment Classification,10.3115/v1/P15-1098,172
+Classifying Relations by Ranking with Convolutional Neural Networks,10.3115/v1/P15-1061,171
+A Long Short-Term Memory Model for Answer Sentence Selection in Question Answering,10.3115/v1/P15-2116,167
+Predicting Polarities of Tweets by Composing Word Embeddings with Long Short-Term Memory,10.3115/v1/P15-1130,153
+Event Detection and Domain Adaptation with Convolutional Neural Networks,10.3115/v1/P15-2060,149
+Low Resource Dependency Parsing: Cross-lingual Parameter Sharing in a Neural Network Parser,10.3115/v1/P15-2139,143
+Gaussian LDA for Topic Models with Word Embeddings,10.3115/v1/P15-1077,138
+Multi-Task Learning for Multiple Language Translation,10.3115/v1/P15-1166,134
+Harnessing Context Incongruity for Sarcasm Detection,10.3115/v1/P15-2124,123
+Compositional Semantic Parsing on Semi-Structured Tables,10.3115/v1/P15-1142,117
+Topic Modeling based Sentiment Analysis on Social Media for Stock Market Prediction,10.3115/v1/P15-1131,113
+Language Models for Image Captioning: The Quirks and What Works,10.3115/v1/P15-2017,113
+Compositional Vector Space Models for Knowledge Base Completion,10.3115/v1/P15-1016,112
+End-to-end learning of semantic role labeling using recurrent neural networks,10.3115/v1/P15-1109,103
+A Dependency-Based Neural Network for Relation Classification,10.3115/v1/P15-2047,92
+Semantic Clustering and Convolutional Neural Network for Short Text Categorization,10.3115/v1/P15-2058,87
+SensEmbed: Learning Sense Embeddings for Word and Relational Similarity,10.3115/v1/P15-1010,85
+Learning Continuous Word Embedding with Metadata for Question Retrieval in Community Question Answering,10.3115/v1/P15-1025,79
+AutoExtend: Extending Word Embeddings to Embeddings for Synsets and Lexemes,10.3115/v1/P15-1173,75
+Building a Semantic Parser Overnight,10.3115/v1/P15-1129,70
+Language to Code: Learning Semantic Parsers for If-This-Then-That Recipes,10.3115/v1/P15-1085,69
+An analysis of the user occupational class through Twitter content,10.3115/v1/P15-1169,65
+Text Categorization as a Graph Classification Problem,10.3115/v1/P15-1164,65
+Semantically Smooth Knowledge Graph Embedding,10.3115/v1/P15-1009,62
+Hubness and Pollution: Delving into Cross-Space Mapping for Zero-Shot Learning,10.3115/v1/P15-1027,62
+"PPDB 2.0: Better paraphrase ranking, fine-grained entailment relations, word embeddings, and style classification",10.3115/v1/P15-2070,60
+Learning Summary Prior Representation for Extractive Summarization,10.3115/v1/P15-2136,59
+Lifelong Learning for Sentiment Classification,10.3115/v1/P15-2123,52
+It Depends: Dependency Parser Comparison Using A Web-based Evaluation Tool,10.3115/v1/P15-1038,51
+Dependency-based Convolutional Neural Networks for Sentence Embedding,10.3115/v1/P15-2029,50
+Abstractive Multi-Document Summarization via Phrase Selection and Merging,10.3115/v1/P15-1153,50
+Gated Recursive Neural Network for Chinese Word Segmentation,10.3115/v1/P15-1168,46
+Encoding Source Language with Convolutional Neural Network for Machine Translation,10.3115/v1/P15-1003,45
+Weakly Supervised Models of Aspect-Sentiment for Online Course Discussion Forums,10.3115/v1/P15-1008,44
+Embedding Methods for Fine Grained Entity Type Classification,10.3115/v1/P15-2048,44
+Deep Questions without Deep Understanding,10.3115/v1/P15-1086,42
+S-MART: Novel Tree-based Structured Learning Algorithms Applied to Tweet Entity Linking,10.3115/v1/P15-1049,41
+The Media Frames Corpus: Annotations of Frames Across Issues,10.3115/v1/P15-2072,41
+MultiGranCNN: An Architecture for General Matching of Text Chunks on Multiple Levels of Granularity,10.3115/v1/P15-1007,40
+Twitter User Geolocation Using a Unified Text and Network Prediction Model,10.3115/v1/P15-2104,39
+Modeling Argument Strength in Student Essays,10.3115/v1/P15-1053,39
+Semantic Analysis and Helpfulness Prediction of Text for Online Product Reviews,10.3115/v1/P15-2007,38
+Learning Bilingual Sentiment Word Embeddings for Cross-language Sentiment Classification,10.3115/v1/P15-1042,37
+Sieve-Based Entity Linking for the Biomedical Domain,10.3115/v1/P15-2049,36
+Structured Training for Neural Network Transition-Based Parsing,10.3115/v1/P15-1032,35
+Joint Models of Disagreement and Stance in Online Debate,10.3115/v1/P15-1012,35
+Radical Embedding: Delving Deeper to Chinese Radicals,10.3115/v1/P15-2098,35
+Text to 3D Scene Generation with Rich Lexical Grounding,10.3115/v1/P15-1006,35
+Cross-lingual Dependency Parsing Based on Distributed Representations,10.3115/v1/P15-1119,35
+deltaBLEU: A Discriminative Metric for Generation Tasks with Intrinsically Diverse Targets,10.3115/v1/P15-2073,34
+Learning Semantic Word Embeddings based on Ordinal Knowledge Constraints,10.3115/v1/P15-1145,34
+Automatic Keyword Extraction on Twitter,10.3115/v1/P15-2105,33
+A Domain-independent Rule-based Framework for Event Extraction,10.3115/v1/P15-4022,33
+Entity-Centric Coreference Resolution with Model Stacking,10.3115/v1/P15-1136,32
+Sparse Overcomplete Word Vector Representations,10.3115/v1/P15-1144,32
+Learning Tag Embeddings and Tag-specific Composition Functions in Recursive Neural Network,10.3115/v1/P15-1132,32
+Multi-level Translation Quality Prediction with QuEst++,10.3115/v1/P15-4020,30
+Multi-domain Dialog State Tracking using Recurrent Neural Networks,10.3115/v1/P15-2130,30
+Predicting Salient Updates for Disaster Summarization,10.3115/v1/P15-1155,29
+Learning to Explain Entity Relationships in Knowledge Graphs,10.3115/v1/P15-1055,28
+"Sparse, Contextually Informed Models for Irony Detection: Exploiting User Communities, Entities and Sentiment",10.3115/v1/P15-1100,27
+Sentiment-Aspect Extraction based on Restricted Boltzmann Machines,10.3115/v1/P15-1060,27
+Simplifying Lexical Simplification: Do We Need Simplified Corpora?,10.3115/v1/P15-2011,27
+Learning Anaphoricity and Antecedent Ranking Features for Coreference Resolution,10.3115/v1/P15-1137,27
+Learning Word Representations by Jointly Modeling Syntagmatic and Paradigmatic Relations,10.3115/v1/P15-1014,27
+Sentence-level Emotion Classification with Label and Context Dependence,10.3115/v1/P15-1101,26
+Document Classification by Inversion of Distributed Language Representations,10.3115/v1/P15-2008,26
+Demographic Factors Improve Classification Performance,10.3115/v1/P15-1073,26
+The Fixed-Size Ordinally-Forgetting Encoding Method for Neural Network Language Models,10.3115/v1/P15-2081,26
+A Frame of Mind: Using Statistical Models for Detection of Framing and Agenda Setting Campaigns,10.3115/v1/P15-1157,25
+Towards a Contextual Pragmatic Model to Detect Irony in Tweets,10.3115/v1/P15-2106,24
+Learning Hybrid Representations to Retrieve Semantically Equivalent Questions,10.3115/v1/P15-2114,24
+Ground Truth for Grammatical Error Correction Metrics,10.3115/v1/P15-2097,24
+Entity Hierarchy Embedding,10.3115/v1/P15-1125,24
+Answer Sequence Learning with Neural Networks for Answer Selection in Community Question Answering,10.3115/v1/P15-2117,23
+Machine Comprehension with Discourse Relations,10.3115/v1/P15-1121,21
+Describing Images using Inferred Visual Dependency Representations,10.3115/v1/P15-1005,21
+A Neural Probabilistic Structured-Prediction Model for Transition-Based Dependency Parsing,10.3115/v1/P15-1117,21
+User Based Aggregation for Biterm Topic Model,10.3115/v1/P15-2080,21
+KeLP: a Kernel-based Learning Platform for Natural Language Processing,10.3115/v1/P15-4004,20
+Learning Answer-Entailing Structures for Machine Comprehension,10.3115/v1/P15-1024,20
+Co-training for Semi-supervised Sentiment Classification Based on Dual-view Bags-of-words Representation,10.3115/v1/P15-1102,20
+Environment-Driven Lexicon Induction for High-Level Instructions,10.3115/v1/P15-1096,20
+Predicting Valence-Arousal Ratings of Words Using a Weighted Graph Method,10.3115/v1/P15-2129,19
+"Omnia Mutantur, Nihil Interit: Connecting Past with Present by Finding Corresponding Terms across Time",10.3115/v1/P15-1063,19
+Tagging Performance Correlates with Author Age,10.3115/v1/P15-2079,19
+Neural CRF Parsing,10.3115/v1/P15-1030,19
+Open IE as an Intermediate Structure for Semantic Tasks,10.3115/v1/P15-2050,19
+Tea Party in the House: A Hierarchical Ideal Point Topic Model and Its Application to Republican Legislators in the 112th Congress,10.3115/v1/P15-1139,18
+Learning to Adapt Credible Knowledge in Cross-lingual Sentiment Analysis,10.3115/v1/P15-1041,17
+"Machine Comprehension with Syntax, Frames, and Semantics",10.3115/v1/P15-2115,17
+Transition-based Neural Constituent Parsing,10.3115/v1/P15-1113,16
+Revisiting Word Embedding for Contrasting Meaning,10.3115/v1/P15-1011,16
+Frame-Semantic Role Labeling with Heterogeneous Annotations,10.3115/v1/P15-2036,16
+Bilingual Word Embeddings from Non-Parallel Document-Aligned Data Applied to Bilingual Lexicon Induction,10.3115/v1/P15-2118,16
+Grounding Semantics in Olfactory Perception,10.3115/v1/P15-2038,16
+Linguistic Template Extraction for Recognizing Reader-Emotion and Emotional Resonance Writing Assistance,10.3115/v1/P15-2127,16
+Unsupervised Cross-Domain Word Representation Learning,10.3115/v1/P15-1071,15
+Inducing Word and Part-of-Speech with Pitman-Yor Hidden Semi-Markov Models,10.3115/v1/P15-1171,15
+Negation and Speculation Identification in Chinese Language,10.3115/v1/P15-1064,15
+Automatic disambiguation of English puns,10.3115/v1/P15-1070,15
+An Effective Neural Network Model for Graph-based Dependency Parsing,10.3115/v1/P15-1031,14
+New Transfer Learning Techniques for Disparate Label Sets,10.3115/v1/P15-1046,14
+A system for fine-grained aspect-based sentiment analysis of Chinese,10.3115/v1/P15-4010,14
+Coupled Sequence Labeling on Heterogeneous Annotations: POS Tagging as a Case Study,10.3115/v1/P15-1172,14
+Model-based Word Embeddings from Decompositions of Count Matrices,10.3115/v1/P15-1124,14
+Non-distributional Word Vector Representations,10.3115/v1/P15-2076,14
+Linguistic Harbingers of Betrayal: A Case Study on an Online Strategy Game,10.3115/v1/P15-1159,14
+Cross-lingual Transfer of Named Entity Recognizers without Parallel Corpora,10.3115/v1/P15-2064,14
+A Distributed Representation Based Query Expansion Approach for Image Captioning,10.3115/v1/P15-2018,13
+Unsupervised extractive summarization via coverage maximization with syntactic and semantic concepts,10.3115/v1/P15-2138,13
+A Unified Multilingual Semantic Representation of Concepts,10.3115/v1/P15-1072,13
+Dependency Recurrent Neural Language Models for Sentence Completion,10.3115/v1/P15-2084,13
+How Far are We from Fully Automatic High Quality Grammatical Error Correction?,10.3115/v1/P15-1068,13
+LEXenstein: A Framework for Lexical Simplification,10.3115/v1/P15-4015,13
+Weakly Supervised Role Identification in Teamwork Interactions,10.3115/v1/P15-1161,13
+Seed-Based Event Trigger Labeling: How far can event descriptions get us?,10.3115/v1/P15-2061,12
+Generative Event Schema Induction with Entity Disambiguation,10.3115/v1/P15-1019,12
+Chinese Zero Pronoun Resolution: A Joint Unsupervised Discourse-Aware Model Rivaling State-of-the-Art Resolvers,10.3115/v1/P15-2053,12
+Learning Relational Features with Backward Random Walks,10.3115/v1/P15-1065,12
+Evaluation Dataset and System for Japanese Lexical Simplification,10.3115/v1/P15-3006,12
+Aspect-Level Cross-lingual Sentiment Classification with Constrained SMT,10.3115/v1/P15-2128,12
+Learning Cross-lingual Word Embeddings via Matrix Co-factorization,10.3115/v1/P15-2093,11
+Learning Word Representations from Scarce and Noisy Data with Embedding Subspaces,10.3115/v1/P15-1104,11
+Semantic Representations for Domain Adaptation: A Case Study on the Tree Kernel-based Method for Relation Extraction,10.3115/v1/P15-1062,11
+Structural Representations for Learning Relations between Pairs of Texts,10.3115/v1/P15-1097,11
+A Framework for the Construction of Monolingual and Cross-lingual Word Similarity Datasets,10.3115/v1/P15-2001,11
+Word Order Typology through Multilingual Word Alignment,10.3115/v1/P15-2034,11
+Inverted indexing for cross-lingual NLP,10.3115/v1/P15-1165,11
+How Well Do Distributional Models Capture Different Types of Semantic Knowledge?,10.3115/v1/P15-2119,11
+Accurate Linear-Time Chinese Word Segmentation via Embedding Matching,10.3115/v1/P15-1167,11
+Point Process Modelling of Rumour Dynamics in Social Media,10.3115/v1/P15-2085,10
+Lexical Comparison Between Wikipedia and Twitter Corpora by Using Word Embeddings,10.3115/v1/P15-2108,10
+Learning language through pictures,10.3115/v1/P15-2019,10
+End-to-end Argument Generation System in Debating,10.3115/v1/P15-4019,10
+Emotion Detection in Code-switching Texts via Bilingual and Sentimental Information,10.3115/v1/P15-2125,10
+Stacked Ensembles of Information Extractors for Knowledge-Base Population,10.3115/v1/P15-1018,10
+CCG Supertagging with a Recurrent Neural Network,10.3115/v1/P15-2041,10
+Bring you to the past: Automatic Generation of Topically Relevant Event Chronicles,10.3115/v1/P15-1056,9
+Summarization of Multi-Document Topic Hierarchies using Submodular Mixtures,10.3115/v1/P15-1054,9
+"Detecting Deceptive Opinion Spam using Linguistics, Behavioral and Statistical Modeling",10.3115/v1/P15-5007,9
+Semi-Stacking for Semi-supervised Sentiment Classification,10.3115/v1/P15-2005,9
+Joint Graphical Models for Date Selection in Timeline Summarization,10.3115/v1/P15-1154,9
+Efficient Top-Down BTG Parsing for Machine Translation Preordering,10.3115/v1/P15-1021,9
+Non-Linear Text Regression with a Deep Convolutional Neural Network,10.3115/v1/P15-2030,9
+Automatic Identification of Rhetorical Questions,10.3115/v1/P15-2122,8
+Rhetoric Map of an Answer to Compound Queries,10.3115/v1/P15-2112,8
+Learning the Semantics of Manipulation Action,10.3115/v1/P15-1066,8
+Recovering dropped pronouns from Chinese text messages,10.3115/v1/P15-2051,8
+Pairwise Neural Machine Translation Evaluation,10.3115/v1/P15-1078,8
+Matrix Factorization with Knowledge Graph Propagation for Unsupervised Spoken Language Understanding,10.3115/v1/P15-1047,8
+Event-Driven Headline Generation,10.3115/v1/P15-1045,8
+Detecting Deceptive Groups Using Conversations and Network Analysis,10.3115/v1/P15-1083,8
+Scalable Semantic Parsing with Partial Ontologies,10.3115/v1/P15-1127,8
+A Deeper Exploration of the Standard PB-SMT Approach to Text Simplification and its Evaluation,10.3115/v1/P15-2135,8
+Jointly optimizing word representations for lexical and sentential tasks with the C-PHRASE model,10.3115/v1/P15-1094,8
+Multi-Objective Optimization for the Joint Disambiguation of Nouns and Named Entities,10.3115/v1/P15-1058,8
+Simple Learning and Compositional Application of Perceptually Grounded Word Meanings for Incremental Reference Resolution,10.3115/v1/P15-1029,8
+Exploring the Planet of the APEs: a Comparative Study of State-of-the-art Methods for MT Automatic Post-Editing,10.3115/v1/P15-2026,8
+NiuParser: A Chinese Syntactic and Semantic Parsing Toolkit,10.3115/v1/P15-4025,8
+A Re-ranking Model for Dependency Parser with Recursive Convolutional Neural Network,10.3115/v1/P15-1112,8
+Generating High Quality Proposition Banks for Multilingual Semantic Role Labeling,10.3115/v1/P15-1039,7
+Context-Dependent Translation Selection Using Convolutional Neural Network,10.3115/v1/P15-2088,7
+Extended Topic Model for Word Dependency,10.3115/v1/P15-2083,7
+Parsing as Reduction,10.3115/v1/P15-1147,7
+Boosting Transition-based AMR Parsing with Refined Actions and Auxiliary Analyzers,10.3115/v1/P15-2141,7
+Improving Distributed Representation of Word Sense via WordNet Gloss Composition and Context Clustering,10.3115/v1/P15-2003,7
+Improving Evaluation of Machine Translation Quality Estimation,10.3115/v1/P15-1174,7
+Knowledge Portability with Semantic Expansion of Ontology Labels,10.3115/v1/P15-1069,7
+Efficient Methods for Inferring Large Sparse Topic Hierarchies,10.3115/v1/P15-1075,7
+A Language-Independent Feature Schema for Inflectional Morphology,10.3115/v1/P15-2111,7
+WikiKreator: Improving Wikipedia Stubs Automatically,10.3115/v1/P15-1084,7
+Improving Named Entity Recognition in Tweets via Detecting Non-Standard Words,10.3115/v1/P15-1090,7
+Robust Subgraph Generation Improves Abstract Meaning Representation Parsing,10.3115/v1/P15-1095,7
+Why discourse affects speakers’ choice of referring expressions,10.3115/v1/P15-1158,7
+Dependency length minimisation effects in short spans: a large-scale analysis of adjective placement in complex noun phrases,10.3115/v1/P15-2078,7
+FrameNet+: Fast Paraphrastic Tripling of FrameNet,10.3115/v1/P15-2067,6
+Discriminative Preordering Meets Kendall’s 𝜏 Maximization,10.3115/v1/P15-2023,6
+Exploiting Image Generality for Lexical Entailment Detection,10.3115/v1/P15-2020,6
+A Unified Learning Framework of Skip-Grams and Global Vectors,10.3115/v1/P15-2031,6
+Automatic Discrimination between Cognates and Borrowings,10.3115/v1/P15-2071,6
+Retrieval of Research-level Mathematical Information Needs: A Test Collection and Technical Terminology Experiment,10.3115/v1/P15-2055,6
+"KB-LDA: Jointly Learning a Knowledge Base of Hierarchy, Relations, and Facts",10.3115/v1/P15-1140,6
+Graph parsing with s-graph grammars,10.3115/v1/P15-1143,6
+Feature Optimization for Constituent Parsing via Neural Networks,10.3115/v1/P15-1110,6
+Building a Scientific Concept Hierarchy Database (SCHBase),10.3115/v1/P15-1059,6
+Low-Rank Tensors for Verbs in Compositional Distributional Semantics,10.3115/v1/P15-2120,6
+A Context-Aware Topic Model for Statistical Machine Translation,10.3115/v1/P15-1023,6
+Thread-Level Information for Comment Classification in Community Question Answering,10.3115/v1/P15-2113,6
+The NL2KR Platform for building Natural Language Translation Systems,10.3115/v1/P15-1087,6
+Unsupervised Prediction of Acceptability Judgements,10.3115/v1/P15-1156,6
+NEED4Tweet: A Twitterbot for Tweets Named Entity Extraction and Disambiguation,10.3115/v1/P15-4006,6
+Content Models for Survey Generation: A Factoid-Based Evaluation,10.3115/v1/P15-1043,6
+KLcpos3 - a Language Similarity Measure for Delexicalized Parser Transfer,10.3115/v1/P15-2040,5
+Entity Retrieval via Entity Factoid Hierarchy,10.3115/v1/P15-1050,5
+Trans-dimensional Random Fields for Language Modeling,10.3115/v1/P15-1076,5
+If all you have is a bit of the Bible: Learning POS taggers for truly low-resource languages,10.3115/v1/P15-2044,5
+JoBimViz: A Web-based Visualization for Graph-based Distributional Semantic Models,10.3115/v1/P15-4018,5
+On the Importance of Ezafe Construction in Persian Parsing,10.3115/v1/P15-2144,5
+Unifying Bayesian Inference and Vector Space Models for Improved Decipherment,10.3115/v1/P15-1081,5
+Lexicon Stratification for Translating Out-of-Vocabulary Words,10.3115/v1/P15-2021,5
+Automatic Spontaneous Speech Grading: A Novel Feature Derivation Technique using the Crowd,10.3115/v1/P15-1105,5
+Tweet Normalization with Syllables,10.3115/v1/P15-1089,5
+Recurrent Neural Network based Rule Sequence Model for Statistical Machine Translation,10.3115/v1/P15-2022,5
+Joint Dependency Parsing and Multiword Expression Tokenization,10.3115/v1/P15-1108,5
+Discontinuous Incremental Shift-reduce Parsing,10.3115/v1/P15-1116,5
+Who caught a cold ? - Identifying the subject of a symptom,10.3115/v1/P15-1160,5
+SOLAR: Scalable Online Learning Algorithms for Ranking,10.3115/v1/P15-1163,5
+Statistical Machine Translation Features with Multitask Tensor Networks,10.3115/v1/P15-1004,5
+What’s in a Domain? Analyzing Genre and Topic Differences in Statistical Machine Translation,10.3115/v1/P15-2092,5
+Model Adaptation for Personalized Opinion Analysis,10.3115/v1/P15-2126,4
+An Empirical Study of Chinese Name Matching and Applications,10.3115/v1/P15-2062,4
+Matrix and Tensor Factorization Methods for Natural Language Processing,10.3115/v1/P15-5005,4
+Learning Topic Hierarchies for Wikipedia Categories,10.3115/v1/P15-2057,4
+Disease Event Detection based on Deep Modality Analysis,10.3115/v1/P15-3005,4
+Sharing annotations better: RESTful Open Annotation,10.3115/v1/P15-4016,4
+Storybase: Towards Building a Knowledge Base for News Events,10.3115/v1/P15-4023,4
+Deep Markov Neural Network for Sequential Data Classification,10.3115/v1/P15-2006,4
+Improving social relationships in face-to-face human-agent interactions: when the agent wants to know user’s likes and dislikes,10.3115/v1/P15-1103,4
+Spectral Semi-Supervised Discourse Relation Classification,10.3115/v1/P15-2015,4
+Representation Based Translation Evaluation Metrics,10.3115/v1/P15-2025,4
+Vector-space calculation of semantic surprisal for predicting word pronunciation duration,10.3115/v1/P15-1074,4
+Context-aware Entity Morph Decoding,10.3115/v1/P15-1057,4
+Encoding Distributional Semantics into Triple-Based Knowledge Ranking for Document Enrichment,10.3115/v1/P15-1051,4
+Distributional Neural Networks for Automatic Resolution of Crossword Puzzles,10.3115/v1/P15-2033,4
+Joint Case Argument Identification for Japanese Predicate Argument Structure Analysis,10.3115/v1/P15-1093,4
+Optimal Shift-Reduce Constituent Parsing with Structured Perceptron,10.3115/v1/P15-1148,4
+Syntax-based Simultaneous Translation through Prediction of Unseen Syntactic Constituents,10.3115/v1/P15-1020,4
+genCNN: A Convolutional Architecture for Word Sequence Prediction,10.3115/v1/P15-1151,4
+Adding Semantics to Data-Driven Paraphrasing,10.3115/v1/P15-1146,4
+A Generalisation of Lexical Functions for Composition in Distributional Semantics,10.3115/v1/P15-1028,4
+Multi-Pass Decoding With Complex Feature Guidance for Statistical Machine Translation,10.3115/v1/P15-2091,3
+Compact Lexicon Selection with Spectral Methods,10.3115/v1/P15-2132,3
+Learning Word Reorderings for Hierarchical Phrase-based Statistical Machine Translation,10.3115/v1/P15-2089,3
+Transferring Coreference Resolvers with Posterior Regularization,10.3115/v1/P15-1138,3
+Dialogue Management based on Sentence Clustering,10.3115/v1/P15-2131,3
+A Computational Approach to Automatic Prediction of Drunk-Texting,10.3115/v1/P15-2100,3
+A Multitask Objective to Inject Lexical Contrast into Distributional Semantics,10.3115/v1/P15-2004,3
+"Tackling Sparsity, the Achilles Heel of Social Networks: Language Model Smoothing via Social Regularization",10.3115/v1/P15-2103,3
+Towards Debugging Sentiment Lexicons,10.3115/v1/P15-1099,3
+A convex and feature-rich discriminative approach to dependency grammar induction,10.3115/v1/P15-1133,3
+Automatic Identification of Age-Appropriate Ratings of Song Lyrics,10.3115/v1/P15-2096,3
+Can Natural Language Processing Become Natural Language Coaching?,10.3115/v1/P15-1120,3
+Unsupervised Decomposition of a Multi-Author Document Based on Naive-Bayesian Model,10.3115/v1/P15-2082,3
+Annotation and Classification of an Email Importance Corpus,10.3115/v1/P15-2107,3
+Semantic Structure Analysis of Noun Phrases using Abstract Meaning Representation,10.3115/v1/P15-2140,3
+Document Level Time-anchoring for TimeLine Extraction,10.3115/v1/P15-2059,3
+Non-linear Learning for Statistical Machine Translation,10.3115/v1/P15-1080,3
+Learning to Map Dependency Parses to Abstract Meaning Representations,10.3115/v1/P15-3007,3
+Learning Lexical Embeddings with Syntactic and Lexicographic Knowledge,10.3115/v1/P15-2075,3
+Efficient Disfluency Detection with Transition-based Parsing,10.3115/v1/P15-1048,3
+Semantic Interpretation of Superlative Expressions via Structured Knowledge Bases,10.3115/v1/P15-2037,3
+WriteAhead: Mining Grammar Patterns in Corpora for Assisted Writing,10.3115/v1/P15-4024,3
+Joint Information Extraction and Reasoning: A Scalable Statistical Relational Learning Approach,10.3115/v1/P15-1035,3
+IWNLP: Inverse Wiktionary for Natural Language Processing,10.3115/v1/P15-2068,3
+Implicit Role Linking on Chinese Discourse: Exploiting Explicit Roles and Frame-to-Frame Relations,10.3115/v1/P15-1122,2
+Low-Rank Regularization for Sparse Conjunctive Feature Spaces: An Application to Named Entity Classification,10.3115/v1/P15-1013,2
+Learning Dynamic Feature Selection for Fast Sequential Prediction,10.3115/v1/P15-1015,2
+Discourse-sensitive Automatic Identification of Generic Expressions,10.3115/v1/P15-1123,2
+A Knowledge-Intensive Model for Prepositional Phrase Attachment,10.3115/v1/P15-1036,2
+Training a Natural Language Generator From Unaligned Data,10.3115/v1/P15-1044,2
+Aligning Opinions: Cross-Lingual Opinion Mining with Dependencies,10.3115/v1/P15-1040,2
+A Methodology for Evaluating Timeline Generation Algorithms based on Deep Semantic Units,10.3115/v1/P15-2137,2
+Driving ROVER with Segment-based ASR Quality Estimation,10.3115/v1/P15-1106,2
+SCHNÄPPER: A Web Toolkit for Exploratory Relation Extraction,10.3115/v1/P15-4012,2
+Transition-based Dependency DAG Parsing Using Dynamic Oracles,10.3115/v1/P15-3004,2
+A Simultaneous Recognition Framework for the Spoken Language Understanding Module of Intelligent Personal Assistant Software on Smart Phones,10.3115/v1/P15-2134,2
+A Unified Kernel Approach for Learning Typed Sentence Rewritings,10.3115/v1/P15-1091,2
+Learning to Mine Query Subtopics from Query Log,10.3115/v1/P15-2056,2
+Constrained Semantic Forests for Improved Discriminative Semantic Parsing,10.3115/v1/P15-2121,2
+"A Data-Driven, Factorization Parser for CCG Dependency Structures",10.3115/v1/P15-1149,2
+Improving distant supervision using inference learning,10.3115/v1/P15-2045,2
+UNRAVEL—A Decipherment Toolkit,10.3115/v1/P15-2090,2
+TR9856: A Multi-word Term Relatedness Benchmark,10.3115/v1/P15-2069,2
+Pre-training of Hidden-Unit CRFs,10.3115/v1/P15-2032,2
+Improving Pivot Translation by Remembering the Pivot,10.3115/v1/P15-2094,2
+BrailleSUM: A News Summarization System for the Blind and Visually Impaired People,10.3115/v1/P15-2095,2
+Tibetan Unknown Word Identification from News Corpora for Supporting Lexicon-based Tibetan Word Segmentation,10.3115/v1/P15-2074,2
+The Discovery of Natural Typing Annotations: User-produced Potential Chinese Word Delimiters,10.3115/v1/P15-2109,1
+A System Demonstration of a Framework for Computer Assisted Pronunciation Training,10.3115/v1/P15-4001,1
+Generative Incremental Dependency Parsing with Neural Networks,10.3115/v1/P15-2142,1
+Labeled Grammar Induction with Minimal Supervision,10.3115/v1/P15-2143,1
+String-to-Tree Multi Bottom-up Tree Transducers,10.3115/v1/P15-1079,1
+Unsupervised Learning and Modeling of Knowledge and Intent for Spoken Dialogue Systems,10.3115/v1/P15-3001,1
+One Tense per Scene: Predicting Tense in Chinese Conversations,10.3115/v1/P15-2110,1
+A Hassle-Free Unsupervised Domain Adaptation Method Using Instance Similarity Features,10.3115/v1/P15-2028,1
+Visual Error Analysis for Entity Linking,10.3115/v1/P15-4007,1
+IMI — A Multilingual Semantic Annotation Environment,10.3115/v1/P15-4002,1
+I do not disagree: leveraging monolingual alignment to detect disagreement in dialogue,10.3115/v1/P15-2016,1
+A Dual-Layer Semantic Role Labeling System,10.3115/v1/P15-4009,1
+OMWEdit - The Integrated Open Multilingual Wordnet Editing System,10.3115/v1/P15-4013,1
+SACRY: Syntax-based Automatic Crossword puzzle Resolution sYstem,10.3115/v1/P15-4014,1
+An Efficient Dynamic Oracle for Unrestricted Non-Projective Parsing,10.3115/v1/P15-2042,1
+A Convolution Kernel Approach to Identifying Comparisons in Text,10.3115/v1/P15-1037,1
+Robust Multi-Relational Clustering via ℓ1-Norm Symmetric Nonnegative Matrix Factorization,10.3115/v1/P15-2065,1
+Synthetic Word Parsing Improves Chinese Word Segmentation,10.3115/v1/P15-2043,1
+Online Multitask Learning for Machine Translation Quality Estimation,10.3115/v1/P15-1022,1
+Corpus Patterns for Semantic Processing,10.3115/v1/P15-5004,1
+Evaluating Machine Translation Systems with Second Language Proficiency Tests,10.3115/v1/P15-2024,1
+Learning Representations for Text-level Discourse Parsing,10.3115/v1/P15-3003,1
+A Hierarchical Knowledge Representation for Expert Finding on Social Media,10.3115/v1/P15-2102,1
+Generating overspecified referring expressions: the role of discrimination,10.3115/v1/P15-2013,1
+Using Tweets to Help Sentence Compression for News Highlights Generation,10.3115/v1/P15-2009,1
+Multiple Many-to-Many Sequence Alignment for Combining String-Valued Variables: A G2P Experiment,10.3115/v1/P15-1088,1
+Identifying Cascading Errors using Constraints in Dependency Parsing,10.3115/v1/P15-1111,1
+Domain-Specific Paraphrase Extraction,10.3115/v1/P15-2010,1
+Tracking unbounded Topic Streams,10.3115/v1/P15-1170,1
+On metric embedding for boosting semantic similarity computations,10.3115/v1/P15-2002,1
+Automatic Detection of Sentence Fragments,10.3115/v1/P15-2099,1
+Reducing infrequent-token perplexity via variational corpora,10.3115/v1/P15-2101,1
+The Impact of Listener Gaze on Predicting Reference Resolution,10.3115/v1/P15-2133,1
+MT Quality Estimation for Computer-assisted Translation: Does it Really Help?,10.3115/v1/P15-2087,1
+Perceptually Grounded Selectional Preferences,10.3115/v1/P15-1092,1
+Learning Hidden Markov Models with Distributed State Representations for Domain Adaptation,10.3115/v1/P15-2086,1
+Using prosodic annotations to improve coreference resolution of spoken text,10.3115/v1/P15-2014,1
+Painless Labeling with Application to Text Mining,10.3115/v1/P15-2066,0
+Parse Imputation for Dependency Annotations,10.3115/v1/P15-1134,0
+WA-Continuum: Visualising Word Alignments across Multiple Parallel Sentences Simultaneously,10.3115/v1/P15-4021,0
+Probing the Linguistic Strengths and Limitations of Unsupervised Grammar Induction,10.3115/v1/P15-1135,0
+Non-projective Dependency-based Pre-Reordering with Recurrent Neural Network for Machine Translation,10.3115/v1/P15-1082,0
+Language Identification and Modeling in Specialized Hardware,10.3115/v1/P15-2063,0
+A Computationally Efficient Algorithm for Learning Topical Collocation Models,10.3115/v1/P15-1141,0
+Successful Data Mining Methods for NLP,10.3115/v1/P15-5001,0
+Structured Belief Propagation for NLP,10.3115/v1/P15-5002,0
+A Data Sharing and Annotation Service Infrastructure,10.3115/v1/P15-4017,0
+A Lexicalized Tree Kernel for Open Information Extraction,10.3115/v1/P15-2046,0
+Scalable Large-Margin Structured Learning: Theory and Algorithms,10.3115/v1/P15-5006,0
+The Users Who Say ‘Ni’: Audience Identification in Chinese-language Restaurant Reviews,10.3115/v1/P15-2052,0
+"Sentiment and Belief: How to Think about, Represent, and Annotate Private States",10.3115/v1/P15-5003,0
+Plug Latent Structures and Play Coreference Resolution,10.3115/v1/P15-4011,0
+Orthogonality of Syntax and Semantics within Distributional Spaces,10.3115/v1/P15-1126,0
+Co-Simmate: Quick Retrieving All Pairwise Co-Simrank Scores,10.3115/v1/P15-2054,0
+Word-based Japanese typed dependency parsing with grammatical function analysis,10.3115/v1/P15-2039,0
+Measuring idiosyncratic interests in children with autism,10.3115/v1/P15-2035,0
+A Web-based Collaborative Evaluation Tool for Automatically Learned Relation Extraction Patterns,10.3115/v1/P15-4008,0
+Parsing Paraphrases with Joint Inference,10.3115/v1/P15-1118,0
+Semantic Role Labeling Improves Incremental Parsing,10.3115/v1/P15-1115,0
+Multi-modal Visualization and Search for Text and Prosody Annotations,10.3115/v1/P15-4005,0
+A Strategic Reasoning Model for Generating Alternative Answers,10.3115/v1/P15-1052,0
+In-tool Learning for Selective Manual Annotation in Large Corpora,10.3115/v1/P15-4003,0
+Feature Selection in Kernel Space: A Case Study on Dependency Parsing,10.3115/v1/P15-1114,0
+Early and Late Combinations of Criteria for Reranking Distributional Thesauri,10.3115/v1/P15-2077,0
+Zoom: a corpus of natural language descriptions of map locations,10.3115/v1/P15-2012,0
+Efficient Learning for Undirected Topic Models,10.3115/v1/P15-2027,0
+Leveraging Compounds to Improve Noun Phrase Translation from Chinese and German,10.3115/v1/P15-3002,0
+What You Need to Know about Chinese for Chinese Language Processing,10.3115/v1/P15-5008,0

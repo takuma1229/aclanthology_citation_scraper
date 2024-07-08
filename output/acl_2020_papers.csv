@@ -1,0 +1,1241 @@
+Title,DOI,Citations
+"BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",10.18653/v1/2020.acl-main.703,1850
+Unsupervised Cross-lingual Representation Learning at Scale,10.18653/v1/2020.acl-main.747,948
+Stanza: A Python Natural Language Processing Toolkit for Many Human Languages,10.18653/v1/2020.acl-demos.14,403
+Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks,10.18653/v1/2020.acl-main.740,385
+Quantifying Attention Flow in Transformers,10.18653/v1/2020.acl-main.385,279
+Relational Graph Attention Network for Aspect-based Sentiment Analysis,10.18653/v1/2020.acl-main.295,255
+A Novel Cascade Binary Tagging Framework for Relational Triple Extraction,10.18653/v1/2020.acl-main.136,251
+DIALOGPT : Large-Scale Generative Pre-training for Conversational Response Generation,10.18653/v1/2020.acl-demos.30,241
+"Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data",10.18653/v1/2020.acl-main.463,222
+CamemBERT: a Tasty French Language Model,10.18653/v1/2020.acl-main.645,221
+A Unified MRC Framework for Named Entity Recognition,10.18653/v1/2020.acl-main.519,212
+FLAT: Chinese NER Using Flat-Lattice Transformer,10.18653/v1/2020.acl-main.611,203
+GoEmotions: A Dataset of Fine-Grained Emotions,10.18653/v1/2020.acl-main.372,194
+Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings,10.18653/v1/2020.acl-main.412,191
+GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media,10.18653/v1/2020.acl-main.48,187
+Integrating Multimodal Information in Large Pretrained Transformers,10.18653/v1/2020.acl-main.214,187
+Language (Technology) is Power: A Critical Survey of “Bias” in NLP,10.18653/v1/2020.acl-main.485,184
+MIND: A Large-scale Dataset for News Recommendation,10.18653/v1/2020.acl-main.331,178
+A Transformer-based Approach for Source Code Summarization,10.18653/v1/2020.acl-main.449,177
+Dice Loss for Data-imbalanced NLP Tasks,10.18653/v1/2020.acl-main.45,177
+Beyond Accuracy: Behavioral Testing of NLP Models with CheckList,10.18653/v1/2020.acl-main.442,176
+MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices,10.18653/v1/2020.acl-main.195,168
+Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification,10.18653/v1/2020.acl-main.588,162
+Extractive Summarization as Text Matching,10.18653/v1/2020.acl-main.552,150
+Named Entity Recognition as Dependency Parsing,10.18653/v1/2020.acl-main.577,147
+BLEURT: Learning Robust Metrics for Text Generation,10.18653/v1/2020.acl-main.704,145
+Low-Dimensional Hyperbolic Knowledge Graph Embeddings,10.18653/v1/2020.acl-main.617,142
+On Faithfulness and Factuality in Abstractive Summarization,10.18653/v1/2020.acl-main.173,141
+Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks,10.18653/v1/2020.acl-main.31,135
+Heterogeneous Graph Neural Networks for Extractive Document Summarization,10.18653/v1/2020.acl-main.553,128
+Simplify the Usage of Lexicon in Chinese NER,10.18653/v1/2020.acl-main.528,127
+CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality,10.18653/v1/2020.acl-main.343,122
+TaPas: Weakly Supervised Table Parsing via Pre-training,10.18653/v1/2020.acl-main.398,122
+S2ORC: The Semantic Scholar Open Research Corpus,10.18653/v1/2020.acl-main.447,120
+RAT-SQL: Relation-Aware Schema Encoding and Linking for Text-to-SQL Parsers,10.18653/v1/2020.acl-main.677,116
+SPECTER: Document-level Representation Learning using Citation-informed Transformers,10.18653/v1/2020.acl-main.207,113
+Word-level Textual Adversarial Attacking as Combinatorial Optimization,10.18653/v1/2020.acl-main.540,111
+Span-based Localizing Network for Natural Language Video Localization,10.18653/v1/2020.acl-main.585,110
+How Does NLP Benefit Legal System: A Summary of Legal Artificial Intelligence,10.18653/v1/2020.acl-main.466,107
+Reasoning with Latent Structure Refinement for Document-Level Relation Extraction,10.18653/v1/2020.acl-main.141,105
+MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification,10.18653/v1/2020.acl-main.194,102
+Multilingual Universal Sentence Encoder for Semantic Retrieval,10.18653/v1/2020.acl-demos.12,100
+Towards Faithfully Interpretable NLP Systems: How Should We Define and Evaluate Faithfulness?,10.18653/v1/2020.acl-main.386,99
+HAT: Hardware-Aware Transformers for Efficient Natural Language Processing,10.18653/v1/2020.acl-main.686,99
+TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data,10.18653/v1/2020.acl-main.745,96
+FastBERT: a Self-distilling BERT with Adaptive Inference Time,10.18653/v1/2020.acl-main.537,95
+SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis,10.18653/v1/2020.acl-main.374,93
+A Joint Neural Model for Information Extraction with Global Features,10.18653/v1/2020.acl-main.713,92
+The State and Fate of Linguistic Diversity and Inclusion in the NLP World,10.18653/v1/2020.acl-main.560,91
+Spelling Error Correction with Soft-Masked BERT,10.18653/v1/2020.acl-main.82,89
+GAN-BERT: Generative Adversarial Learning for Robust Text Classification with a Bunch of Labeled Examples,10.18653/v1/2020.acl-main.191,88
+Modelling Context and Syntactical Features for Aspect-based Sentiment Analysis,10.18653/v1/2020.acl-main.293,87
+MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning,10.18653/v1/2020.acl-main.233,84
+Compressing BERT: Studying the Effects of Weight Pruning on Transfer Learning,10.18653/v1/2020.repl4nlp-1.18,84
+Discourse-Aware Neural Extractive Text Summarization,10.18653/v1/2020.acl-main.451,84
+SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization,10.18653/v1/2020.acl-main.197,83
+Adversarial and Domain-Aware BERT for Cross-Domain Sentiment Analysis,10.18653/v1/2020.acl-main.370,83
+ERASER: A Benchmark to Evaluate Rationalized NLP Models,10.18653/v1/2020.acl-main.408,83
+Query Graph Generation for Answering Multi-hop Complex Questions from Knowledge Bases,10.18653/v1/2020.acl-main.91,83
+On the Cross-lingual Transferability of Monolingual Representations,10.18653/v1/2020.acl-main.421,81
+Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer,10.18653/v1/2020.acl-main.306,78
+Adversarial NLI: A New Benchmark for Natural Language Understanding,10.18653/v1/2020.acl-main.441,78
+DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference,10.18653/v1/2020.acl-main.204,77
+SpanMlt: A Span-based Multi-Task Learning Framework for Pair-wise Aspect and Opinion Terms Extraction,10.18653/v1/2020.acl-main.296,75
+Fine-grained Interest Matching for Neural News Recommendation,10.18653/v1/2020.acl-main.77,74
+Masked Language Model Scoring,10.18653/v1/2020.acl-main.240,72
+Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis,10.18653/v1/2020.acl-main.340,72
+tBERT: Topic Models and BERT Joining Forces for Semantic Similarity Detection,10.18653/v1/2020.acl-main.630,72
+Graph Neural News Recommendation with Unsupervised Preference Disentanglement,10.18653/v1/2020.acl-main.392,70
+Weight Poisoning Attacks on Pretrained Models,10.18653/v1/2020.acl-main.249,70
+TVQA+: Spatio-Temporal Grounding for Video Question Answering,10.18653/v1/2020.acl-main.730,66
+"ECPE-2D: Emotion-Cause Pair Extraction based on Joint Two-Dimensional Representation, Interaction and Prediction",10.18653/v1/2020.acl-main.288,66
+PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable,10.18653/v1/2020.acl-main.9,64
+Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction,10.18653/v1/2020.acl-main.289,64
+Social Biases in NLP Models as Barriers for Persons with Disabilities,10.18653/v1/2020.acl-main.487,64
+Efficient Intent Detection with Dual Sentence Encoders,10.18653/v1/2020.nlp4convai-1.5,64
+MOOCCube: A Large-scale Data Repository for NLP Applications in MOOCs,10.18653/v1/2020.acl-main.285,63
+Neighborhood Matching Network for Entity Alignment,10.18653/v1/2020.acl-main.578,62
+Towards Conversational Recommendation over Multi-Type Dialogs,10.18653/v1/2020.acl-main.98,62
+Pretrained Transformers Improve Out-of-Distribution Robustness,10.18653/v1/2020.acl-main.244,62
+"Sentiment and Emotion help Sarcasm? A Multi-task Learning Framework for Multi-Modal Sarcasm, Sentiment and Emotion Analysis",10.18653/v1/2020.acl-main.401,61
+SentiBERT: A Transferable Transformer-Based Architecture for Compositional Sentiment Semantics,10.18653/v1/2020.acl-main.341,61
+MLQA: Evaluating Cross-lingual Extractive Question Answering,10.18653/v1/2020.acl-main.653,61
+Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?,10.18653/v1/2020.acl-main.491,59
+Transition-based Directed Graph Construction for Emotion-Cause Pair Extraction,10.18653/v1/2020.acl-main.342,59
+Hierarchy-Aware Global Model for Hierarchical Text Classification,10.18653/v1/2020.acl-main.104,58
+Multimodal Transformer for Multimodal Machine Translation,10.18653/v1/2020.acl-main.400,57
+Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward,10.18653/v1/2020.acl-main.457,57
+Distinguish Confusing Law Articles for Legal Judgment Prediction,10.18653/v1/2020.acl-main.280,56
+Synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction,10.18653/v1/2020.acl-main.582,56
+Efficient Dialogue State Tracking by Selectively Overwriting Memory,10.18653/v1/2020.acl-main.53,56
+Pyramid: A Layered Model for Nested Named Entity Recognition,10.18653/v1/2020.acl-main.525,56
+"GECToR – Grammatical Error Correction: Tag, Not Rewrite",10.18653/v1/2020.bea-1.16,55
+Few-shot Slot Tagging with Collapsed Dependency Transfer and Label-enhanced Task-adaptive Projection Network,10.18653/v1/2020.acl-main.128,55
+Graph-to-Tree Learning for Solving Math Word Problems,10.18653/v1/2020.acl-main.362,54
+exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformer Models,10.18653/v1/2020.acl-demos.22,53
+Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview,10.18653/v1/2020.acl-main.468,53
+A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation,10.18653/v1/2020.acl-main.273,53
+Representation Learning for Information Extraction from Form-like Documents,10.18653/v1/2020.acl-main.580,52
+That is a Known Lie: Detecting Previously Fact-Checked Claims,10.18653/v1/2020.acl-main.332,50
+You Impress Me: Dialogue Generation via Mutual Persona Perception,10.18653/v1/2020.acl-main.131,49
+Distilling Knowledge Learned in BERT for Text Generation,10.18653/v1/2020.acl-main.705,49
+A Re-evaluation of Knowledge Graph Completion Methods,10.18653/v1/2020.acl-main.489,49
+SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check,10.18653/v1/2020.acl-main.81,49
+End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2,10.18653/v1/2020.acl-main.54,49
+BPE-Dropout: Simple and Effective Subword Regularization,10.18653/v1/2020.acl-main.170,48
+HyperCore: Hyperbolic and Co-graph Representation for Automatic ICD Coding,10.18653/v1/2020.acl-main.282,48
+Enhancing Cross-target Stance Detection with Transferable Semantic-Emotion Knowledge,10.18653/v1/2020.acl-main.291,48
+Improving Massively Multilingual Neural Machine Translation and Zero-Shot Translation,10.18653/v1/2020.acl-main.148,47
+Automatic Detection of Generated Text is Easiest when Humans are Fooled,10.18653/v1/2020.acl-main.164,47
+Fine-grained Fact Verification with Kernel Graph Attention Network,10.18653/v1/2020.acl-main.655,46
+A Transformer-based joint-encoding for Emotion Recognition and Sentiment Analysis,10.18653/v1/2020.challengehml-1.1,45
+Generating Fact Checking Explanations,10.18653/v1/2020.acl-main.656,45
+Leveraging Graph to Improve Abstractive Multi-Document Summarization,10.18653/v1/2020.acl-main.555,44
+Aligned Dual Channel Graph Convolutional Network for Visual Question Answering,10.18653/v1/2020.acl-main.642,44
+Code and Named Entity Recognition in StackOverflow,10.18653/v1/2020.acl-main.443,44
+Reasoning with Multimodal Sarcastic Tweets via Modeling Cross-Modality Contrast and Semantic Association,10.18653/v1/2020.acl-main.349,44
+Are All Languages Created Equal in Multilingual BERT?,10.18653/v1/2020.repl4nlp-1.16,44
+Diverse and Informative Dialogue Generation with Context-Specific Commonsense Knowledge Awareness,10.18653/v1/2020.acl-main.515,43
+"Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly",10.18653/v1/2020.acl-main.698,43
+Learning to Deceive with Attention-Based Explanations,10.18653/v1/2020.acl-main.432,42
+Improving Event Detection via Open-domain Trigger Knowledge,10.18653/v1/2020.acl-main.522,42
+KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation,10.18653/v1/2020.acl-main.635,41
+An Empirical Study of Multi-Task Learning on BERT for Biomedical Text Mining,10.18653/v1/2020.bionlp-1.22,41
+SciREX: A Challenge Dataset for Document-Level Information Extraction,10.18653/v1/2020.acl-main.670,41
+What Does BERT with Vision Look At?,10.18653/v1/2020.acl-main.469,41
+Should You Fine-Tune BERT for Automated Essay Scoring?,10.18653/v1/2020.bea-1.15,41
+Multilogue-Net: A Context-Aware RNN for Multi-modal Emotion Detection and Sentiment Analysis in Conversation,10.18653/v1/2020.challengehml-1.3,41
+Biomedical Entity Representations with Synonym Marginalization,10.18653/v1/2020.acl-main.335,41
+Reasoning Over Semantic-Level Graph for Fact Checking,10.18653/v1/2020.acl-main.549,40
+Curriculum Learning for Natural Language Understanding,10.18653/v1/2020.acl-main.542,40
+MultiWOZ 2.2 : A Dialogue Dataset with Additional Annotation Corrections and State Tracking Baselines,10.18653/v1/2020.nlp4convai-1.13,40
+FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization,10.18653/v1/2020.acl-main.454,39
+Asking and Answering Questions to Evaluate the Factual Consistency of Summaries,10.18653/v1/2020.acl-main.450,39
+ESPnet-ST: All-in-One Speech Translation Toolkit,10.18653/v1/2020.acl-demos.34,38
+Breaking Through the 80% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information,10.18653/v1/2020.acl-main.255,38
+Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding,10.18653/v1/2020.acl-main.714,38
+Social Bias Frames: Reasoning about Social and Power Implications of Language,10.18653/v1/2020.acl-main.486,37
+Injecting Numerical Reasoning Skills into Language Models,10.18653/v1/2020.acl-main.89,37
+Intermediate-Task Transfer Learning with Pretrained Language Models: When and Why Does It Work?,10.18653/v1/2020.acl-main.467,37
+Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs,10.18653/v1/2020.acl-main.184,37
+Conditional Augmentation for Aspect Term Extraction via Masked Sequence-to-Sequence Generation,10.18653/v1/2020.acl-main.631,37
+Syntactic Data Augmentation Increases Robustness to Inference Heuristics,10.18653/v1/2020.acl-main.212,37
+An Effective Transition-based Model for Discontinuous NER,10.18653/v1/2020.acl-main.520,36
+Feature Projection for Improved Text Classification,10.18653/v1/2020.acl-main.726,36
+Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT,10.18653/v1/2020.acl-main.383,36
+Neural Topic Modeling with Bidirectional Adversarial Training,10.18653/v1/2020.acl-main.32,35
+Improving Image Captioning with Better Use of Caption,10.18653/v1/2020.acl-main.664,35
+Encoder-Decoder Models Can Benefit from Pre-trained Masked Language Models in Grammatical Error Correction,10.18653/v1/2020.acl-main.391,35
+Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection,10.18653/v1/2020.acl-main.647,35
+Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports,10.18653/v1/2020.acl-main.458,34
+Multi-Granularity Interaction Network for Extractive and Abstractive Multi-Document Summarization,10.18653/v1/2020.acl-main.556,34
+Analysing Lexical Semantic Change with Contextualised Word Representations,10.18653/v1/2020.acl-main.365,34
+Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding,10.18653/v1/2020.acl-main.241,33
+Zero-shot Text Classification via Reinforced Self-training,10.18653/v1/2020.acl-main.272,33
+Politeness Transfer: A Tag and Generate Approach,10.18653/v1/2020.acl-main.169,33
+CorefQA: Coreference Resolution as Query-based Span Prediction,10.18653/v1/2020.acl-main.622,32
+Enabling Language Models to Fill in the Blanks,10.18653/v1/2020.acl-main.225,32
+NILE : Natural Language Inference with Faithful Natural Language Explanations,10.18653/v1/2020.acl-main.771,32
+Connecting Embeddings for Knowledge Graph Entity Typing,10.18653/v1/2020.acl-main.572,32
+Aspect Sentiment Classification with Document-level Sentiment Preference Modeling,10.18653/v1/2020.acl-main.338,32
+Dialogue-Based Relation Extraction,10.18653/v1/2020.acl-main.444,32
+KinGDOM: Knowledge-Guided DOMain Adaptation for Sentiment Analysis,10.18653/v1/2020.acl-main.292,32
+CDL: Curriculum Dual Learning for Emotion-Controllable Response Generation,10.18653/v1/2020.acl-main.52,32
+Named Entity Recognition without Labelled Data: A Weak Supervision Approach,10.18653/v1/2020.acl-main.139,32
+Dynamic Memory Induction Networks for Few-Shot Text Classification,10.18653/v1/2020.acl-main.102,32
+Bipartite Flat-Graph Network for Nested Named Entity Recognition,10.18653/v1/2020.acl-main.571,31
+Multi-Sentence Argument Linking,10.18653/v1/2020.acl-main.718,31
+Contextualized Weak Supervision for Text Classification,10.18653/v1/2020.acl-main.30,31
+A Systematic Assessment of Syntactic Generalization in Neural Language Models,10.18653/v1/2020.acl-main.158,31
+ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding,10.18653/v1/2020.acl-main.526,31
+SenseBERT: Driving Some Sense into BERT,10.18653/v1/2020.acl-main.423,31
+Cross-media Structured Common Space for Multimedia Event Extraction,10.18653/v1/2020.acl-main.230,31
+How Can We Accelerate Progress Towards Human-like Linguistic Generalization?,10.18653/v1/2020.acl-main.465,31
+Predicting the Topical Stance and Political Leaning of Media using Tweets,10.18653/v1/2020.acl-main.50,31
+Towards Emotion-aided Multi-modal Dialogue Act Classification,10.18653/v1/2020.acl-main.402,31
+Coach: A Coarse-to-Fine Approach for Cross-domain Slot Filling,10.18653/v1/2020.acl-main.3,30
+Low Rank Fusion based Transformers for Multimodal Sequences,10.18653/v1/2020.challengehml-1.4,30
+Joint Modelling of Emotion and Abusive Language Detection,10.18653/v1/2020.acl-main.394,30
+Linguistic Features for Readability Assessment,10.18653/v1/2020.bea-1.1,30
+Towards Transparent and Explainable Attention Models,10.18653/v1/2020.acl-main.387,30
+Mapping Natural Language Instructions to Mobile UI Action Sequences,10.18653/v1/2020.acl-main.729,29
+Unknown Intent Detection Using Gaussian Mixture Model with an Application to Zero-shot Intent Classification,10.18653/v1/2020.acl-main.99,29
+Will-They-Won’t-They: A Very Large Dataset for Stance Detection on Twitter,10.18653/v1/2020.acl-main.157,29
+Can You Put it All Together: Evaluating Conversational Agents’ Ability to Blend Skills,10.18653/v1/2020.acl-main.183,29
+"Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation",10.18653/v1/2020.acl-main.516,29
+One Size Does Not Fit All: Generating and Evaluating Variable Number of Keyphrases,10.18653/v1/2020.acl-main.710,29
+Unsupervised Domain Clusters in Pretrained Language Models,10.18653/v1/2020.acl-main.692,28
+Interpreting Pretrained Contextualized Representations via Reductions to Static Embeddings,10.18653/v1/2020.acl-main.431,28
+Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog,10.18653/v1/2020.acl-main.565,28
+Self-Attention Guided Copy Mechanism for Abstractive Summarization,10.18653/v1/2020.acl-main.125,28
+Unsupervised Opinion Summarization as Copycat-Review Generation,10.18653/v1/2020.acl-main.461,28
+TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition,10.18653/v1/2020.acl-main.752,27
+Toxicity Detection: Does Context Really Matter?,10.18653/v1/2020.acl-main.396,27
+OpinionDigest: A Simple Framework for Opinion Summarization,10.18653/v1/2020.acl-main.513,27
+Learning to Update Natural Language Comments Based on Code Changes,10.18653/v1/2020.acl-main.168,27
+Logical Natural Language Generation from Open-Domain Tables,10.18653/v1/2020.acl-main.708,27
+Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics,10.18653/v1/2020.acl-main.448,27
+Emerging Cross-lingual Structure in Pretrained Language Models,10.18653/v1/2020.acl-main.536,27
+TACRED Revisited: A Thorough Evaluation of the TACRED Relation Extraction Task,10.18653/v1/2020.acl-main.142,26
+Cross-Lingual Semantic Role Labeling with High-Quality Translated Training Corpus,10.18653/v1/2020.acl-main.627,26
+It’s Morphin’ Time! Combating Linguistic Discrimination with Inflectional Perturbations,10.18653/v1/2020.acl-main.263,26
+Improved Speech Representations with Multi-Target Autoregressive Predictive Coding,10.18653/v1/2020.acl-main.213,26
+A Batch Normalized Inference Network Keeps the KL Vanishing Away,10.18653/v1/2020.acl-main.235,26
+The Right Tool for the Job: Matching Model and Instance Complexities,10.18653/v1/2020.acl-main.593,26
+Contextual Embeddings: When Are They Worth It?,10.18653/v1/2020.acl-main.236,26
+Improving Chinese Word Segmentation with Wordhood Memory Networks,10.18653/v1/2020.acl-main.734,26
+A Multi-Perspective Architecture for Semantic Code Search,10.18653/v1/2020.acl-main.758,26
+Text and Causal Inference: A Review of Using Text to Remove Confounding from Causal Estimates,10.18653/v1/2020.acl-main.474,26
+Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation,10.18653/v1/2020.acl-main.224,25
+Contextual and Non-Contextual Word Embeddings: an in-depth Linguistic Investigation,10.18653/v1/2020.repl4nlp-1.15,25
+Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions,10.18653/v1/2020.acl-main.492,25
+An Online Semantic-enhanced Dirichlet Model for Short Text Stream Clustering,10.18653/v1/2020.acl-main.70,25
+Semantic Graphs for Generating Deep Questions,10.18653/v1/2020.acl-main.135,24
+Finding Universal Grammatical Relations in Multilingual BERT,10.18653/v1/2020.acl-main.493,24
+Document Modeling with Graph Attention Networks for Multi-grained Machine Reading Comprehension,10.18653/v1/2020.acl-main.599,24
+Towards Debiasing Sentence Representations,10.18653/v1/2020.acl-main.488,24
+"ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems",10.18653/v1/2020.acl-demos.19,24
+History for Visual Dialog: Do we really need it?,10.18653/v1/2020.acl-main.728,24
+Understanding Attention for Text Classification,10.18653/v1/2020.acl-main.312,24
+NeuInfer: Knowledge Inference on N-ary Facts,10.18653/v1/2020.acl-main.546,24
+Reducing Gender Bias in Neural Machine Translation as a Domain Adaptation Problem,10.18653/v1/2020.acl-main.690,24
+BEEP! Korean Corpus of Online News Comments for Toxic Speech Detection,10.18653/v1/2020.socialnlp-1.4,24
+Few-Shot NLG with Pre-Trained Language Model,10.18653/v1/2020.acl-main.18,24
+Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models,10.18653/v1/2020.acl-main.439,23
+Paraphrase Augmented Task-Oriented Dialog Generation,10.18653/v1/2020.acl-main.60,23
+SUPERT: Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization,10.18653/v1/2020.acl-main.124,23
+ParaCrawl: Web-Scale Acquisition of Parallel Corpora,10.18653/v1/2020.acl-main.417,23
+Enhancing Machine Translation with Dependency-Aware Self-Attention,10.18653/v1/2020.acl-main.147,23
+What Was Written vs. Who Read It: News Media Profiling Using Text Analysis and Social Media Context,10.18653/v1/2020.acl-main.308,23
+Generating Informative Conversational Response using Recurrent Knowledge-Interaction and Knowledge-Copy,10.18653/v1/2020.acl-main.6,23
+Multi-Cell Compositional LSTM for NER Domain Adaptation,10.18653/v1/2020.acl-main.524,23
+Neural CRF Model for Sentence Alignment in Text Simplification,10.18653/v1/2020.acl-main.709,23
+Incorporating External Knowledge through Pre-training for Natural Language to Code Generation,10.18653/v1/2020.acl-main.538,23
+Embarrassingly Simple Unsupervised Aspect Extraction,10.18653/v1/2020.acl-main.290,22
+Open-Domain Question Answering,10.18653/v1/2020.acl-tutorials.8,22
+Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?,10.18653/v1/2020.acl-main.419,22
+A Monolingual Approach to Contextualized Word Embeddings for Mid-Resource Languages,10.18653/v1/2020.acl-main.156,22
+Heterogeneous Graph Transformer for Graph-to-Sequence Learning,10.18653/v1/2020.acl-main.640,22
+Contextualizing Hate Speech Classifiers with Post-hoc Explanation,10.18653/v1/2020.acl-main.483,22
+Commonsense Reasoning for Natural Language Processing,10.18653/v1/2020.acl-tutorials.7,22
+KLEJ: Comprehensive Benchmark for Polish Language Understanding,10.18653/v1/2020.acl-main.111,22
+GAIA: A Fine-grained Multimedia Knowledge Extraction System,10.18653/v1/2020.acl-demos.11,22
+A negative case analysis of visual grounding methods for VQA,10.18653/v1/2020.acl-main.727,22
+Demoting Racial Bias in Hate Speech Detection,10.18653/v1/2020.socialnlp-1.2,22
+AdvAug: Robust Adversarial Augmentation for Neural Machine Translation,10.18653/v1/2020.acl-main.529,22
+Multimodal and Multiresolution Speech Recognition with Transformers,10.18653/v1/2020.acl-main.216,22
+USR: An Unsupervised and Reference Free Evaluation Metric for Dialog Generation,10.18653/v1/2020.acl-main.64,22
+The SOFC-Exp Corpus and Neural Approaches to Information Extraction in the Materials Science Domain,10.18653/v1/2020.acl-main.116,22
+DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering,10.18653/v1/2020.acl-main.411,22
+Moving Down the Long Tail of Word Sense Disambiguation with Gloss Informed Bi-encoders,10.18653/v1/2020.acl-main.95,22
+Comparative Analysis of Text Classification Approaches in Electronic Health Records,10.18653/v1/2020.bionlp-1.9,21
+Neural Graph Matching Networks for Chinese Short Text Matching,10.18653/v1/2020.acl-main.547,21
+MuTual: A Dataset for Multi-Turn Dialogue Reasoning,10.18653/v1/2020.acl-main.130,21
+Image-Chat: Engaging Grounded Conversations,10.18653/v1/2020.acl-main.219,21
+Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation,10.18653/v1/2020.acl-main.166,21
+Continual Relation Learning via Episodic Memory Activation and Reconsolidation,10.18653/v1/2020.acl-main.573,21
+Context-Aware Sarcasm Detection Using BERT,10.18653/v1/2020.figlang-1.12,21
+Extensively Matching for Few-shot Learning Event Detection,10.18653/v1/2020.nuse-1.5,21
+[RETRACTED] A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking,10.18653/v1/2020.acl-main.563,21
+Generating Hierarchical Explanations on Text Classification via Feature Interaction Detection,10.18653/v1/2020.acl-main.494,21
+Uncertainty-Aware Curriculum Learning for Neural Machine Translation,10.18653/v1/2020.acl-main.620,21
+Curriculum Pre-training for End-to-End Speech Translation,10.18653/v1/2020.acl-main.344,21
+Robust Encodings: A Framework for Combating Adversarial Typos,10.18653/v1/2020.acl-main.245,21
+Learning to Faithfully Rationalize by Construction,10.18653/v1/2020.acl-main.409,20
+Generating Counter Narratives against Online Hate Speech: Data and Strategies,10.18653/v1/2020.acl-main.110,20
+Does Multi-Encoder Help? A Case Study on Context-Aware Neural Machine Translation,10.18653/v1/2020.acl-main.322,20
+SimulSpeech: End-to-End Simultaneous Speech to Text Translation,10.18653/v1/2020.acl-main.350,20
+DTCA: Decision Tree-based Co-Attention Networks for Explainable Claim Verification,10.18653/v1/2020.acl-main.97,20
+From Arguments to Key Points: Towards Automatic Argument Summarization,10.18653/v1/2020.acl-main.371,20
+Jointly Masked Sequence-to-Sequence Model for Non-Autoregressive Neural Machine Translation,10.18653/v1/2020.acl-main.36,20
+DeepMet: A Reading Comprehension Paradigm for Token-level Metaphor Detection,10.18653/v1/2020.figlang-1.4,20
+Sarcasm Detection Using an Ensemble Approach,10.18653/v1/2020.figlang-1.36,20
+Selective Question Answering under Domain Shift,10.18653/v1/2020.acl-main.503,20
+Speech Translation and the End-to-End Promise: Taking Stock of Where We Are,10.18653/v1/2020.acl-main.661,19
+MIE: A Medical Information Extractor towards Medical Dialogues,10.18653/v1/2020.acl-main.576,19
+Exclusive Hierarchical Decoding for Deep Keyphrase Generation,10.18653/v1/2020.acl-main.103,19
+A Study of Non-autoregressive Model for Sequence Generation,10.18653/v1/2020.acl-main.15,19
+A Two-Step Approach for Implicit Event Argument Detection,10.18653/v1/2020.acl-main.667,19
+A Simple and Effective Unified Encoder for Document-Level Machine Translation,10.18653/v1/2020.acl-main.321,19
+BabyWalk: Going Farther in Vision-and-Language Navigation by Taking Baby Steps,10.18653/v1/2020.acl-main.229,19
+A Large-Scale Multi-Document Summarization Dataset from the Wikipedia Current Events Portal,10.18653/v1/2020.acl-main.120,19
+A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers,10.18653/v1/2020.acl-main.92,19
+Norm-Based Curriculum Learning for Neural Machine Translation,10.18653/v1/2020.acl-main.41,19
+"Simple, Interpretable and Stable Method for Detecting Words with Usage Change across Corpora",10.18653/v1/2020.acl-main.51,19
+SAFER: A Structure-free Approach for Certified Robustness to Adversarial Word Substitutions,10.18653/v1/2020.acl-main.317,18
+Improving Entity Linking through Semantic Reinforced Entity Embeddings,10.18653/v1/2020.acl-main.612,18
+End-to-End Bias Mitigation by Modelling Biases in Corpora,10.18653/v1/2020.acl-main.769,18
+CluHTM - Semantic Hierarchical Topic Modeling based on CluWords,10.18653/v1/2020.acl-main.724,18
+Jointly Learning to Align and Summarize for Neural Cross-Lingual Summarization,10.18653/v1/2020.acl-main.554,18
+Dialogue State Tracking with Explicit Slot Connection Modeling,10.18653/v1/2020.acl-main.5,18
+TXtract: Taxonomy-Aware Knowledge Extraction for Thousands of Product Categories,10.18653/v1/2020.acl-main.751,18
+Revisiting Unsupervised Relation Extraction,10.18653/v1/2020.acl-main.669,18
+"Attend, Translate and Summarize: An Efficient Method for Neural Cross-Lingual Summarization",10.18653/v1/2020.acl-main.121,18
+Towards Interpretable Clinical Diagnosis with Bayesian Network Ensembles Stacked on Entity-Aware CNNs,10.18653/v1/2020.acl-main.286,18
+Information-Theoretic Probing for Linguistic Structure,10.18653/v1/2020.acl-main.420,18
+Stance Prediction and Claim Verification: An Arabic Perspective,10.18653/v1/2020.fever-1.2,17
+Contrastive Self-Supervised Learning for Commonsense Reasoning,10.18653/v1/2020.acl-main.671,17
+Generalizing Natural Language Analysis through Span-relation Representations,10.18653/v1/2020.acl-main.192,17
+IMoJIE: Iterative Memory-Based Joint Open Information Extraction,10.18653/v1/2020.acl-main.521,17
+Empower Entity Set Expansion via Language Model Probing,10.18653/v1/2020.acl-main.725,17
+Pre-training Is (Almost) All You Need: An Application to Commonsense Reasoning,10.18653/v1/2020.acl-main.357,17
+Don’t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training,10.18653/v1/2020.acl-main.428,17
+Generating Medical Reports from Patient-Doctor Conversations Using Sequence-to-Sequence Models,10.18653/v1/2020.nlpmc-1.4,17
+Zero-Resource Cross-Domain Named Entity Recognition,10.18653/v1/2020.repl4nlp-1.1,17
+Detecting Sarcasm in Conversation Context Using Transformer-Based Models,10.18653/v1/2020.figlang-1.15,17
+A Joint Model for Document Segmentation and Segment Labeling,10.18653/v1/2020.acl-main.29,17
+SAS: Dialogue State Tracking via Slot Attention and Slot Information Sharing,10.18653/v1/2020.acl-main.567,17
+Hierarchical Modeling for User Personality Prediction: The Role of Message-Level Attention,10.18653/v1/2020.acl-main.472,17
+Parallel Data Augmentation for Formality Style Transfer,10.18653/v1/2020.acl-main.294,17
+Cross-modal Coherence Modeling for Caption Generation,10.18653/v1/2020.acl-main.583,17
+Span Selection Pre-training for Question Answering,10.18653/v1/2020.acl-main.247,17
+GPT-too: A Language-Model-First Approach for AMR-to-Text Generation,10.18653/v1/2020.acl-main.167,17
+Unsupervised Opinion Summarization with Noising and Denoising,10.18653/v1/2020.acl-main.175,16
+Iterative Edit-Based Unsupervised Sentence Simplification,10.18653/v1/2020.acl-main.707,16
+Meta-Transfer Learning for Code-Switched Speech Recognition,10.18653/v1/2020.acl-main.348,16
+A Generate-and-Rank Framework with Semantic Type Regularization for Biomedical Concept Normalization,10.18653/v1/2020.acl-main.748,16
+TransS-Driven Joint Learning Architecture for Implicit Discourse Relation Recognition,10.18653/v1/2020.acl-main.14,16
+Toward Gender-Inclusive Coreference Resolution,10.18653/v1/2020.acl-main.418,16
+GLUECoS: An Evaluation Benchmark for Code-Switched NLP,10.18653/v1/2020.acl-main.329,16
+Good-Enough Compositional Data Augmentation,10.18653/v1/2020.acl-main.676,16
+Joint Chinese Word Segmentation and Part-of-speech Tagging via Two-way Attentions of Auto-analyzed Knowledge,10.18653/v1/2020.acl-main.735,16
+A Reinforced Generation of Adversarial Examples for Neural Machine Translation,10.18653/v1/2020.acl-main.319,16
+Unsupervised FAQ Retrieval with Question Generation and BERT,10.18653/v1/2020.acl-main.74,16
+iSarcasm: A Dataset of Intended Sarcasm,10.18653/v1/2020.acl-main.118,16
+Efficient Second-Order TreeCRF for Neural Dependency Parsing,10.18653/v1/2020.acl-main.302,16
+Mind the Trade-off: Debiasing NLU Models without Degrading the In-distribution Performance,10.18653/v1/2020.acl-main.770,16
+Improving Transformer Models by Reordering their Sublayers,10.18653/v1/2020.acl-main.270,16
+Unsupervised Paraphrasing by Simulated Annealing,10.18653/v1/2020.acl-main.28,16
+A Novel Hierarchical BERT Architecture for Sarcasm Detection,10.18653/v1/2020.figlang-1.14,15
+Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation,10.18653/v1/2020.acl-main.484,15
+Multi-Agent Task-Oriented Dialog Policy Learning with Role-Aware Reward Decomposition,10.18653/v1/2020.acl-main.59,15
+Temporal Common Sense Acquisition with Minimal Supervision,10.18653/v1/2020.acl-main.678,15
+Logic-Guided Data Augmentation and Regularization for Consistent Question Answering,10.18653/v1/2020.acl-main.499,15
+Robust Prediction of Punctuation and Truecasing for Medical ASR,10.18653/v1/2020.nlpmc-1.8,15
+The Cascade Transformer: an Application for Efficient Answer Sentence Selection,10.18653/v1/2020.acl-main.504,15
+Demographics Should Not Be the Reason of Toxicity: Mitigating Discrimination in Text Classifications with Instance Weighting,10.18653/v1/2020.acl-main.380,15
+Efficient Automatic Punctuation Restoration Using Bidirectional Transformers with Robust Inference,10.18653/v1/2020.iwslt-1.33,15
+Cross-Lingual Unsupervised Sentiment Classification with Multi-View Transfer Learning,10.18653/v1/2020.acl-main.510,15
+Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA,10.18653/v1/2020.acl-main.435,15
+A Prioritization Model for Suicidality Risk Assessment,10.18653/v1/2020.acl-main.723,15
+[RETRACTED] Syn-QG: Syntactic and Shallow Semantic Rules for Question Generation,10.18653/v1/2020.acl-main.69,15
+SEEK: Segmented Embedding of Knowledge Graphs,10.18653/v1/2020.acl-main.358,15
+Neural Syntactic Preordering for Controlled Paraphrase Generation,10.18653/v1/2020.acl-main.22,15
+Tree-Structured Neural Topic Model,10.18653/v1/2020.acl-main.73,15
+ZeroShotCeres: Zero-Shot Relation Extraction from Semi-Structured Webpages,10.18653/v1/2020.acl-main.721,15
+Template-Based Question Generation from Retrieved Sentences for Improved Unsupervised Question Answering,10.18653/v1/2020.acl-main.413,15
+"On Exposure Bias, Hallucination and Domain Shift in Neural Machine Translation",10.18653/v1/2020.acl-main.326,15
+Cross-Modality Relevance for Reasoning on Language and Vision,10.18653/v1/2020.acl-main.683,14
+A Frame-based Sentence Representation for Machine Reading Comprehension,10.18653/v1/2020.acl-main.83,14
+"To Test Machine Comprehension, Start by Defining Comprehension",10.18653/v1/2020.acl-main.701,14
+Unsupervised Alignment-based Iterative Evidence Retrieval for Multi-hop Question Answering,10.18653/v1/2020.acl-main.414,14
+Gender Gap in Natural Language Processing Research: Disparities in Authorship and Citations,10.18653/v1/2020.acl-main.702,14
+Systematic Evaluation of a Framework for Unsupervised Emotion Recognition for Narrative Text,10.18653/v1/2020.nuse-1.4,14
+Towards Visual Dialog for Radiology,10.18653/v1/2020.bionlp-1.6,14
+Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints,10.18653/v1/2020.acl-main.101,14
+Contextualized Sparse Representations for Real-Time Open-Domain Question Answering,10.18653/v1/2020.acl-main.85,14
+Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight,10.18653/v1/2020.acl-main.564,14
+Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension,10.18653/v1/2020.acl-main.603,14
+RikiNet: Reading Wikipedia Pages for Natural Question Answering,10.18653/v1/2020.acl-main.604,14
+Boosting Neural Machine Translation with Similar Translations,10.18653/v1/2020.acl-main.144,14
+From Zero to Hero: Human-In-The-Loop Entity Linking in Low Resource Domains,10.18653/v1/2020.acl-main.624,14
+Multi-Domain Dialogue Acts and Response Co-Generation,10.18653/v1/2020.acl-main.638,14
+C-Net: Contextual Network for Sarcasm Detection,10.18653/v1/2020.figlang-1.8,14
+Sarcasm Detection in Tweets with BERT and GloVe Embeddings,10.18653/v1/2020.figlang-1.7,14
+A Formal Hierarchy of RNN Architectures,10.18653/v1/2020.acl-main.43,14
+How Does Selective Mechanism Improve Self-Attention Networks?,10.18653/v1/2020.acl-main.269,14
+Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection,10.18653/v1/2020.acl-main.49,14
+Unsupervised Multimodal Neural Machine Translation with Pseudo Visual Pivoting,10.18653/v1/2020.acl-main.731,14
+"Stock Embeddings Acquired from News Articles and Price History, and an Application to Portfolio Optimization",10.18653/v1/2020.acl-main.307,14
+Structural Information Preserving for Graph-to-Text Generation,10.18653/v1/2020.acl-main.712,14
+Towards Holistic and Automatic Evaluation of Open-Domain Dialogue Generation,10.18653/v1/2020.acl-main.333,14
+Evaluating the Utility of Model Configurations and Data Augmentation on Clinical Semantic Textual Similarity,10.18653/v1/2020.bionlp-1.11,13
+ASSET: A Dataset for Tuning and Evaluation of Sentence Simplification Models with Multiple Rewriting Transformations,10.18653/v1/2020.acl-main.424,13
+Hooks in the Headline: Learning to Generate Headlines with Controlled Styles,10.18653/v1/2020.acl-main.456,13
+Discrete Optimization for Unsupervised Sentence Summarization with Word-Level Extraction,10.18653/v1/2020.acl-main.452,13
+Entity-Aware Dependency-Based Deep Graph Attention Network for Comparative Preference Classification,10.18653/v1/2020.acl-main.512,13
+Learning to Customize Model Structures for Few-shot Dialogue Generation Tasks,10.18653/v1/2020.acl-main.517,13
+Improved Natural Language Generation via Loss Truncation,10.18653/v1/2020.acl-main.66,13
+Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking,10.18653/v1/2020.acl-main.12,13
+Modeling Label Semantics for Predicting Emotional Reactions,10.18653/v1/2020.acl-main.426,13
+A Top-down Neural Architecture towards Text-level Parsing of Discourse Rhetorical Structure,10.18653/v1/2020.acl-main.569,13
+The Summary Loop: Learning to Write Abstractive Summaries Without Examples,10.18653/v1/2020.acl-main.460,13
+A Transformer Approach to Contextual Sarcasm Detection in Twitter,10.18653/v1/2020.figlang-1.37,13
+Clinical-Coder: Assigning Interpretable ICD-10 Codes to Chinese Clinical Notes,10.18653/v1/2020.acl-demos.33,13
+Make Up Your Mind! Adversarial Generation of Inconsistent Natural Language Explanations,10.18653/v1/2020.acl-main.382,13
+Can Neural Networks Automatically Score Essay Traits?,10.18653/v1/2020.bea-1.8,13
+Don’t Eclipse Your Arts Due to Small Discrepancies: Boundary Repositioning with a Pointer Network for Aspect Extraction,10.18653/v1/2020.acl-main.339,13
+Learning to Segment Actions from Observation and Narration,10.18653/v1/2020.acl-main.231,13
+AMR Parsing via Graph-Sequence Iterative Inference,10.18653/v1/2020.acl-main.119,13
+SeqVAT: Virtual Adversarial Training for Semi-Supervised Sequence Labeling,10.18653/v1/2020.acl-main.777,13
+Predicting the Difficulty and Response Time of Multiple Choice Questions Using Transfer Learning,10.18653/v1/2020.bea-1.20,13
+Efficient Neural Machine Translation for Low-Resource Languages via Exploiting Related Languages,10.18653/v1/2020.acl-srw.22,12
+Personalized PageRank with Syntagmatic Information for Multilingual Word Sense Disambiguation,10.18653/v1/2020.acl-demos.6,12
+Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymen,10.18653/v1/2020.acl-main.100,12
+"Rˆ3: Reverse, Retrieve, and Rank for Sarcasm Generation with Commonsense Knowledge",10.18653/v1/2020.acl-main.711,12
+A Report on the 2020 VUA and TOEFL Metaphor Detection Shared Task,10.18653/v1/2020.figlang-1.3,12
+Interactive Extractive Search over Biomedical Corpora,10.18653/v1/2020.bionlp-1.3,12
+A Relational Memory-based Embedding Model for Triple Classification and Search Personalization,10.18653/v1/2020.acl-main.313,12
+Compositionality and Generalization In Emergent Languages,10.18653/v1/2020.acl-main.407,12
+On the Importance of Diversity in Question Generation for QA,10.18653/v1/2020.acl-main.500,12
+Interpretability and Analysis in Neural NLP,10.18653/v1/2020.acl-tutorials.1,12
+DoQA - Accessing Domain-Specific FAQs via Conversational QA,10.18653/v1/2020.acl-main.652,12
+Language Models as Fact Checkers?,10.18653/v1/2020.fever-1.5,12
+How to Ask Good Questions? Try to Leverage Paraphrases,10.18653/v1/2020.acl-main.545,12
+Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs,10.18653/v1/2020.acl-main.20,12
+Improving Disentangled Text Representation Learning with Information-Theoretic Guidance,10.18653/v1/2020.acl-main.673,12
+IlliniMet: Illinois System for Metaphor Detection with Contextual and Linguistic Information,10.18653/v1/2020.figlang-1.21,12
+Hard-Coded Gaussian Attention for Neural Machine Translation,10.18653/v1/2020.acl-main.687,12
+Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language,10.18653/v1/2020.acl-main.581,12
+Instance-Based Learning of Span Representations: A Case Study through Named Entity Recognition,10.18653/v1/2020.acl-main.575,12
+Guiding Variational Response Generator to Exploit Persona,10.18653/v1/2020.acl-main.7,12
+From Machine Reading Comprehension to Dialogue State Tracking: Bridging the Gap,10.18653/v1/2020.nlp4convai-1.10,12
+Evaluating and Enhancing the Robustness of Neural Network-based Dependency Parsing Models with Adversarial Examples,10.18653/v1/2020.acl-main.590,12
+Hierarchical Entity Typing via Multi-level Learning to Rank,10.18653/v1/2020.acl-main.749,12
+When do Word Embeddings Accurately Reflect Surveys on our Beliefs About People?,10.18653/v1/2020.acl-main.405,12
+Uncertain Natural Language Inference,10.18653/v1/2020.acl-main.774,11
+Hyperbolic Capsule Networks for Multi-Label Classification,10.18653/v1/2020.acl-main.283,11
+Towards Better Non-Tree Argument Mining: Proposition-Level Biaffine Parsing with Task-Specific Parameterization,10.18653/v1/2020.acl-main.298,11
+DLGNet: A Transformer-based Model for Dialogue Response Generation,10.18653/v1/2020.nlp4convai-1.7,11
+A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks,10.18653/v1/2020.acl-main.514,11
+Are Natural Language Inference Models IMPPRESsive? Learning IMPlicature and PRESupposition,10.18653/v1/2020.acl-main.768,11
+In Layman’s Terms: Semi-Open Relation Extraction from Scientific Texts,10.18653/v1/2020.acl-main.137,11
+Learning a Multi-Domain Curriculum for Neural Machine Translation,10.18653/v1/2020.acl-main.689,11
+Topological Sort for Sentence Ordering,10.18653/v1/2020.acl-main.248,11
+"Media Bias, the Social Sciences, and NLP: Automating Frame Analyses to Identify Bias by Word Choice and Labeling",10.18653/v1/2020.acl-srw.12,11
+Learning an Unreferenced Metric for Online Dialogue Evaluation,10.18653/v1/2020.acl-main.220,11
+Text Classification with Negative Supervision,10.18653/v1/2020.acl-main.33,11
+Content Word Aware Neural Machine Translation,10.18653/v1/2020.acl-main.34,11
+Leveraging Monolingual Data with Self-Supervision for Multilingual Neural Machine Translation,10.18653/v1/2020.acl-main.252,11
+Discourse as a Function of Event: Profiling Discourse Structure in News Articles around the Main Event,10.18653/v1/2020.acl-main.478,11
+Multimodal Neural Graph Memory Networks for Visual Question Answering,10.18653/v1/2020.acl-main.643,11
+ClarQ: A large-scale and diverse dataset for Clarification Question Generation,10.18653/v1/2020.acl-main.651,11
+Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning,10.18653/v1/2020.acl-main.685,11
+Multi-Domain Named Entity Recognition with Genre-Aware and Agnostic Inference,10.18653/v1/2020.acl-main.750,11
+Structure-Level Knowledge Distillation For Multilingual Sequence Labeling,10.18653/v1/2020.acl-main.304,11
+Applying Transformers and Aspect-based Sentiment Analysis approaches on Sarcasm Detection,10.18653/v1/2020.figlang-1.9,11
+Improving Neural Machine Translation with Soft Template Prediction,10.18653/v1/2020.acl-main.531,11
+A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction,10.18653/v1/2020.acl-main.361,11
+Generalized Entropy Regularization or: There’s Nothing Special about Label Smoothing,10.18653/v1/2020.acl-main.615,11
+How Accents Confound: Probing for Accent Information in End-to-End Speech Recognition Systems,10.18653/v1/2020.acl-main.345,11
+Keyphrase Generation for Scientific Document Retrieval,10.18653/v1/2020.acl-main.105,11
+Fluent Response Generation for Conversational Question Answering,10.18653/v1/2020.acl-main.19,11
+Rigid Formats Controlled Text Generation,10.18653/v1/2020.acl-main.68,11
+BERTRAM: Improved Word Embeddings Have Big Impact on Contextualized Model Performance,10.18653/v1/2020.acl-main.368,11
+Neural Sarcasm Detection using Conversation Context,10.18653/v1/2020.figlang-1.11,11
+Bayesian Hierarchical Words Representation Learning,10.18653/v1/2020.acl-main.356,11
+Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer,10.18653/v1/2020.acl-main.199,10
+Sarcasm Detection using Context Separators in Online Discourse,10.18653/v1/2020.figlang-1.6,10
+Learning to Classify Intents and Slot Labels Given a Handful of Examples,10.18653/v1/2020.nlp4convai-1.12,10
+Neural Data-to-Text Generation via Jointly Learning the Segmentation and Correspondence,10.18653/v1/2020.acl-main.641,10
+Recollection versus Imagination: Exploring Human Memory and Cognition via Neural Language Models,10.18653/v1/2020.acl-main.178,10
+LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network,10.18653/v1/2020.acl-main.539,10
+Self-Attention with Cross-Lingual Position Representation,10.18653/v1/2020.acl-main.153,10
+Paraphrase Generation by Learning How to Edit from Samples,10.18653/v1/2020.acl-main.535,10
+DeSePtion: Dual Sequence Prediction and Adversarial Examples for Improved Fact-Checking,10.18653/v1/2020.acl-main.761,10
+A Tale of Two Perplexities: Sensitivity of Neural Language Models to Lexical Retrieval Deficits in Dementia of the Alzheimer’s Type,10.18653/v1/2020.acl-main.176,10
+Cross-Lingual Disaster-related Multi-label Tweet Classification with Manifold Mixup,10.18653/v1/2020.acl-srw.39,10
+INFOTABS: Inference on Tables as Semi-structured Data,10.18653/v1/2020.acl-main.210,10
+Attend to Medical Ontologies: Content Selection for Clinical Abstractive Summarization,10.18653/v1/2020.acl-main.172,10
+Probing Linguistic Features of Sentence-Level Representations in Neural Relation Extraction,10.18653/v1/2020.acl-main.140,10
+SyntaxGym: An Online Platform for Targeted Evaluation of Language Models,10.18653/v1/2020.acl-demos.10,10
+Improving Low-Resource Named Entity Recognition using Joint Sentence and Token Labeling,10.18653/v1/2020.acl-main.523,10
+TAG : Type Auxiliary Guiding for Code Comment Generation,10.18653/v1/2020.acl-main.27,10
+Probabilistically Masked Language Model Capable of Autoregressive Generation in Arbitrary Word Order,10.18653/v1/2020.acl-main.24,10
+XtremeDistil: Multi-stage Distillation for Massive Multilingual Models,10.18653/v1/2020.acl-main.202,10
+A Generative Model for Joint Natural Language Understanding and Generation,10.18653/v1/2020.acl-main.163,10
+Returning the N to NLP: Towards Contextually Personalized Classification Models,10.18653/v1/2020.acl-main.700,10
+Deep Hierarchical Classification for Category Prediction in E-commerce System,10.18653/v1/2020.ecnlp-1.10,10
+Visual Question Generation from Radiology Images,10.18653/v1/2020.alvr-1.3,10
+Clinical Reading Comprehension: A Thorough Analysis of the emrQA Dataset,10.18653/v1/2020.acl-main.410,10
+Non-Linear Instance-Based Cross-Lingual Mapping for Non-Isomorphic Embedding Spaces,10.18653/v1/2020.acl-main.675,10
+Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention,10.18653/v1/2020.acl-main.315,10
+Analyzing the Persuasive Effect of Style in News Editorial Argumentation,10.18653/v1/2020.acl-main.287,10
+Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation,10.18653/v1/2020.acl-main.277,10
+Automated Evaluation of Writing – 50 Years and Counting,10.18653/v1/2020.acl-main.697,10
+Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation,10.18653/v1/2020.acl-main.681,10
+A BERT-based One-Pass Multi-Task Model for Clinical Temporal Relation Extraction,10.18653/v1/2020.bionlp-1.7,10
+From Speech-to-Speech Translation to Automatic Dubbing,10.18653/v1/2020.iwslt-1.31,10
+A Tale of a Probe and a Parser,10.18653/v1/2020.acl-main.659,9
+Towards Understanding ASR Error Correction for Medical Conversations,10.18653/v1/2020.nlpmc-1.2,9
+Phone Features Improve Speech Translation,10.18653/v1/2020.acl-main.217,9
+Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation,10.18653/v1/2020.acl-main.61,9
+Bilingual Dictionary Based Neural Machine Translation without Using Parallel Sentences,10.18653/v1/2020.acl-main.143,9
+Predicting Depression in Screening Interviews from Latent Categorization of Interview Prompts,10.18653/v1/2020.acl-main.2,9
+Stance Prediction for Contemporary Issues: Data and Experiments,10.18653/v1/2020.socialnlp-1.5,9
+The Dialogue Dodecathlon: Open-Domain Knowledge and Image Grounded Conversational Agents,10.18653/v1/2020.acl-main.222,9
+Structured Tuning for Semantic Role Labeling,10.18653/v1/2020.acl-main.744,9
+An Effectiveness Metric for Ordinal Classification: Formal Properties and Experimental Results,10.18653/v1/2020.acl-main.363,9
+Learning and Evaluating Emotion Lexicons for 91 Languages,10.18653/v1/2020.acl-main.112,9
+An empirical investigation of neural methods for content scoring of science explanations,10.18653/v1/2020.bea-1.13,9
+Do Transformers Need Deep Long-Range Memory?,10.18653/v1/2020.acl-main.672,9
+Learning Low-Resource End-To-End Goal-Oriented Dialog for Fast and Reliable System Deployment,10.18653/v1/2020.acl-main.57,9
+To Pretrain or Not to Pretrain: Examining the Benefits of Pretrainng on Resource Rich Tasks,10.18653/v1/2020.acl-main.200,9
+"Code-Switching Patterns Can Be an Effective Route to Improve Performance of Downstream NLP Applications: A Case Study of Humour, Sarcasm and Hate Speech Detection",10.18653/v1/2020.acl-main.96,9
+Speak to your Parser: Interactive Text-to-SQL with Natural Language Feedback,10.18653/v1/2020.acl-main.187,9
+Autoencoding Keyword Correlation Graph for Document Clustering,10.18653/v1/2020.acl-main.366,9
+Exploring the Limits of Simple Learners in Knowledge Distillation for Document Classification with DocBERT,10.18653/v1/2020.repl4nlp-1.10,9
+Improving Image Captioning Evaluation by Considering Inter References Variance,10.18653/v1/2020.acl-main.93,9
+Temporally-Informed Analysis of Named Entity Recognition,10.18653/v1/2020.acl-main.680,9
+"Words Aren’t Enough, Their Order Matters: On the Robustness of Grounding Visual Referring Expressions",10.18653/v1/2020.acl-main.586,9
+SUPP.AI: finding evidence for supplement-drug interactions,10.18653/v1/2020.acl-demos.41,9
+"In Neural Machine Translation, What Does Transfer Learning Transfer?",10.18653/v1/2020.acl-main.688,9
+Diversifying Dialogue Generation with Non-Conversational Text,10.18653/v1/2020.acl-main.634,9
+From English to Code-Switching: Transfer Learning with Strong Morphological Clues,10.18653/v1/2020.acl-main.716,9
+Glyph2Vec: Learning Chinese Out-of-Vocabulary Word Embedding from Glyphs,10.18653/v1/2020.acl-main.256,9
+On the Inference Calibration of Neural Machine Translation,10.18653/v1/2020.acl-main.278,9
+Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer,10.18653/v1/2020.acl-main.260,9
+Improving Truthfulness of Headline Generation,10.18653/v1/2020.acl-main.123,9
+Exploring Contextual Word-level Style Relevance for Unsupervised Style Transfer,10.18653/v1/2020.acl-main.639,9
+Implicit Discourse Relation Classification: We Need to Talk about Evaluation,10.18653/v1/2020.acl-main.480,9
+Text-Based Ideal Points,10.18653/v1/2020.acl-main.475,9
+Obtaining Faithful Interpretations from Compositional Neural Networks,10.18653/v1/2020.acl-main.495,9
+Verbal Multiword Expressions for Identification of Metaphor,10.18653/v1/2020.acl-main.259,9
+Learning Source Phrase Representations for Neural Machine Translation,10.18653/v1/2020.acl-main.37,9
+Crossing Variational Autoencoders for Answer Retrieval,10.18653/v1/2020.acl-main.498,9
+Dynamic Programming Encoding for Subword Segmentation in Neural Machine Translation,10.18653/v1/2020.acl-main.275,8
+Experimental Evaluation and Development of a Silver-Standard for the MIMIC-III Clinical Coding Dataset,10.18653/v1/2020.bionlp-1.8,8
+Successfully Applying the Stabilized Lottery Ticket Hypothesis to the Transformer Architecture,10.18653/v1/2020.acl-main.360,8
+Evaluating Robustness to Input Perturbations for Neural Machine Translation,10.18653/v1/2020.acl-main.755,8
+Do Neural Models Learn Systematicity of Monotonicity Inference in Natural Language?,10.18653/v1/2020.acl-main.543,8
+What’s in a Name? Are BERT Named Entity Representations just as Good for any other Name?,10.18653/v1/2020.repl4nlp-1.24,8
+Feature Difference Makes Sense: A medical image captioning model exploiting feature difference and tag information,10.18653/v1/2020.acl-srw.14,8
+On the Limitations of Cross-lingual Encoders as Exposed by Reference-Free Machine Translation Evaluation,10.18653/v1/2020.acl-main.151,8
+Adaptive Compression of Word Embeddings,10.18653/v1/2020.acl-main.364,8
+Measuring Forecasting Skill from Text,10.18653/v1/2020.acl-main.473,8
+“You Sound Just Like Your Father” Commercial Machine Translation Systems Include Stylistic Biases,10.18653/v1/2020.acl-main.154,8
+Span-ConveRT: Few-shot Span Extraction for Dialog with Pretrained Conversational Representations,10.18653/v1/2020.acl-main.11,8
+LinggleWrite: a Coaching System for Essay Writing,10.18653/v1/2020.acl-demos.17,8
+ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT,10.18653/v1/2020.acl-main.482,8
+Getting the ##life out of living: How Adequate Are Word-Pieces for Modelling Complex Morphology?,10.18653/v1/2020.sigmorphon-1.24,8
+Photon: A Robust Cross-Domain Text-to-SQL System,10.18653/v1/2020.acl-demos.24,8
+Storytelling with Dialogue: A Critical Role Dungeons and Dragons Dataset,10.18653/v1/2020.acl-main.459,8
+Negative Training for Neural Dialogue Response Generation,10.18653/v1/2020.acl-main.185,8
+Probing Linguistic Systematicity,10.18653/v1/2020.acl-main.177,8
+Answering Complex Questions by Combining Information from Curated and Extracted Knowledge Bases,10.18653/v1/2020.nli-1.1,8
+Cross-Linguistic Syntactic Evaluation of Word Prediction Models,10.18653/v1/2020.acl-main.490,8
+BioMRC: A Dataset for Biomedical Machine Reading Comprehension,10.18653/v1/2020.bionlp-1.15,8
+Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus,10.18653/v1/2020.acl-main.619,8
+Simple and Effective Retrieve-Edit-Rerank Text Generation,10.18653/v1/2020.acl-main.228,8
+Sentence Meta-Embeddings for Unsupervised Semantic Textual Similarity,10.18653/v1/2020.acl-main.628,8
+Balancing Objectives in Counseling Conversations: Advancing Forwards or Looking Backwards,10.18653/v1/2020.acl-main.470,8
+Towards Robustifying NLI Models Against Lexical Dataset Biases,10.18653/v1/2020.acl-main.773,8
+Automatic Poetry Generation from Prosaic Text,10.18653/v1/2020.acl-main.223,8
+Examining the State-of-the-Art in News Timeline Summarization,10.18653/v1/2020.acl-main.122,8
+Torch-Struct: Deep Structured Prediction Library,10.18653/v1/2020.acl-demos.38,8
+Meta-Reinforced Multi-Domain State Generator for Dialogue Systems,10.18653/v1/2020.acl-main.636,8
+Designing Precise and Robust Dialogue Response Evaluators,10.18653/v1/2020.acl-main.4,8
+Let Me Choose: From Verbal Context to Font Selection,10.18653/v1/2020.acl-main.762,8
+Re-translation versus Streaming for Simultaneous Translation,10.18653/v1/2020.iwslt-1.27,8
+Shaping Visual Representations with Language for Few-Shot Classification,10.18653/v1/2020.acl-main.436,8
+Prta: A System to Support the Analysis of Propaganda Techniques in the News,10.18653/v1/2020.acl-demos.32,8
+Soft Gazetteers for Low-Resource Named Entity Recognition,10.18653/v1/2020.acl-main.722,8
+Mitigating Gender Bias Amplification in Distribution by Posterior Regularization,10.18653/v1/2020.acl-main.264,8
+TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing,10.18653/v1/2020.acl-demos.2,8
+Relabel the Noise: Joint Extraction of Entities and Relations via Cooperative Multiagents,10.18653/v1/2020.acl-main.527,8
+Learning Dialog Policies from Weak Demonstrations,10.18653/v1/2020.acl-main.129,8
+Knowledge Distillation for Multilingual Unsupervised Neural Machine Translation,10.18653/v1/2020.acl-main.324,8
+Transformers on Sarcasm Detection with Context,10.18653/v1/2020.figlang-1.13,8
+Lexically Constrained Neural Machine Translation with Levenshtein Transformer,10.18653/v1/2020.acl-main.325,8
+A Report on the 2020 Sarcasm Detection Shared Task,10.18653/v1/2020.figlang-1.1,8
+Go Figure! Multi-task transformer-based architecture for metaphor detection using idioms: ETS team in 2020 metaphor shared task,10.18653/v1/2020.figlang-1.32,7
+Meta-Learning for Few-Shot NMT Adaptation,10.18653/v1/2020.ngt-1.5,7
+What’s The Latest? A Question-driven News Chatbot,10.18653/v1/2020.acl-demos.43,7
+Conversation Learner - A Machine Teaching Tool for Building Dialog Managers for Task-Oriented Dialog Systems,10.18653/v1/2020.acl-demos.39,7
+ScriptWriter: Narrative-Guided Script Generation,10.18653/v1/2020.acl-main.765,7
+On the Utility of Audiovisual Dialog Technologies and Signal Analytics for Real-time Remote Monitoring of Depression Biomarkers,10.18653/v1/2020.nlpmc-1.7,7
+Recognizing Euphemisms and Dysphemisms Using Sentiment Analysis,10.18653/v1/2020.figlang-1.20,7
+A Comparative Study of Synthetic Data Generation Methods for Grammatical Error Correction,10.18653/v1/2020.bea-1.21,7
+Document Translation vs. Query Translation for Cross-Lingual Information Retrieval in the Medical Domain,10.18653/v1/2020.acl-main.613,7
+Multi-source Meta Transfer for Low Resource Multiple-Choice Question Answering,10.18653/v1/2020.acl-main.654,7
+Benchmark and Best Practices for Biomedical Knowledge Graph Embeddings,10.18653/v1/2020.bionlp-1.18,7
+Automated Topical Component Extraction Using Neural Network Attention Scores from Source-based Essay Scoring,10.18653/v1/2020.acl-main.759,7
+Using PRMSE to evaluate automated scoring systems in the presence of label noise,10.18653/v1/2020.bea-1.2,7
+Exploring Unexplored Generalization Challenges for Cross-Database Semantic Parsing,10.18653/v1/2020.acl-main.742,7
+Clinical Concept Linking with Contextualized Neural Representations,10.18653/v1/2020.acl-main.760,7
+Syntactic Search by Example,10.18653/v1/2020.acl-demos.3,7
+Is 42 the Answer to Everything in Subtitling-oriented Speech Translation?,10.18653/v1/2020.iwslt-1.26,7
+FINDINGS OF THE IWSLT 2020 EVALUATION CAMPAIGN,10.18653/v1/2020.iwslt-1.1,7
+Item-based Collaborative Filtering with BERT,10.18653/v1/2020.ecnlp-1.8,7
+A Deep Learning System for Sentiment Analysis of Service Calls,10.18653/v1/2020.ecnlp-1.4,7
+Addressing Posterior Collapse with Mutual Information for Improved Variational Neural Machine Translation,10.18653/v1/2020.acl-main.753,7
+Transformers to Learn Hierarchical Contexts in Multiparty Dialogue for Span-based Question Answering,10.18653/v1/2020.acl-main.505,7
+Multiscale Collaborative Deep Models for Neural Machine Translation,10.18653/v1/2020.acl-main.40,7
+Improving Disfluency Detection by Self-Training a Self-Attentive Model,10.18653/v1/2020.acl-main.346,7
+(Re)construing Meaning in NLP,10.18653/v1/2020.acl-main.462,7
+Evaluating Dialogue Generation Systems via Response Selection,10.18653/v1/2020.acl-main.55,7
+Examining Citations of Natural Language Processing Literature,10.18653/v1/2020.acl-main.464,7
+Efficient Strategies for Hierarchical Text Classification: External Knowledge and Auxiliary Tasks,10.18653/v1/2020.acl-main.205,7
+Automatic Generation of Citation Texts in Scholarly Papers: A Pilot Study,10.18653/v1/2020.acl-main.550,7
+Neural Mixed Counting Models for Dispersed Topic Discovery,10.18653/v1/2020.acl-main.548,7
+Grounding Conversations with Improvised Dialogues,10.18653/v1/2020.acl-main.218,7
+Improving Adversarial Text Generation by Modeling the Distant Future,10.18653/v1/2020.acl-main.227,7
+Geometry-aware domain adaptation for unsupervised alignment of word embeddings,10.18653/v1/2020.acl-main.276,7
+Knowledge Graph Embedding Compression,10.18653/v1/2020.acl-main.238,7
+Masking Actor Information Leads to Fairer Political Claims Detection,10.18653/v1/2020.acl-main.404,7
+Analyzing Political Parody in Social Media,10.18653/v1/2020.acl-main.403,7
+Evaluating Explanation Methods for Neural Machine Translation,10.18653/v1/2020.acl-main.35,7
+schuBERT: Optimizing Elements of BERT,10.18653/v1/2020.acl-main.250,7
+BiRRE: Learning Bidirectional Residual Relation Embeddings for Supervised Hypernymy Detection,10.18653/v1/2020.acl-main.334,7
+WinoWhy: A Deep Diagnosis of Essential Commonsense Knowledge for Answering Winograd Schema Challenge,10.18653/v1/2020.acl-main.508,7
+Modeling Code-Switch Languages Using Bilingual Parallel Corpus,10.18653/v1/2020.acl-main.80,7
+STARC: Structured Annotations for Reading Comprehension,10.18653/v1/2020.acl-main.507,7
+"It Takes Two to Lie: One to Lie, and One to Listen",10.18653/v1/2020.acl-main.353,7
+Large Scale Multi-Actor Generative Dialog Modeling,10.18653/v1/2020.acl-main.8,7
+On the Robustness of Language Encoders against Grammatical Errors,10.18653/v1/2020.acl-main.310,7
+More Diverse Dialogue Datasets via Diversity-Informed Data Collection,10.18653/v1/2020.acl-main.446,7
+The Unstoppable Rise of Computational Linguistics in Deep Learning,10.18653/v1/2020.acl-main.561,7
+A Cross-Task Analysis of Text Span Representations,10.18653/v1/2020.repl4nlp-1.20,7
+Multi-Domain Neural Machine Translation with Word-Level Adaptive Layer-wise Domain Mixing,10.18653/v1/2020.acl-main.165,7
+Probing for Referential Information in Language Models,10.18653/v1/2020.acl-main.384,7
+Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks,10.18653/v1/2020.acl-main.67,7
+Syntax-Aware Opinion Role Labeling with Dependency Graph Convolutional Networks,10.18653/v1/2020.acl-main.297,7
+On The Evaluation of Machine Translation Systems Trained With Back-Translation,10.18653/v1/2020.acl-main.253,6
+From SPMRL to NMRL: What Did We Learn (and Unlearn) in a Decade of Parsing Morphologically-Rich Languages (MRLs)?,10.18653/v1/2020.acl-main.660,6
+Active Learning for Coreference Resolution using Discrete Annotation,10.18653/v1/2020.acl-main.738,6
+ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation,10.18653/v1/2020.acl-main.251,6
+Predicting Degrees of Technicality in Automatic Terminology Extraction,10.18653/v1/2020.acl-main.258,6
+What are the Goals of Distributional Semantics?,10.18653/v1/2020.acl-main.663,6
+Balancing Training for Multilingual Neural Machine Translation,10.18653/v1/2020.acl-main.754,6
+Semi-Supervised Dialogue Policy Learning via Stochastic Reward Estimation,10.18653/v1/2020.acl-main.62,6
+Adversarial Alignment of Multilingual Models for Extracting Temporal Expressions from Text,10.18653/v1/2020.repl4nlp-1.14,6
+"Give Me Convenience and Give Her Death: Who Should Decide What Uses of NLP are Appropriate, and on What Basis?",10.18653/v1/2020.acl-main.261,6
+Dialogue Coherence Assessment Without Explicit Dialogue Act Labels,10.18653/v1/2020.acl-main.133,6
+CIMA: A Large Open Access Dialogue Dataset for Tutoring,10.18653/v1/2020.bea-1.5,6
+A Question Type Driven and Copy Loss Enhanced Frameworkfor Answer-Agnostic Neural Question Generation,10.18653/v1/2020.ngt-1.8,6
+"Joint Diacritization, Lemmatization, Normalization, and Fine-Grained Morphological Tagging",10.18653/v1/2020.acl-main.736,6
+Extensive Error Analysis and a Learning-Based Evaluation of Medical Entity Recognition Systems to Approximate User Experience,10.18653/v1/2020.bionlp-1.19,6
+Exploiting Personal Characteristics of Debaters for Predicting Persuasiveness,10.18653/v1/2020.acl-main.632,6
+Similarity Analysis of Contextual Word Representation Models,10.18653/v1/2020.acl-main.422,6
+A Corpus for Large-Scale Phonetic Typology,10.18653/v1/2020.acl-main.415,6
+How does BERT’s attention change when you fine-tune? An analysis methodology and a case study in negation scope,10.18653/v1/2020.acl-main.429,6
+Agreement Prediction of Arguments in Cyber Argumentation for Detecting Stance Polarity and Intensity,10.18653/v1/2020.acl-main.509,6
+Unsupervised Dual Paraphrasing for Two-stage Semantic Parsing,10.18653/v1/2020.acl-main.608,6
+Metaphor Detection Using Contextual Word Embeddings From Transformers,10.18653/v1/2020.figlang-1.34,6
+Screenplay Summarization Using Latent Narrative Structure,10.18653/v1/2020.acl-main.174,6
+Inflecting When There’s No Majority: Limitations of Encoder-Decoder Neural Networks as Cognitive Models for German Plurals,10.18653/v1/2020.acl-main.159,6
+Transformer-based Context-aware Sarcasm Detection in Conversation Threads from Social Media,10.18653/v1/2020.figlang-1.38,6
+Learning Efficient Dialogue Policy from Demonstrations through Shaping,10.18653/v1/2020.acl-main.566,6
+Interactive Task Learning from GUI-Grounded Natural Language Instructions and Demonstrations,10.18653/v1/2020.acl-demos.25,6
+Grammatical Error Correction Using Pseudo Learner Corpus Considering Learner’s Error Tendency,10.18653/v1/2020.acl-srw.5,6
+Towards end-2-end learning for predicting behavior codes from spoken utterances in psychotherapy conversations,10.18653/v1/2020.acl-main.351,6
+Language-aware Interlingua for Multilingual Neural Machine Translation,10.18653/v1/2020.acl-main.150,6
+Learning Spoken Language Representations with Neural Lattice Language Modeling,10.18653/v1/2020.acl-main.347,6
+Trialstreamer: Mapping and Browsing Medical Evidence in Real-Time,10.18653/v1/2020.acl-demos.9,6
+Slot-consistent NLG for Task-oriented Dialogue Systems with Iterative Rectification Network,10.18653/v1/2020.acl-main.10,6
+Efficient Pairwise Annotation of Argument Quality,10.18653/v1/2020.acl-main.511,6
+Interpreting Twitter User Geolocation,10.18653/v1/2020.acl-main.79,6
+Character-Level Translation with Self-attention,10.18653/v1/2020.acl-main.145,6
+Towards an Ontology-based Medication Conversational Agent for PrEP and PEP,10.18653/v1/2020.nlpmc-1.5,6
+Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders,10.18653/v1/2020.acl-main.23,6
+Building a User-Generated Content North-African Arabizi Treebank: Tackling Hell,10.18653/v1/2020.acl-main.107,6
+Learning to execute instructions in a Minecraft dialogue,10.18653/v1/2020.acl-main.232,6
+Tagged Back-translation Revisited: Why Does It Really Work?,10.18653/v1/2020.acl-main.532,6
+Unsupervised Multilingual Sentence Embeddings for Parallel Corpus Mining,10.18653/v1/2020.acl-srw.34,6
+Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction,10.18653/v1/2020.acl-main.209,6
+"Evidence Inference 2.0: More Data, Better Models",10.18653/v1/2020.bionlp-1.13,6
+Video-Grounded Dialogues with Pretrained Generation Language Models,10.18653/v1/2020.acl-main.518,6
+Multiple Instance Learning for Content Feedback Localization without Annotation,10.18653/v1/2020.bea-1.3,6
+A Retrieve-and-Rewrite Initialization Method for Unsupervised Machine Translation,10.18653/v1/2020.acl-main.320,5
+The SIGMORPHON 2020 Shared Task on Multilingual Grapheme-to-Phoneme Conversion,10.18653/v1/2020.sigmorphon-1.2,5
+Penman: An Open-Source Library and Tool for AMR Graphs,10.18653/v1/2020.acl-demos.35,5
+Do Neural Language Models Show Preferences for Syntactic Formalisms?,10.18653/v1/2020.acl-main.375,5
+Exploiting the Syntax-Model Consistency for Neural Relation Extraction,10.18653/v1/2020.acl-main.715,5
+Hypernymy Detection for Low-Resource Languages via Meta Learning,10.18653/v1/2020.acl-main.336,5
+Adversarial Training for Commonsense Inference,10.18653/v1/2020.repl4nlp-1.8,5
+Modeling Discourse Structure for Document-level Neural Machine Translation,10.18653/v1/2020.autosimtrans-1.5,5
+The TechQA Dataset,10.18653/v1/2020.acl-main.117,5
+Stimulating Creativity with FunLines: A Case Study of Humor Generation in Headlines,10.18653/v1/2020.acl-demos.28,5
+Data Augmentation for Training Dialog Models Robust to Speech Recognition Errors,10.18653/v1/2020.nlp4convai-1.8,5
+CopyBERT: A Unified Approach to Question Generation with Self-Attention,10.18653/v1/2020.nlp4convai-1.3,5
+Relation Extraction with Explanation,10.18653/v1/2020.acl-main.579,5
+ExpBERT: Representation Engineering with Natural Language Explanations,10.18653/v1/2020.acl-main.190,5
+The Microsoft Toolkit of Multi-Task Deep Neural Networks for Natural Language Understanding,10.18653/v1/2020.acl-demos.16,5
+Learning to Contextually Aggregate Multi-Source Supervision for Sequence Labeling,10.18653/v1/2020.acl-main.193,5
+Stolen Probability: A Structural Weakness of Neural Language Models,10.18653/v1/2020.acl-main.198,5
+EVIDENCEMINER: Textual Evidence Discovery for Life Sciences,10.18653/v1/2020.acl-demos.8,5
+Neural Generation of Dialogue Response Timings,10.18653/v1/2020.acl-main.221,5
+Preventing Critical Scoring Errors in Short Answer Scoring with Confidence Estimation,10.18653/v1/2020.acl-srw.32,5
+Logical Inferences with Comparatives and Generalized Quantifiers,10.18653/v1/2020.acl-srw.35,5
+Pre-training via Leveraging Assisting Languages for Neural Machine Translation,10.18653/v1/2020.acl-srw.37,5
+Multi-Label and Multilingual News Framing Analysis,10.18653/v1/2020.acl-main.763,5
+#NotAWhore! A Computational Linguistic Perspective of Rape Culture and Victimization on Social Media,10.18653/v1/2020.acl-srw.43,5
+Parallel Corpus Filtering via Pre-trained Language Models,10.18653/v1/2020.acl-main.756,5
+Enhancing Answer Boundary Detection for Multilingual Machine Reading Comprehension,10.18653/v1/2020.acl-main.87,5
+Bridging Anaphora Resolution as Question Answering,10.18653/v1/2020.acl-main.132,5
+Universal Decompositional Semantic Parsing,10.18653/v1/2020.acl-main.746,5
+Estimating the influence of auxiliary tasks for multi-task learning of sequence tagging tasks,10.18653/v1/2020.acl-main.268,5
+A Deep Reinforced Model for Zero-Shot Cross-Lingual Summarization with Bilingual Semantic Similarity Rewards,10.18653/v1/2020.ngt-1.7,5
+How Human is Machine Translationese? Comparing Human and Machine Translations of Text and Speech,10.18653/v1/2020.iwslt-1.34,5
+A Multitask Learning Approach for Diacritic Restoration,10.18653/v1/2020.acl-main.732,5
+Learning to Identify Follow-Up Questions in Conversational Question Answering,10.18653/v1/2020.acl-main.90,5
+Improving Non-autoregressive Neural Machine Translation with Monolingual Data,10.18653/v1/2020.acl-main.171,5
+Character aware models with similarity learning for metaphor detection,10.18653/v1/2020.figlang-1.18,5
+A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks,10.18653/v1/2020.acl-main.440,5
+Harvesting and Refining Question-Answer Pairs for Unsupervised QA,10.18653/v1/2020.acl-main.600,5
+Toward Better Storylines with Sentence-Level Language Models,10.18653/v1/2020.acl-main.666,5
+Are we Estimating or Guesstimating Translation Quality?,10.18653/v1/2020.acl-main.558,5
+A Complete Shift-Reduce Chinese Discourse Parser with Robust Dynamic Oracle,10.18653/v1/2020.acl-main.13,5
+Composing Elementary Discourse Units in Abstractive Summarization,10.18653/v1/2020.acl-main.551,5
+Learning Robust Models for e-Commerce Product Search,10.18653/v1/2020.acl-main.614,5
+What Question Answering can Learn from Trivia Nerds,10.18653/v1/2020.acl-main.662,5
+Facet-Aware Evaluation for Extractive Summarization,10.18653/v1/2020.acl-main.445,5
+End-to-End Speech-Translation with Knowledge Distillation: FBK@IWSLT2020,10.18653/v1/2020.iwslt-1.8,5
+How to Grow a (Product) Tree: Personalized Category Suggestions for eCommerce Type-Ahead,10.18653/v1/2020.ecnlp-1.2,5
+Contextual Neural Machine Translation Improves Translation of Cataphoric Pronouns,10.18653/v1/2020.acl-main.530,5
+Learning to Ask More: Semi-Autoregressive Sequential Question Generation under Dual-Graph Interaction,10.18653/v1/2020.acl-main.21,5
+Detecting Perceived Emotions in Hurricane Disasters,10.18653/v1/2020.acl-main.471,5
+Rationalizing Text Matching: Learning Sparse Alignments via Optimal Transport,10.18653/v1/2020.acl-main.496,5
+Augmenting Data for Sarcasm Detection with Unlabeled Conversation Context,10.18653/v1/2020.figlang-1.2,5
+Defining and Evaluating Fair Natural Language Generation,10.18653/v1/2020.winlp-1.27,5
+Can Humor Prediction Datasets be used for Humor Generation? Humorous Headline Generation via Style Transfer,10.18653/v1/2020.figlang-1.25,5
+Distilling the Evidence to Augment Fact Verification Models,10.18653/v1/2020.fever-1.7,5
+AMR Parsing with Latent Structural Information,10.18653/v1/2020.acl-main.397,5
+Quantifying 60 Years of Gender Bias in Biomedical Research with Word Embeddings,10.18653/v1/2020.bionlp-1.1,5
+A Mixture of h - 1 Heads is Better than h Heads,10.18653/v1/2020.acl-main.587,5
+Improving Biomedical Analogical Retrieval with Embedding of Structural Dependencies,10.18653/v1/2020.bionlp-1.4,5
+The Sensitivity of Language Models and Humans to Winograd Schema Perturbations,10.18653/v1/2020.acl-main.679,5
+A Methodology for Creating Question Answering Corpora Using Inverse Data Annotation,10.18653/v1/2020.acl-main.84,5
+Differentiable Window for Dynamic Local Attention,10.18653/v1/2020.acl-main.589,4
+ALBERT-BiLSTM for Sequential Metaphor Detection,10.18653/v1/2020.figlang-1.17,4
+Coupling Distant Annotation and Adversarial Training for Cross-Domain Chinese Word Segmentation,10.18653/v1/2020.acl-main.595,4
+Learning Geometric Word Meta-Embeddings,10.18653/v1/2020.repl4nlp-1.6,4
+An Evaluation of Subword Segmentation Strategies for Neural Machine Translation of Morphologically Rich Languages,10.18653/v1/2020.winlp-1.40,4
+Multi-Task Supervised Pretraining for Neural Domain Adaptation,10.18653/v1/2020.socialnlp-1.8,4
+NAT: Noise-Aware Training for Robust Neural Sequence Labeling,10.18653/v1/2020.acl-main.138,4
+Classification-Based Self-Learning for Weakly Supervised Bilingual Lexicon Induction,10.18653/v1/2020.acl-main.618,4
+Sarcasm Identification and Detection in Conversion Context using BERT,10.18653/v1/2020.figlang-1.10,4
+Lipschitz Constrained Parameter Initialization for Deep Transformers,10.18653/v1/2020.acl-main.38,4
+Modeling Long Context for Task-Oriented Dialogue State Generation,10.18653/v1/2020.acl-main.637,4
+"Large Vocabulary Read Speech Corpora for Four Ethiopian Languages: Amharic, Tigrigna, Oromo, and Wolaytta",10.18653/v1/2020.winlp-1.5,4
+"Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification",10.18653/v1/2020.acl-main.570,4
+Posterior Control of Blackbox Generation,10.18653/v1/2020.acl-main.243,4
+Benchmarking Multimodal Regex Synthesis with Complex Structures,10.18653/v1/2020.acl-main.541,4
+Compositionality and Capacity in Emergent Languages,10.18653/v1/2020.repl4nlp-1.5,4
+Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading,10.18653/v1/2020.acl-main.88,4
+Oxymorons: a preliminary corpus investigation,10.18653/v1/2020.figlang-1.24,4
+R4C: A Benchmark for Evaluating RC Systems to Get the Right Answer for the Right Reason,10.18653/v1/2020.acl-main.602,4
+Language (Re)modelling: Towards Embodied Language Understanding,10.18653/v1/2020.acl-main.559,4
+End-to-End Neural Word Alignment Outperforms GIZA++,10.18653/v1/2020.acl-main.146,4
+Predicting Declension Class from Form and Meaning,10.18653/v1/2020.acl-main.597,4
+Topic Balancing with Additive Regularization of Topic Models,10.18653/v1/2020.acl-srw.9,4
+Talk to Papers: Bringing Neural Question Answering to Academic Search,10.18653/v1/2020.acl-demos.5,4
+Highway Transformer: Self-Gating Enhanced Self-Attentive Networks,10.18653/v1/2020.acl-main.616,4
+A Two-Stage Masked LM Method for Term Set Expansion,10.18653/v1/2020.acl-main.610,4
+Semantic Scaffolds for Pseudocode-to-Code Generation,10.18653/v1/2020.acl-main.208,4
+uBLEU: Uncertainty-Aware Automatic Evaluation Method for Open-Domain Dialogue Systems,10.18653/v1/2020.acl-srw.27,4
+Calibrating Structured Output Predictors for Natural Language Processing,10.18653/v1/2020.acl-main.188,4
+Parallel Sentence Mining by Constrained Decoding,10.18653/v1/2020.acl-main.152,4
+Evidence-Aware Inferential Text Generation with Vector Quantised Variational AutoEncoder,10.18653/v1/2020.acl-main.544,4
+Variational Neural Machine Translation with Normalizing Flows,10.18653/v1/2020.acl-main.694,4
+Integrating Ethics into the NLP Curriculum,10.18653/v1/2020.acl-tutorials.2,4
+Harnessing the linguistic signal to predict scalar inferences,10.18653/v1/2020.acl-main.479,4
+Dynamically Adjusting Transformer Batch Size by Monitoring Gradient Direction Change,10.18653/v1/2020.acl-main.323,4
+Dynamic Online Conversation Recommendation,10.18653/v1/2020.acl-main.305,4
+Staying True to Your Word: (How) Can Attention Become Explanation?,10.18653/v1/2020.repl4nlp-1.17,4
+Towards Understanding Gender Bias in Relation Extraction,10.18653/v1/2020.acl-main.265,4
+One-Size-Fits-All Multilingual Models,10.18653/v1/2020.sigmorphon-1.4,4
+Start-Before-End and End-to-End: Neural Speech Translation by AppTek and RWTH Aachen University,10.18653/v1/2020.iwslt-1.3,4
+Fine-Grained Analysis of Cross-Linguistic Syntactic Divergences,10.18653/v1/2020.acl-main.109,4
+Towards Unsupervised Language Understanding and Generation by Joint Dual Learning,10.18653/v1/2020.acl-main.63,4
+A Data-driven Approach for Noise Reduction in Distantly Supervised Biomedical Relation Extraction,10.18653/v1/2020.bionlp-1.20,4
+Domain Adaptation and Instance Selection for Disease Syndrome Classification over Veterinary Clinical Notes,10.18653/v1/2020.bionlp-1.17,4
+Leveraging Multimodal Behavioral Analytics for Automated Job Interview Performance Assessment and Feedback,10.18653/v1/2020.challengehml-1.6,4
+Annotation and Classification of Evidence and Reasoning Revisions in Argumentative Writing,10.18653/v1/2020.bea-1.7,4
+"MATINF: A Jointly Labeled Large-Scale Dataset for Classification, Question Answering and Summarization",10.18653/v1/2020.acl-main.330,4
+Entity-Enriched Neural Models for Clinical Question Answering,10.18653/v1/2020.bionlp-1.12,4
+Analyzing analytical methods: The case of phonology in neural models of spoken language,10.18653/v1/2020.acl-main.381,4
+SIGMORPHON 2020 Shared Task 0: Typologically Diverse Morphological Inflection,10.18653/v1/2020.sigmorphon-1.1,4
+"Two Birds, One Stone: A Simple, Unified Model for Text Generation from Structured and Unstructured Data",10.18653/v1/2020.acl-main.355,4
+An Exploratory Study of Argumentative Writing by Young Students: A transformer-based Approach,10.18653/v1/2020.bea-1.14,4
+CluBERT: A Cluster-Based Approach for Learning Sense Distributions in Multiple Languages,10.18653/v1/2020.acl-main.369,4
+Beyond User Self-Reported Likert Scale Ratings: A Comparison Model for Automatic Dialog Evaluation,10.18653/v1/2020.acl-main.126,4
+Robust Neural Machine Translation with ASR Errors,10.18653/v1/2020.autosimtrans-1.3,4
+He said “who’s gonna take care of your children when you are at ACL?”: Reported Sexist Acts are Not Sexist,10.18653/v1/2020.acl-main.373,4
+Effective Estimation of Deep Generative Language Models,10.18653/v1/2020.acl-main.646,4
+Estimating Mutual Information Between Dense Word Embeddings,10.18653/v1/2020.acl-main.741,4
+Camouflaged Chinese Spam Content Detection with Semi-supervised Generative Active Learning,10.18653/v1/2020.acl-main.279,4
+Automatically Ranked Russian Paraphrase Corpus for Text Generation,10.18653/v1/2020.ngt-1.6,4
+Fact-based Content Weighting for Evaluating Abstractive Summarisation,10.18653/v1/2020.acl-main.455,4
+A Relaxed Matching Procedure for Unsupervised BLI,10.18653/v1/2020.acl-main.274,4
+Distilling Neural Networks for Greener and Faster Dependency Parsing,10.18653/v1/2020.iwpt-1.2,3
+Adaptive Transformers for Learning Multimodal Representations,10.18653/v1/2020.acl-srw.1,3
+Applications of Natural Language Processing in Bilingual Language Teaching: An Indonesian-English Case Study,10.18653/v1/2020.bea-1.12,3
+Modelling Suspense in Short Stories as Uncertainty Reduction over Neural Representation,10.18653/v1/2020.acl-main.161,3
+Overview of the IWPT 2020 Shared Task on Parsing into Enhanced Universal Dependencies,10.18653/v1/2020.iwpt-1.16,3
+Learning to Tag OOV Tokens by Integrating Contextual Representation and Background Knowledge,10.18653/v1/2020.acl-main.58,3
+Distractor Analysis and Selection for Multiple-Choice Cloze Questions for Second-Language Learners,10.18653/v1/2020.bea-1.10,3
+Towards Mitigating Gender Bias in a decoder-based Neural Machine Translation model by Adding Contextual Information,10.18653/v1/2020.winlp-1.25,3
+Developing a How-to Tip Machine Comprehension Dataset and its Evaluation in Machine Comprehension by BERT,10.18653/v1/2020.fever-1.4,3
+Simultaneous paraphrasing and translation by fine-tuning Transformer models,10.18653/v1/2020.ngt-1.23,3
+Translating Natural Language Instructions for Behavioral Robot Navigation with a Multi-Head Attention Mechanism,10.18653/v1/2020.winlp-1.24,3
+Sequence-to-Set Semantic Tagging for Complex Query Reformulation and Automated Text Categorization in Biomedical IR using Self-Attention,10.18653/v1/2020.bionlp-1.2,3
+Location Attention for Extrapolation to Longer Sequences,10.18653/v1/2020.acl-main.39,3
+Embeddings of Label Components for Sequence Labeling: A Case Study of Fine-grained Named Entity Recognition,10.18653/v1/2020.acl-srw.30,3
+Reverse Engineering Configurations of Neural Text Generation Models,10.18653/v1/2020.acl-main.25,3
+Conversational Word Embedding for Retrieval-Based Dialog System,10.18653/v1/2020.acl-main.127,3
+Efficient and High-Quality Neural Machine Translation with OpenNMT,10.18653/v1/2020.ngt-1.25,3
+Multi-Hypothesis Machine Translation Evaluation,10.18653/v1/2020.acl-main.113,3
+Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder,10.18653/v1/2020.acl-srw.23,3
+Bootstrapping Named Entity Recognition in E-Commerce with Positive Unlabeled Learning,10.18653/v1/2020.ecnlp-1.1,3
+On the role of effective and referring questions in GuessWhat?!,10.18653/v1/2020.alvr-1.4,3
+Learning to Generate Multiple Style Transfer Outputs for an Input Sentence,10.18653/v1/2020.ngt-1.2,3
+How much complexity does an RNN architecture need to learn syntax-sensitive dependencies?,10.18653/v1/2020.acl-srw.33,3
+Adapting End-to-End Speech Recognition for Readable Subtitles,10.18653/v1/2020.iwslt-1.30,3
+Edinburgh’s Submissions to the 2020 Machine Translation Efficiency Task,10.18653/v1/2020.ngt-1.26,3
+Improving Autoregressive NMT with Non-Autoregressive Model,10.18653/v1/2020.autosimtrans-1.4,3
+Adaptation of Word-Level Benchmark Datasets for Relation-Level Metaphor Identification,10.18653/v1/2020.figlang-1.22,3
+Simultaneous Translation and Paraphrase for Language Education,10.18653/v1/2020.ngt-1.28,3
+Using Conceptual Norms for Metaphor Detection,10.18653/v1/2020.figlang-1.16,3
+SCAR: Sentence Compression using Autoencoders for Reconstruction,10.18653/v1/2020.acl-srw.13,3
+Checkpoint Reranking: An Approach to Select Better Hypothesis for Neural Machine Translation Systems,10.18653/v1/2020.acl-srw.38,3
+Closing the Gap: Joint De-Identification and Concept Extraction in the Clinical Domain,10.18653/v1/2020.acl-main.621,3
+SCDE: Sentence Cloze Dataset with High Quality Distractors From Examinations,10.18653/v1/2020.acl-main.502,3
+Using Context in Neural Machine Translation Training Objectives,10.18653/v1/2020.acl-main.693,3
+Target Inference in Argument Conclusion Generation,10.18653/v1/2020.acl-main.399,3
+QuASE: Question-Answer Driven Sentence Encoding,10.18653/v1/2020.acl-main.772,3
+What is Learned in Visually Grounded Neural Syntax Acquisition,10.18653/v1/2020.acl-main.234,3
+Smart To-Do: Automatic Generation of To-Do Items from Emails,10.18653/v1/2020.acl-main.767,3
+Programming in Natural Language with fuSE: Synthesizing Methods from Spoken Utterances Using Deep Natural Language Understanding,10.18653/v1/2020.acl-main.395,3
+A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction,10.18653/v1/2020.acl-main.318,3
+Low-Resource Generation of Multi-hop Reasoning Questions,10.18653/v1/2020.acl-main.601,3
+Modeling Word Formation in English–German Neural Machine Translation,10.18653/v1/2020.acl-main.389,3
+Tchebycheff Procedure for Multi-task Text Classification,10.18653/v1/2020.acl-main.388,3
+A Metric Learning Approach to Misogyny Categorization,10.18653/v1/2020.repl4nlp-1.12,3
+Max-Margin Incremental CCG Parsing,10.18653/v1/2020.acl-main.378,3
+Simultaneous Translation Policies: From Fixed to Adaptive,10.18653/v1/2020.acl-main.254,3
+Enhancing Transformer with Sememe Knowledge,10.18653/v1/2020.repl4nlp-1.21,3
+Translationese as a Language in “Multilingual” NMT,10.18653/v1/2020.acl-main.691,3
+Is Your Classifier Actually Biased? Measuring Fairness under Uncertainty with Bernstein Bounds,10.18653/v1/2020.acl-main.262,3
+NARMADA: Need and Available Resource Managing Assistant for Disasters and Adversities,10.18653/v1/2020.socialnlp-1.3,3
+Evaluating Neural Morphological Taggers for Sanskrit,10.18653/v1/2020.sigmorphon-1.23,3
+Benefits of Intermediate Annotations in Reading Comprehension,10.18653/v1/2020.acl-main.497,3
+Supervised Grapheme-to-Phoneme Conversion of Orthographic Schwas in Hindi and Punjabi,10.18653/v1/2020.acl-main.696,3
+"Worse WER, but Better BLEU? Leveraging Word Embedding as Intermediate in Multitask End-to-End Speech Translation",10.18653/v1/2020.acl-main.533,3
+Recurrent Neural Network Language Models Always Learn English-Like Relative Clause Attachment,10.18653/v1/2020.acl-main.179,3
+Controlled Crowdsourcing for High-Quality QA-SRL Annotation,10.18653/v1/2020.acl-main.626,3
+Transition-based Semantic Dependency Parsing with Pointer Networks,10.18653/v1/2020.acl-main.629,3
+ESPRIT: Explaining Solutions to Physical Reasoning Tasks,10.18653/v1/2020.acl-main.706,3
+Investigating Word-Class Distributions in Word Vector Spaces,10.18653/v1/2020.acl-main.337,3
+Automatic Machine Translation Evaluation using Source Language Inputs and Cross-lingual Language Model,10.18653/v1/2020.acl-main.327,3
+Not All Claims are Created Equal: Choosing the Right Statistical Approach to Assess Hypotheses,10.18653/v1/2020.acl-main.506,3
+"Learning Interpretable Relationships between Entities, Relations and Concepts via Bayesian Structure Learning on Open Domain Facts",10.18653/v1/2020.acl-main.717,3
+Improving the Identification of the Discourse Function of News Article Paragraphs,10.18653/v1/2020.nuse-1.3,3
+Probabilistic Assumptions Matter: Improved Models for Distantly-Supervised Document-Level Question Answering,10.18653/v1/2020.acl-main.501,3
+INSET: Sentence Infilling with INter-SEntential Transformer,10.18653/v1/2020.acl-main.226,3
+Ensemble Self-Training for Low-Resource Languages: Grapheme-to-Phoneme Conversion and Morphological Inflection,10.18653/v1/2020.sigmorphon-1.5,3
+Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences,10.18653/v1/2020.acl-main.477,3
+CraftAssist Instruction Parsing: Semantic Parsing for a Voxel-World Assistant,10.18653/v1/2020.acl-main.427,3
+Exploring Content Selection in Summarization of Novel Chapters,10.18653/v1/2020.acl-main.453,3
+Semi-supervised Contextual Historical Text Normalization,10.18653/v1/2020.acl-main.650,3
+NLP Scholar: An Interactive Visual Explorer for Natural Language Processing Literature,10.18653/v1/2020.acl-demos.27,3
+Spying on Your Neighbors: Fine-grained Probing of Contextual Embeddings for Information about Surrounding Words,10.18653/v1/2020.acl-main.434,3
+Label Noise in Context,10.18653/v1/2020.acl-demos.21,3
+OpusFilter: A Configurable Parallel Corpus Filtering Toolbox,10.18653/v1/2020.acl-demos.20,3
+jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models,10.18653/v1/2020.acl-demos.15,3
+Speaker Sensitive Response Evaluation Model,10.18653/v1/2020.acl-main.568,3
+Premise Selection in Natural Language Mathematical Texts,10.18653/v1/2020.acl-main.657,3
+Automatic extraction of personal events from dialogue,10.18653/v1/2020.nuse-1.8,3
+"“Who said it, and Why?” Provenance for Natural Language Claims",10.18653/v1/2020.acl-main.406,3
+"Fatality Killed the Cat or: BabelPic, a Multimodal Dataset for Non-Concrete Concepts",10.18653/v1/2020.acl-main.425,3
+Challenges in Emotion Style Transfer: An Exploration with a Lexical Substitution Pipeline,10.18653/v1/2020.socialnlp-1.6,3
+Complementary Systems for Off-Topic Spoken Response Detection,10.18653/v1/2020.bea-1.4,2
+Context-Driven Satirical News Generation,10.18653/v1/2020.figlang-1.5,2
+Selecting Backtranslated Data from Multiple Sources for Improved Neural Machine Translation,10.18653/v1/2020.acl-main.359,2
+Deep Learning-based Online Alternative Product Recommendations at Scale,10.18653/v1/2020.ecnlp-1.3,2
+2kenize: Tying Subword Sequences for Chinese Script Conversion,10.18653/v1/2020.acl-main.648,2
+Tracking the Evolution of Written Language Competence in L2 Spanish Learners,10.18653/v1/2020.bea-1.9,2
+Turku Enhanced Parser Pipeline: From Raw Text to Enhanced Graphs in the IWPT 2020 Shared Task,10.18653/v1/2020.iwpt-1.17,2
+Efficient EUD Parsing,10.18653/v1/2020.iwpt-1.20,2
+Sources of Transfer in Multilingual Named Entity Recognition,10.18653/v1/2020.acl-main.720,2
+Hybrid Enhanced Universal Dependencies Parsing,10.18653/v1/2020.iwpt-1.18,2
+Crawling and Preprocessing Mailing Lists At Scale for Dialog Analysis,10.18653/v1/2020.acl-main.108,2
+FFR v1.1: Fon-French Neural Machine Translation,10.18653/v1/2020.winlp-1.21,2
+Gated Convolutional Bidirectional Attention-based Model for Off-topic Spoken Response Detection,10.18653/v1/2020.acl-main.56,2
+Extracting Message Sequence Charts from Hindi Narrative Text,10.18653/v1/2020.nuse-1.11,2
+Becoming Linguistically Mature: Modeling English and German Children’s Writing Development Across School Grades,10.18653/v1/2020.bea-1.6,2
+Character Mapping and Ad-hoc Adaptation: Edinburgh’s IWSLT 2020 Open Domain Translation System,10.18653/v1/2020.iwslt-1.14,2
+Autoencoding Pixies: Amortised Variational Inference with Graph Convolutions for Functional Distributional Semantics,10.18653/v1/2020.acl-main.367,2
+A Multi-modal Approach to Fine-grained Opinion Mining on Video Reviews,10.18653/v1/2020.challengehml-1.2,2
+Interactive Construction of User-Centric Dictionary for Text Analytics,10.18653/v1/2020.acl-main.72,2
+Maintaining Quality in FEVER Annotation,10.18653/v1/2020.fever-1.6,2
+Generative Semantic Hashing Enhanced via Boltzmann Machines,10.18653/v1/2020.acl-main.71,2
+CompGuessWhat?!: A Multi-task Evaluation Framework for Grounded Language Learning,10.18653/v1/2020.acl-main.682,2
+Interpretable Operational Risk Classification with Semi-Supervised Variational Autoencoder,10.18653/v1/2020.acl-main.78,2
+Empowering Active Learning to Jointly Optimize System and User Demands,10.18653/v1/2020.acl-main.390,2
+Understanding the Language of Political Agreement and Disagreement in Legislative Texts,10.18653/v1/2020.acl-main.476,2
+Explicit Semantic Decomposition for Definition Generation,10.18653/v1/2020.acl-main.65,2
+Revisiting the Context Window for Cross-lingual Word Embeddings,10.18653/v1/2020.acl-main.94,2
+Machine Reading of Historical Events,10.18653/v1/2020.acl-main.668,2
+Exploring aspects of similarity between spoken personal narratives by disentangling them into narrative clause types,10.18653/v1/2020.nuse-1.10,2
+Enriched In-Order Linearization for Faster Sequence-to-Sequence Constituent Parsing,10.18653/v1/2020.acl-main.376,2
+The Paradigm Discovery Problem,10.18653/v1/2020.acl-main.695,2
+“The Boating Store Had Its Best Sail Ever”: Pronunciation-attentive Contextualized Pun Recognition,10.18653/v1/2020.acl-main.75,2
+A Call for More Rigor in Unsupervised Cross-lingual Learning,10.18653/v1/2020.acl-main.658,2
+Refer360∘: A Referring Expression Recognition Dataset in 360∘ Images,10.18653/v1/2020.acl-main.644,2
+On Dimensional Linguistic Properties of the Word Embedding Space,10.18653/v1/2020.repl4nlp-1.19,2
+Embedding-based Scientific Literature Discovery in a Text Editor Application,10.18653/v1/2020.acl-demos.36,2
+On the Encoder-Decoder Incompatibility in Variational Text Modeling and Beyond,10.18653/v1/2020.acl-main.316,2
+BENTO: A Visual Platform for Building Clinical NLP Pipelines Based on CodaLab,10.18653/v1/2020.acl-demos.13,2
+Should All Cross-Lingual Embeddings Speak English?,10.18653/v1/2020.acl-main.766,2
+Building a Japanese Typo Dataset from Wikipedia’s Revision History,10.18653/v1/2020.acl-srw.31,2
+Neural Metaphor Detection with a Residual biLSTM-CRF Model,10.18653/v1/2020.figlang-1.27,2
+Learning Architectures from an Extended Search Space for Language Modeling,10.18653/v1/2020.acl-main.592,2
+Understanding Points of Correspondence between Sentences for Abstractive Summarization,10.18653/v1/2020.acl-srw.26,2
+Effectively Aligning and Filtering Parallel Corpora under Sparse Data Conditions,10.18653/v1/2020.acl-srw.25,2
+Crossing the Line: Where do Demographic Variables Fit into Humor Detection?,10.18653/v1/2020.acl-srw.24,2
+Xiaomingbot: A Multilingual Robot News Reporter,10.18653/v1/2020.acl-demos.1,2
+Probing Neural Dialog Models for Conversational Understanding,10.18653/v1/2020.nlp4convai-1.15,2
+Why Overfitting Isn’t Always Bad: Retrofitting Cross-Lingual Word Embeddings to Dictionaries,10.18653/v1/2020.acl-main.201,2
+Metaphor Detection using Context and Concreteness,10.18653/v1/2020.figlang-1.30,2
+Considering Likelihood in NLP Classification Explanations with Occlusion and Language Modeling,10.18653/v1/2020.acl-srw.16,2
+Being neighbourly: Neural metaphor identification in discourse,10.18653/v1/2020.figlang-1.31,2
+Neural Multi-task Text Normalization and Sanitization with Pointer-Generator,10.18653/v1/2020.nli-1.5,2
+Dynamic Sentence Boundary Detection for Simultaneous Translation,10.18653/v1/2020.autosimtrans-1.1,2
+Nakdan: Professional Hebrew Diacritizer,10.18653/v1/2020.acl-demos.23,2
+RPD: A Distance Function Between Word Embeddings,10.18653/v1/2020.acl-srw.7,2
+SIMPLEX-PB 2.0: A Reliable Dataset for Lexical Simplification in Brazilian Portuguese,10.18653/v1/2020.winlp-1.6,2
+Recursive Template-based Frame Generation for Task Oriented Dialog,10.18653/v1/2020.acl-main.186,2
+HGCN4MeSH: Hybrid Graph Convolution Network for MeSH Indexing,10.18653/v1/2020.acl-srw.4,2
+Unsupervised Paraphasia Classification in Aphasic Speech,10.18653/v1/2020.acl-srw.3,2
+Corpus based Amharic sentiment lexicon generation,10.18653/v1/2020.winlp-1.1,2
+What determines the order of adjectives in English? Comparing efficiency-based theories using dependency treebanks,10.18653/v1/2020.acl-main.181,2
+LEAN-LIFE: A Label-Efficient Annotation Framework Towards Learning from Explanation,10.18653/v1/2020.acl-demos.42,2
+Overestimation of Syntactic Representation in Neural Language Models,10.18653/v1/2020.acl-main.160,2
+NSTM: Real-Time Query-Driven News Overview Composition at Bloomberg,10.18653/v1/2020.acl-demos.40,2
+Metaphor Detection using Ensembles of Bidirectional Recurrent Neural Networks,10.18653/v1/2020.figlang-1.33,2
+Evaluating Natural Alpha Embeddings on Intrinsic and Extrinsic Tasks,10.18653/v1/2020.repl4nlp-1.9,2
+Enhancing Word Embeddings with Knowledge Extracted from Lexical Resources,10.18653/v1/2020.acl-srw.36,2
+Evaluating a Bi-LSTM Model for Metaphor Detection in TOEFL Essays,10.18653/v1/2020.figlang-1.26,2
+Hiring Now: A Skill-Aware Multi-Attention Model for Job Posting Generation,10.18653/v1/2020.acl-main.281,2
+Review-based Question Generation with Adaptive Instance Transfer and Augmentation,10.18653/v1/2020.acl-main.26,2
+An Empirical Comparison of Unsupervised Constituency Parsing Methods,10.18653/v1/2020.acl-main.300,2
+Towards Stream Translation: Adaptive Computation Time for Simultaneous Machine Translation,10.18653/v1/2020.iwslt-1.28,2
+Enabling fast and correct typing in ‘Leichte Sprache’ (Easy Language),10.18653/v1/2020.winlp-1.17,2
+Estimating predictive uncertainty for rumour verification models,10.18653/v1/2020.acl-main.623,2
+Balancing Cost and Benefit with Tied-Multi Transformers,10.18653/v1/2020.ngt-1.3,2
+Cross-modal Language Generation using Pivot Stabilization for Web-scale Language Coverage,10.18653/v1/2020.acl-main.16,2
+Predicting Performance for Natural Language Processing Tasks,10.18653/v1/2020.acl-main.764,2
+CUNI Neural ASR with Phoneme-Level Intermediate Step for~Non-Native~SLT at IWSLT 2020,10.18653/v1/2020.iwslt-1.24,2
+Grapheme-to-Phoneme Conversion with a Multilingual Transformer Model,10.18653/v1/2020.sigmorphon-1.7,2
+An Analysis of the Utility of Explicit Negative Examples to Improve the Syntactic Abilities of Neural Language Models,10.18653/v1/2020.acl-main.309,2
+Leveraging Sentence Similarity in Natural Language Generation: Improving Beam Search using Range Voting,10.18653/v1/2020.ngt-1.11,2
+"Multi-modal Information Extraction from Text, Semi-structured, and Tabular Data on the Web",10.18653/v1/2020.acl-tutorials.6,2
+Stylized Text Generation: Approaches and Applications,10.18653/v1/2020.acl-tutorials.5,2
+"Distill, Adapt, Distill: Training Small, In-Domain Models for Neural Machine Translation",10.18653/v1/2020.ngt-1.12,2
+Detecting and understanding moral biases in news,10.18653/v1/2020.nuse-1.15,2
+Tetra-Tagging: Word-Synchronous Parsing with Linear-Time Inference,10.18653/v1/2020.acl-main.557,2
+Encodings of Source Syntax: Similarities in NMT Representations Across Target Languages,10.18653/v1/2020.repl4nlp-1.2,2
+Compositional Generalization by Factorizing Alignment and Translation,10.18653/v1/2020.acl-srw.42,2
+Integrating Graph-Based and Transition-Based Dependency Parsers in the Deep Contextualized Era,10.18653/v1/2020.iwpt-1.4,2
+The HW-TSC Video Speech Translation System at IWSLT 2020,10.18653/v1/2020.iwslt-1.23,2
+Emotion Arcs of Student Narratives,10.18653/v1/2020.nuse-1.12,2
+Advances in Using Grammars with Latent Annotations for Discontinuous Parsing,10.18653/v1/2020.iwpt-1.9,1
+Predicting and Analyzing Law-Making in Kenya,10.18653/v1/2020.winlp-1.26,1
+Studying The Effect of Emotional and Moral Language on Information Contagion during the Charlottesville Event,10.18653/v1/2020.winlp-1.34,1
+Obfuscation for Privacy-preserving Syntactic Parsing,10.18653/v1/2020.iwpt-1.7,1
+Frustratingly Hard Evidence Retrieval for QA Over Books,10.18653/v1/2020.nuse-1.13,1
+Joint Training with Semantic Role Labeling for Better Generalization in Natural Language Inference,10.18653/v1/2020.repl4nlp-1.11,1
+On-The-Fly Information Retrieval Augmentation for Language Models,10.18653/v1/2020.nuse-1.14,1
+Memory-bounded Neural Incremental Parsing for Psycholinguistic Prediction,10.18653/v1/2020.iwpt-1.6,1
+Improving Bilingual Lexicon Induction with Unsupervised Post-Processing of Monolingual Word Vector Spaces,10.18653/v1/2020.repl4nlp-1.7,1
+Mapping of Narrative Text Fields To ICD-10 Codes Using Natural Language Processing and Machine Learning,10.18653/v1/2020.winlp-1.35,1
+Learning Probabilistic Sentence Representations from Paraphrases,10.18653/v1/2020.repl4nlp-1.3,1
+Tensors over Semirings for Latent-Variable Weighted Logic Programs,10.18653/v1/2020.iwpt-1.8,1
+ISTIC’s Neural Machine Translation System for IWSLT’2020,10.18653/v1/2020.iwslt-1.19,1
+Span-Based LCFRS-2 Parsing,10.18653/v1/2020.iwpt-1.12,1
+Multi-Tiered Strictly Local Functions,10.18653/v1/2020.sigmorphon-1.29,1
+Data Augmentation for Transformer-based G2P,10.18653/v1/2020.sigmorphon-1.21,1
+Transliteration for Cross-Lingual Morphological Inflection,10.18653/v1/2020.sigmorphon-1.22,1
+A Generative Approach to Titling and Clustering Wikipedia Sections,10.18653/v1/2020.ngt-1.9,1
+English-to-Japanese Diverse Translation by Combining Forward and Backward Outputs,10.18653/v1/2020.ngt-1.15,1
+A Comparison of Identification Methods of Brazilian Music Styles by Lyrics,10.18653/v1/2020.winlp-1.16,1
+Heart Failure Education of African American and Hispanic/Latino Patients: Data Collection and Analysis,10.18653/v1/2020.nlpmc-1.6,1
+The JHU Submission to the 2020 Duolingo Shared Task on Simultaneous Translation and Paraphrase for Language Education,10.18653/v1/2020.ngt-1.22,1
+Joint learning of constraint weights and gradient inputs in Gradient Symbolic Computation with constrained optimization,10.18653/v1/2020.sigmorphon-1.27,1
+Enhancing Bias Detection in Political News Using Pragmatic Presupposition,10.18653/v1/2020.socialnlp-1.1,1
+Adaptation of Multilingual Transformer Encoder for Robust Enhanced Universal Dependency Parsing,10.18653/v1/2020.iwpt-1.19,1
+The NiuTrans System for WNGT 2020 Efficiency Task,10.18653/v1/2020.ngt-1.24,1
+Studying Challenges in Medical Conversation with Structured Annotation,10.18653/v1/2020.nlpmc-1.3,1
+Incorporating Uncertain Segmentation Information into Chinese NER for Social Media Text,10.18653/v1/2020.socialnlp-1.7,1
+Towards Reversal-Based Textual Data Augmentation for NLI Problems with Opposable Classes,10.18653/v1/2020.nli-1.2,1
+Efficient Deployment of Conversational Natural Language Interfaces over Databases,10.18653/v1/2020.nli-1.4,1
+A Translation-Based Approach to Morphology Learning for Low Resource Languages,10.18653/v1/2020.winlp-1.10,1
+Negation handling for Amharic sentiment classification,10.18653/v1/2020.winlp-1.2,1
+Improving Slot Filling by Utilizing Contextual Information,10.18653/v1/2020.nlp4convai-1.11,1
+Topic-Based Measures of Conversation for Detecting Mild CognitiveImpairment,10.18653/v1/2020.nlpmc-1.9,1
+Compressing Neural Machine Translation Models with 4-bit Precision,10.18653/v1/2020.ngt-1.4,1
+Linguist vs. Machine: Rapid Development of Finite-State Morphological Grammars,10.18653/v1/2020.sigmorphon-1.18,1
+Findings of the Fourth Workshop on Neural Generation and Translation,10.18653/v1/2020.ngt-1.1,1
+Enhanced Universal Dependency Parsing with Second-Order Inference and Mixture of Training Data,10.18653/v1/2020.iwpt-1.22,1
+RobertNLP at the IWPT 2020 Shared Task: Surprisingly Simple Enhanced UD Parsing for English,10.18653/v1/2020.iwpt-1.26,1
+KIT’s IWSLT 2020 SLT Translation System,10.18653/v1/2020.iwslt-1.4,1
+End-to-End Simultaneous Translation System for IWSLT2020 Using Modality Agnostic Meta-Learning,10.18653/v1/2020.iwslt-1.5,1
+End-to-End Offline Speech Translation System for IWSLT 2020 using Modality Agnostic Meta-Learning,10.18653/v1/2020.iwslt-1.7,1
+SRPOL’s System for the IWSLT 2020 End-to-End Speech Translation Task,10.18653/v1/2020.iwslt-1.9,1
+LIT Team’s System Description for Japanese-Chinese Machine Translation Task in IWSLT 2020,10.18653/v1/2020.iwslt-1.12,1
+OPPO’s Machine Translation System for the IWSLT 2020 Open Domain Translation Task,10.18653/v1/2020.iwslt-1.13,1
+University of Tsukuba’s Machine Translation System for IWSLT20 Open Domain Translation Task,10.18653/v1/2020.iwslt-1.17,1
+Octanove Labs’ Japanese-Chinese Open Domain Translation System,10.18653/v1/2020.iwslt-1.20,1
+Generating Fluent Translations from Disfluent Text Without Access to Fluent References: IIT Bombay@IWSLT2020,10.18653/v1/2020.iwslt-1.22,1
+ELITR Non-Native Speech Translation at IWSLT 2020,10.18653/v1/2020.iwslt-1.25,1
+AI4D - African Language Dataset Challenge,10.18653/v1/2020.winlp-1.18,1
+Neural Simultaneous Speech Translation Using Alignment-Based Chunking,10.18653/v1/2020.iwslt-1.29,1
+Low-Resource G2P and P2G Conversion with Synthetic Training Data,10.18653/v1/2020.sigmorphon-1.12,1
+One Model to Pronounce Them All: Multilingual Grapheme-to-Phoneme Conversion With a Transformer Ensemble,10.18653/v1/2020.sigmorphon-1.16,1
+New Insights into Cross-Document Event Coreference: Systematic Comparison and a Simplified Approach,10.18653/v1/2020.nuse-1.1,1
+Sketch-Fill-A-R: A Persona-Grounded Chit-Chat Generation Framework,10.18653/v1/2020.nlp4convai-1.14,1
+Learning to Understand Child-directed and Adult-directed Speech,10.18653/v1/2020.acl-main.1,1
+Regularized Context Gates on Transformer for Machine Translation,10.18653/v1/2020.acl-main.757,1
+Toward General Scene Graph: Integration of Visual Semantic Knowledge with Entity Synset Alignment,10.18653/v1/2020.alvr-1.2,1
+Combining Subword Representations into Word-level Representations in the Transformer Architecture,10.18653/v1/2020.acl-srw.10,1
+Neural Temporal Opinion Modelling for Opinion Prediction on Twitter,10.18653/v1/2020.acl-main.352,1
+Zero-shot North Korean to English Neural Machine Translation by Character Tokenization and Phoneme Decomposition,10.18653/v1/2020.acl-srw.11,1
+ChartDialogs: Plotting from Natural Language Instructions,10.18653/v1/2020.acl-main.328,1
+Non-Topical Coherence in Social Talk: A Call for Dialogue Model Enrichment,10.18653/v1/2020.acl-srw.17,1
+Do you have the right scissors? Tailoring Pre-trained Language Models via Monte-Carlo Methods,10.18653/v1/2020.acl-main.314,1
+Roles and Utilization of Attention Heads in Transformer-based Neural Language Models,10.18653/v1/2020.acl-main.311,1
+Representations of Syntax [MASK] Useful: Effects of Constituency and Dependency Structure in Recursive LSTMs,10.18653/v1/2020.acl-main.303,1
+AraDIC: Arabic Document Classification Using Image-Based Character Embeddings and Class-Balanced Loss,10.18653/v1/2020.acl-srw.29,1
+Exploring the Role of Context to Distinguish Rhetorical and Information-Seeking Questions,10.18653/v1/2020.acl-srw.41,1
+A Span-based Linearization for Constituent Trees,10.18653/v1/2020.acl-main.299,1
+Improving Segmentation for Technical Support Problems,10.18653/v1/2020.acl-main.284,1
+Reviewing Natural Language Processing Research,10.18653/v1/2020.acl-tutorials.4,1
+A Probabilistic Generative Model for Typographical Analysis of Early Modern Printing,10.18653/v1/2020.acl-main.266,1
+Showing Your Work Doesn’t Always Work,10.18653/v1/2020.acl-main.246,1
+Posterior Calibrated Training on Sentence Classification Tasks,10.18653/v1/2020.acl-main.242,1
+Interactive Classification by Asking Informative Questions,10.18653/v1/2020.acl-main.237,1
+MultiQT: Multimodal learning for real-time question tracking in speech,10.18653/v1/2020.acl-main.215,1
+Interactive Machine Comprehension with Information Seeking Agents,10.18653/v1/2020.acl-main.211,1
+Investigating the effect of auxiliary objectives for the automated grading of learner English speech transcriptions,10.18653/v1/2020.acl-main.206,1
+A Girl Has A Name: Detecting Authorship Obfuscation,10.18653/v1/2020.acl-main.203,1
+Reflection-based Word Attribute Transfer,10.18653/v1/2020.acl-srw.8,1
+Research on Task Discovery for Transfer Learning in Deep Neural Networks,10.18653/v1/2020.acl-srw.6,1
+Neural Reranking for Dependency Parsing: An Evaluation,10.18653/v1/2020.acl-main.379,1
+On Forgetting to Cite Older Papers: An Analysis of the ACL Anthology,10.18653/v1/2020.acl-main.699,1
+Semi-Supervised Semantic Dependency Parsing Using CRF Autoencoders,10.18653/v1/2020.acl-main.607,1
+DRTS Parsing with Structure-Aware Encoding and Decoding,10.18653/v1/2020.acl-main.609,1
+Language to Network: Conditional Parameter Adaptation with Natural Language Descriptions,10.18653/v1/2020.acl-main.625,1
+Out of the Echo Chamber: Detecting Countering Debate Speeches,10.18653/v1/2020.acl-main.633,1
+Predicting the Growth of Morphological Families from Social and Linguistic Factors,10.18653/v1/2020.acl-main.649,1
+Bootstrapping Techniques for Polysynthetic Morphological Analysis,10.18653/v1/2020.acl-main.594,1
+Exploiting Syntactic Structure for Better Language Modeling: A Syntactic Distance Approach,10.18653/v1/2020.acl-main.591,1
+Knowledge Supports Visual Language Grounding: A Case Study on Colour Terms,10.18653/v1/2020.acl-main.584,1
+Learning Web-based Procedures by Reasoning over Explanations and Demonstrations in Context,10.18653/v1/2020.acl-main.684,1
+Rationalizing Medical Relation Prediction from Corpus-level Statistics,10.18653/v1/2020.acl-main.719,1
+"MMPE: A Multi-Modal Interface using Handwriting, Touch Reordering, and Speech Commands for Post-Editing Machine Translation",10.18653/v1/2020.acl-demos.37,1
+Neural-DINF: A Neural Network based Framework for Measuring Document Influence,10.18653/v1/2020.acl-main.534,1
+Supervised Disambiguation of German Verbal Idioms with a BiLSTM Architecture,10.18653/v1/2020.figlang-1.29,1
+"Extracting Headless MWEs from Dependency Parse Trees: Parsing, Tagging, and Joint Modeling Approaches",10.18653/v1/2020.acl-main.775,1
+Discrete Latent Variable Representations for Low-Resource Text Classification,10.18653/v1/2020.acl-main.437,1
+Tabouid: a Wikipedia-based word guessing game,10.18653/v1/2020.acl-demos.4,1
+Dscorer: A Fast Evaluation Metric for Discourse Representation Structure Parsing,10.18653/v1/2020.acl-main.416,1
+MixingBoard: a Knowledgeable Stylized Integrated Text Generation Platform,10.18653/v1/2020.acl-demos.26,1
+Identifying Principals and Accessories in a Complex Case based on the Comprehension of Fact Description,10.18653/v1/2020.acl-main.393,1
+"ADVISER: A Toolkit for Developing Multi-modal, Multi-domain and Socially-engaged Conversational Agents",10.18653/v1/2020.acl-demos.31,1
+Speakers enhance contextually confusable words,10.18653/v1/2020.acl-main.180,1
+Multidirectional Associative Optimization of Function-Specific Word Representations,10.18653/v1/2020.acl-main.257,1
+Unsupervised Morphological Paradigm Completion,10.18653/v1/2020.acl-main.598,1
+A Probabilistic Model with Commonsense Constraints for Pattern-based Temporal Fact Extraction,10.18653/v1/2020.fever-1.3,1
+Audio-Visual Understanding of Passenger Intents for In-Cabin Conversational Agents,10.18653/v1/2020.challengehml-1.7,1
+Unsupervised Online Grounding of Natural Language during Human-Robot Interactions,10.18653/v1/2020.challengehml-1.5,1
+Global Locality in Biomedical Relation and Event Extraction,10.18653/v1/2020.bionlp-1.21,1
+Using Large Pretrained Language Models for Answering User Queries from Product Specifications,10.18653/v1/2020.ecnlp-1.5,1
+Improving Intent Classification in an E-commerce Voice Assistant by Using Inter-Utterance Context,10.18653/v1/2020.ecnlp-1.6,1
+Semi-Supervised Iterative Approach for Domain-Specific Complaint Detection in Social Media,10.18653/v1/2020.ecnlp-1.7,1
+PuzzLing Machines: A Challenge on Learning From Small Data,10.18653/v1/2020.acl-main.115,1
+SimsterQ: A Similarity based Clustering Approach to Opinion Question Answering,10.18653/v1/2020.ecnlp-1.11,1
+Noise Pollution in Hospital Readmission Prediction: Long Document Classification with Reinforcement Learning,10.18653/v1/2020.bionlp-1.10,1
+Fast and Accurate Non-Projective Dependency Tree Linearization,10.18653/v1/2020.acl-main.134,1
+Fast and Accurate Deep Bidirectional Language Representations for Unsupervised Learning,10.18653/v1/2020.acl-main.76,1
+e-Commerce and Sentiment Analysis: Predicting Outcomes of Class Action Lawsuits,10.18653/v1/2020.ecnlp-1.12,1
+On Application of Bayesian Parametric and Non-parametric Methods for User Cohorting in Product Search,10.18653/v1/2020.ecnlp-1.13,1
+Simple Compounded-Label Training for Fact Extraction and Verification,10.18653/v1/2020.fever-1.1,1
+Dynamic Sampling Strategies for Multi-Task Reading Comprehension,10.18653/v1/2020.acl-main.86,1
+Context-based Automated Scoring of Complex Mathematical Responses,10.18653/v1/2020.bea-1.19,1
+Automated Scoring of Clinical Expressive Language Evaluation Tasks,10.18653/v1/2020.bea-1.18,1
+Assisting Undergraduate Students in Writing Spanish Methodology Sections,10.18653/v1/2020.bea-1.11,1
+Augmenting Neural Metaphor Detection with Concreteness,10.18653/v1/2020.figlang-1.28,1
+Fact-based Text Editing,10.18653/v1/2020.acl-main.17,1
+It’s Easier to Translate out of English than into it: Measuring Neural Translation Difficulty by Cross-Mutual Information,10.18653/v1/2020.acl-main.149,1
+MMPE: A Multi-Modal Interface for Post-Editing Machine Translation,10.18653/v1/2020.acl-main.155,1
+You Don’t Have Time to Read This: An Exploration of Document Reading Time Prediction,10.18653/v1/2020.acl-main.162,1
+Emergence of Syntax Needs Minimal Supervision,10.18653/v1/2020.acl-main.46,0
+HausaMT v1.0: Towards English–Hausa Neural Machine Translation,10.18653/v1/2020.winlp-1.38,0
+Political Advertising Dataset: the use case of the Polish 2020 Presidential Elections,10.18653/v1/2020.winlp-1.28,0
+"Exact yet Efficient Graph Parsing, Bi-directional Locality and the Constructivist Hypothesis",10.18653/v1/2020.acl-main.377,0
+Language Models as an Alternative Evaluator of Word Order Hypotheses: A Case Study in Japanese,10.18653/v1/2020.acl-main.47,0
+Outcomes of coming out: Analyzing stories of LGBTQ+,10.18653/v1/2020.winlp-1.39,0
+Evaluating Compositionality of Sentence Representation Models,10.18653/v1/2020.repl4nlp-1.22,0
+The human unlikeness of neural language models in next-word prediction,10.18653/v1/2020.winlp-1.29,0
+Influence Paths for Characterizing Subject-Verb Number Agreement in LSTM Language Models,10.18653/v1/2020.acl-main.430,0
+On the Spontaneous Emergence of Discrete and Compositional Signals,10.18653/v1/2020.acl-main.433,0
+Multitask Models for Controlling the Complexity of Neural Machine Translation,10.18653/v1/2020.winlp-1.36,0
+Using Social Media For Bitcoin Day Trading Behavior Prediction,10.18653/v1/2020.winlp-1.37,0
+Long-Tail Predictions with Continuous-Output Language Models,10.18653/v1/2020.winlp-1.31,0
+Learning Constraints for Structured Prediction Using Rectifier Networks,10.18653/v1/2020.acl-main.438,0
+Analyzing the Framing of 2020 Presidential Candidates in the News,10.18653/v1/2020.winlp-1.32,0
+Understanding the Impact of Experiment Design for Evaluating Dialogue System Output,10.18653/v1/2020.winlp-1.33,0
+On the Choice of Auxiliary Languages for Improved Sequence Tagging,10.18653/v1/2020.repl4nlp-1.13,0
+Word Embeddings as Tuples of Feature Probabilities,10.18653/v1/2020.repl4nlp-1.4,0
+Modeling Morphological Typology for Unsupervised Learning of Language Morphology,10.18653/v1/2020.acl-main.596,0
+To Boldly Query What No One Has Annotated Before? The Frontiers of Corpus Querying,10.18653/v1/2020.acl-main.562,0
+Handling Rare Entities for Neural Sequence Labeling,10.18653/v1/2020.acl-main.574,0
+A Three-Parameter Rank-Frequency Relation in Natural Languages,10.18653/v1/2020.acl-main.44,0
+Opportunistic Decoding with Timely Correction for Simultaneous Translation,10.18653/v1/2020.acl-main.42,0
+PeTra: A Sparsely Supervised Memory Model for People Tracking,10.18653/v1/2020.acl-main.481,0
+Similarity and Farness Based Bidirectional Neural Co-Attention for Amharic Natural Language Inference,10.18653/v1/2020.winlp-1.4,0
+Supertagging with CCG primitives,10.18653/v1/2020.repl4nlp-1.23,0
+Learning Implicit Text Generation via Feature Matching,10.18653/v1/2020.acl-main.354,0
+The UniMelb Submission to the SIGMORPHON 2020 Shared Task 0: Typologically Diverse Morphological Inflection,10.18653/v1/2020.sigmorphon-1.20,0
+Single Model Ensemble using Pseudo-Tags and Distinct Vectors,10.18653/v1/2020.acl-main.271,0
+Attentive Pooling with Learnable Norms for Text Representation,10.18653/v1/2020.acl-main.267,0
+Variants of Vector Space Reductions for Predicting the Compositionality of English Noun Compounds,10.18653/v1/2020.winlp-1.13,0
+Parsing into Variable-in-situ Logico-Semantic Graphs,10.18653/v1/2020.acl-main.605,0
+Induced Inflection-Set Keyword Search in Speech,10.18653/v1/2020.sigmorphon-1.25,0
+Representation Learning for Discovering Phonemic Tone Contours,10.18653/v1/2020.sigmorphon-1.26,0
+In search of isoglosses: continuous and discrete language embeddings in Slavic historical phonology,10.18653/v1/2020.sigmorphon-1.28,0
+Low Resource Sequence Tagging using Sentence Reconstruction,10.18653/v1/2020.acl-main.239,0
+Tigrinya Automatic Speech recognition with Morpheme based recognition units,10.18653/v1/2020.winlp-1.12,0
+Effective questions in referential visual dialogue,10.18653/v1/2020.winlp-1.9,0
+Bi-directional Answer-to-Answer Co-attention for Short Answer Grading using Deep Learning,10.18653/v1/2020.winlp-1.8,0
+On Importance Sampling-Based Evaluation of Latent Language Models,10.18653/v1/2020.acl-main.196,0
+Active Imitation Learning with Noisy Guidance,10.18653/v1/2020.acl-main.189,0
+“None of the Above”: Measure Uncertainty in Dialog Response Retrieval,10.18653/v1/2020.acl-main.182,0
+CLUZH at SIGMORPHON 2020 Shared Task on Multilingual Grapheme-to-Phoneme Conversion,10.18653/v1/2020.sigmorphon-1.19,0
+An Assessment of Language Identification Methods on Tweets and Wikipedia Articles,10.18653/v1/2020.winlp-1.15,0
+Leveraging Principal Parts for Morphological Inflection,10.18653/v1/2020.sigmorphon-1.17,0
+The NYU-CUBoulder Systems for SIGMORPHON 2020 Task 0 and Task 2,10.18653/v1/2020.sigmorphon-1.8,0
+Developing a Monolingual Sentence Simplification Corpus for Urdu,10.18653/v1/2020.winlp-1.23,0
+Classification and Analysis of Neologisms Produced by Learners of Spanish: Effects of Proficiency and Task,10.18653/v1/2020.winlp-1.22,0
+Embedding Oriented Adaptable Semantic Annotation Framework for Amharic Web Documents,10.18653/v1/2020.winlp-1.3,0
+A Graph Auto-encoder Model of Derivational Morphology,10.18653/v1/2020.acl-main.106,0
+The CMU-LTI submission to the SIGMORPHON 2020 Shared Task 0: Language-Specific Cross-Lingual Transfer,10.18653/v1/2020.sigmorphon-1.6,0
+Can Wikipedia Categories Improve Masked Language Model Pretraining?,10.18653/v1/2020.winlp-1.19,0
+Multimodal Quality Estimation for Machine Translation,10.18653/v1/2020.acl-main.114,0
+University of Illinois Submission to the SIGMORPHON 2020 Shared Task 0: Typologically Diverse Morphological Inflection,10.18653/v1/2020.sigmorphon-1.15,0
+The IMS–CUBoulder System for the SIGMORPHON 2020 Shared Task on Unsupervised Morphological Paradigm Completion,10.18653/v1/2020.sigmorphon-1.9,0
+SIGMORPHON 2020 Task 0 System Description: ETH Zürich Team,10.18653/v1/2020.sigmorphon-1.10,0
+KU-CST at the SIGMORPHON 2020 Task 2 on Unsupervised Morphological Paradigm Completion,10.18653/v1/2020.sigmorphon-1.11,0
+Efficient Constituency Parsing by Pointing,10.18653/v1/2020.acl-main.301,0
+Frustratingly Easy Multilingual Grapheme-to-Phoneme Conversion,10.18653/v1/2020.sigmorphon-1.13,0
+Exploring Neural Architectures And Techniques For Typologically Diverse Morphological Inflection,10.18653/v1/2020.sigmorphon-1.14,0
+The SIGMORPHON 2020 Shared Task on Unsupervised Morphological Paradigm Completion,10.18653/v1/2020.sigmorphon-1.3,0
+Testing the role of metadata in metaphor identification,10.18653/v1/2020.figlang-1.35,0
+Semantic Parsing for English as a Second Language,10.18653/v1/2020.acl-main.606,0
+Extending ImageNet to Arabic using Arabic WordNet,10.18653/v1/2020.alvr-1.1,0
+DeSpin: a prototype system for detecting spin in biomedical publications,10.18653/v1/2020.bionlp-1.5,0
+CASIA’s System for IWSLT 2020 Open Domain Translation,10.18653/v1/2020.iwslt-1.15,0
+Deep Blue Sonics’ Submission to IWSLT 2020 Open Domain Translation Task,10.18653/v1/2020.iwslt-1.16,0
+Interpreting Neural CWI Classifiers’ Weights as Vocabulary Size,10.18653/v1/2020.bea-1.17,0
+Xiaomi’s Submissions for IWSLT 2020 Open Domain Translation Task,10.18653/v1/2020.iwslt-1.18,0
+BIT’s system for the AutoSimTrans 2020,10.18653/v1/2020.autosimtrans-1.6,0
+NAIST’s Machine Translation Systems for IWSLT 2020 Conversational Speech Translation Task,10.18653/v1/2020.iwslt-1.21,0
+End-to-End Speech Translation with Adversarial Training,10.18653/v1/2020.autosimtrans-1.2,0
+Latent Alignment of Procedural Concepts in Multimodal Recipes,10.18653/v1/2020.alvr-1.5,0
+COVID-QA: A Question Answering Dataset for COVID-19,,0
+The University of Helsinki Submission to the IWSLT2020 Offline SpeechTranslation Task,10.18653/v1/2020.iwslt-1.10,0
+NLP-based Feature Extraction for the Detection of COVID-19 Misinformation Videos on YouTube,,0
+COVID-19 and Arabic Twitter: How can Arab World Governments and Public Health Organizations Learn from Social Media?,,0
+Cross-lingual Transfer Learning for COVID-19 Outbreak Alignment,,0
+Cross-language sentiment analysis of European Twitter messages during the COVID-19 pandemic,,0
+Exploration of Gender Differences in COVID-19 Discourse on Reddit,,0
+Joint Translation and Unit Conversion for End-to-end Localization,10.18653/v1/2020.iwslt-1.32,0
+Estimating the effect of COVID-19 on mental health: Linguistic indicators of depression during a global pandemic,,0
+Measuring Emotions in the COVID-19 Real World Worry Dataset,,0
+A Natural Language Processing System for National COVID-19 Surveillance in the US Department of Veterans Affairs,,0
+The AFRL IWSLT 2020 Systems: Work-From-Home Edition,10.18653/v1/2020.iwslt-1.11,0
+Personalized Early Stage Alzheimer’s Disease Detection: A Case Study of President Reagan’s Speeches,10.18653/v1/2020.bionlp-1.14,0
+What Are People Asking About COVID-19? A Question Classification Dataset,,0
+The Importance of Category Labels in Grammar Induction with Child-directed Utterances,10.18653/v1/2020.iwpt-1.15,0
+Syntactic Parsing in Humans and Machines,10.18653/v1/2020.iwpt-1.1,0
+End-to-End Negation Resolution as Graph Parsing,10.18653/v1/2020.iwpt-1.3,0
+Generating Ethnographic Models from Communities’ Online Data,10.18653/v1/2020.figlang-1.23,0
+Semi-supervised Parsing with a Variational Autoencoding Parser,10.18653/v1/2020.iwpt-1.5,0
+Sky + Fire = Sunset. Exploring Parallels between Visually Grounded Metaphors and Image Classifiers,10.18653/v1/2020.figlang-1.19,0
+Lexicalization of Probabilistic Linear Context-free Rewriting Systems,10.18653/v1/2020.iwpt-1.10,0
+Self-Training for Unsupervised Parsing with PRPN,10.18653/v1/2020.iwpt-1.11,0
+Analysis of the Penn Korean Universal Dependency Treebank (PKT-UD): Manual Revision to Build Robust Parsing Model in Korean,10.18653/v1/2020.iwpt-1.13,0
+Statistical Deep Parsing for Spanish Using Neural Networks,10.18653/v1/2020.iwpt-1.14,0
+Semi-supervised Category-specific Review Tagging on Indonesian E-Commerce Product Reviews,10.18653/v1/2020.ecnlp-1.9,0
+Neural Transduction of Letter Position Dyslexia using an Anagram Matrix Representation,10.18653/v1/2020.bionlp-1.16,0
+Linear Neural Parsing and Hybrid Enhancement for Enhanced Universal Dependencies,10.18653/v1/2020.iwpt-1.21,0
+Exploring Weaknesses of VQA Models through Attribution Driven Insights,10.18653/v1/2020.challengehml-1.9,0
+How Much of Enhanced UD Is Contained in UD?,10.18653/v1/2020.iwpt-1.23,0
+The ADAPT Enhanced Dependency Parser at the IWPT 2020 Shared Task,10.18653/v1/2020.iwpt-1.24,0
+Køpsala: Transition-Based Graph Parsing via Efficient Training and Effective Encoding,10.18653/v1/2020.iwpt-1.25,0
+AI Sensing for Robotics using Deep Learning based Visual and Language Modeling,10.18653/v1/2020.challengehml-1.8,0
+ON-TRAC Consortium for End-to-End and Simultaneous Speech Translation Challenge Tasks at IWSLT 2020,10.18653/v1/2020.iwslt-1.2,0
+Second Grand-Challenge and Workshop on Multimodal Language (Challenge-HML),,0
+DiDi Labs’ End-to-end System for the IWSLT 2020 Offline Speech TranslationTask,10.18653/v1/2020.iwslt-1.6,0
+Jennifer for COVID-19: An NLP-Powered Chatbot Built for the People and by the People to Combat Misinformation,,0
+Information Retrieval and Extraction on COVID-19 Clinical Articles Using Graph Community Detection and Bio-BERT Embeddings,,0
+Shape of Synth to Come: Why We Should Use Synthetic Data for English Surface Realization,10.18653/v1/2020.acl-main.665,0
+Treebank Embedding Vectors for Out-of-Domain Dependency Parsing,10.18653/v1/2020.acl-main.778,0
+On Incorporating Structural Information to improve Dialogue Response Generation,10.18653/v1/2020.nlp4convai-1.2,0
+How to Tame Your Data: Data Augmentation for Dialog State Tracking,10.18653/v1/2020.nlp4convai-1.4,0
+Accelerating Natural Language Understanding in Task-Oriented Dialog,10.18653/v1/2020.nlp4convai-1.6,0
+Story-level Text Style Transfer: A Proposal,10.18653/v1/2020.acl-srw.2,0
+Automating Template Creation for Ranking-Based Dialogue Models,10.18653/v1/2020.nlp4convai-1.9,0
+Usnea: An Authorship Tool for Interactive Fiction using Retrieval Based Semantic Parsing,10.18653/v1/2020.acl-demos.29,0
+CLIReval: Evaluating Machine Translation as a Cross-Lingual Information Retrieval Task,10.18653/v1/2020.acl-demos.18,0
+pyBART: Evidence-based Syntactic Transformations for IE,10.18653/v1/2020.acl-demos.7,0
+Methods for Extracting Information from Messages from Primary Care Providers to Specialists,10.18653/v1/2020.nlpmc-1.1,0
+Revisiting Higher-Order Dependency Parsers,10.18653/v1/2020.acl-main.776,0
+Multi-Task Neural Model for Agglutinative Language Translation,10.18653/v1/2020.acl-srw.15,0
+Predicting the Focus of Negation: Model and Error Analysis,10.18653/v1/2020.acl-main.743,0
+Beyond Possession Existence: Duration and Co-Possession,10.18653/v1/2020.acl-main.739,0
+Phonetic and Visual Priors for Decipherment of Informal Romanization,10.18653/v1/2020.acl-main.737,0
+Frugal Paradigm Completion,10.18653/v1/2020.acl-main.733,0
+Screenplay Quality Assessment: Can We Predict Who Gets Nominated?,10.18653/v1/2020.nuse-1.2,0
+Exploring the Effect of Author and Reader Identity in Online Story Writing: the STORIESINTHEWILD Corpus.,10.18653/v1/2020.nuse-1.6,0
+Script Induction as Association Rule Mining,10.18653/v1/2020.nuse-1.7,0
+Understanding Advertisements with BERT,10.18653/v1/2020.acl-main.674,0
+Annotating and quantifying narrative time disruptions in modernist and hypertext fiction,10.18653/v1/2020.nuse-1.9,0
+Using Alternate Representations of Text for Natural Language Understanding,10.18653/v1/2020.nlp4convai-1.1,0
+Examination and Extension of Strategies for Improving Personalized Language Modeling via Interpolation,10.18653/v1/2020.nli-1.3,0
+"CODA-19: Using a Non-Expert Crowd to Annotate Research Aspects on 10,000+ Abstracts in the COVID-19 Open Research Dataset",,0
+POSTECH Submission on Duolingo Shared Task,10.18653/v1/2020.ngt-1.16,0
+Self-supervised context-aware COVID-19 document exploration through atlas grounding,,0
+Enabling Low-Resource Transfer Learning across COVID-19 Corpora by Combining Event-Extraction and Co-Training,,0
+Document Classification for COVID-19 Literature,,0
+Rapidly Deploying a Neural Search Engine for the COVID-19 Open Research Dataset,,0
+The Unreasonable Volatility of Neural Machine Translation Models,10.18653/v1/2020.ngt-1.10,0
+CORD-19: The COVID-19 Open Research Dataset,,0
+Training and Inference Methods for High-Coverage Neural Machine Translation,10.18653/v1/2020.ngt-1.13,0
+Meeting the 2020 Duolingo Challenge on a Shoestring,10.18653/v1/2020.ngt-1.14,0
+Achieving Common Ground in Multi-modal Dialogue,10.18653/v1/2020.acl-tutorials.3,0
+The ADAPT System Description for the STAPLE 2020 English-to-Portuguese Translation Task,10.18653/v1/2020.ngt-1.17,0
+Why is penguin more similar to polar bear than to sea gull? Analyzing conceptual knowledge in distributional models,10.18653/v1/2020.acl-srw.18,0
+Expand and Filter: CUNI and LMU Systems for the WNGT 2020 Duolingo Shared Task,10.18653/v1/2020.ngt-1.18,0
+Exploring Model Consensus to Generate Translation Paraphrases,10.18653/v1/2020.ngt-1.19,0
+Growing Together: Modeling Human Language Learning With n-Best Multi-Checkpoint Machine Translation,10.18653/v1/2020.ngt-1.20,0
+Generating Diverse Translations via Weighted Fine-tuning and Hypotheses Filtering for the Duolingo STAPLE Task,10.18653/v1/2020.ngt-1.21,0
+Inducing Grammar from Long Short-Term Memory Networks by Shapley Decomposition,10.18653/v1/2020.acl-srw.40,0
+To compress or not to compress? A Finite-State approach to Nen verbal morphology,10.18653/v1/2020.acl-srw.28,0
+Pointwise Paraphrase Appraisal is Potentially Problematic,10.18653/v1/2020.acl-srw.20,0
+Improving Document-Level Neural Machine Translation with Domain Adaptation,10.18653/v1/2020.ngt-1.27,0
+A Simple and Effective Dependency Parser for Telugu,10.18653/v1/2020.acl-srw.19,0
+Enhanced Urdu Word Segmentation using Conditional Random Fields and Morphological Context Features,10.18653/v1/2020.winlp-1.41,0
