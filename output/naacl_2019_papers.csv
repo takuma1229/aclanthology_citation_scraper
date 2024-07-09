@@ -1,0 +1,730 @@
+Title,DOI,Citations
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,10.18653/v1/N19-1423,2285
+Publicly Available Clinical BERT Embeddings,10.18653/v1/W19-1909,616
+"fairseq: A Fast, Extensible Toolkit for Sequence Modeling",10.18653/v1/N19-4009,513
+Transfer Learning in Natural Language Processing,10.18653/v1/N19-5004,238
+Predicting the Type and Target of Offensive Posts in Social Media,10.18653/v1/N19-1144,189
+A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization,10.18653/v1/N19-1226,136
+End-to-End Open-Domain Question Answering with BERTserini,10.18653/v1/N19-4013,125
+A general framework for information extraction using dynamic span graphs,10.18653/v1/N19-1308,111
+Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks,10.18653/v1/N19-1306,97
+Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout,10.18653/v1/N19-1268,97
+Linguistic Knowledge and Transferability of Contextual Representations,10.18653/v1/N19-1112,95
+Graph Convolution for Multimodal Information Extraction from Visually Rich Documents,10.18653/v1/N19-2005,95
+Star-Transformer,10.18653/v1/N19-1133,89
+Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling,10.18653/v1/N19-1259,89
+Multi-task Learning for Multi-modal Emotion Recognition and Sentiment Analysis,10.18653/v1/N19-1034,88
+Pooled Contextualized Embeddings for Named Entity Recognition,10.18653/v1/N19-1078,88
+Competence-based Curriculum Learning for Neural Machine Translation,10.18653/v1/N19-1119,82
+Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing,10.18653/v1/N19-1021,79
+On Measuring Social Biases in Sentence Encoders,10.18653/v1/N19-1063,78
+Structural Scaffolds for Citation Intent Classification in Scientific Publications,10.18653/v1/N19-1361,74
+Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings,10.18653/v1/N19-1062,72
+Gender Bias in Contextualized Word Embeddings,10.18653/v1/N19-1064,71
+Adaptive Convolution for Multi-Relational Learning,10.18653/v1/N19-1103,71
+Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases,10.18653/v1/N19-1299,66
+Adversarial Training for Weakly Supervised Event Detection,10.18653/v1/N19-1105,63
+Massively Multilingual Neural Machine Translation,10.18653/v1/N19-1388,62
+FLAIR: An Easy-to-Use Framework for State-of-the-Art NLP,10.18653/v1/N19-4010,58
+Improving Grammatical Error Correction via Pre-Training a Copy-Augmented Architecture with Unlabeled Data,10.18653/v1/N19-1014,56
+Distant Supervision Relation Extraction with Intra-Bag and Inter-Bag Attentions,10.18653/v1/N19-1288,55
+Cross-lingual Transfer Learning for Multilingual Task Oriented Dialog,10.18653/v1/N19-1380,55
+Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them,10.18653/v1/N19-1061,55
+Question Answering by Reasoning Across Documents with Graph Convolutional Networks,10.18653/v1/N19-1240,54
+Convolutional Self-Attention Networks,10.18653/v1/N19-1407,53
+Recommendations for Datasets for Source Code Summarization,10.18653/v1/N19-1394,53
+Learning Hierarchical Discourse-level Structure for Fake News Detection,10.18653/v1/N19-1347,53
+BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis,10.18653/v1/N19-1242,52
+Identifying and Reducing Gender Bias in Word-Level Language Models,10.18653/v1/N19-3002,49
+Integrating Semantic Knowledge to Tackle Zero-shot Text Classification,10.18653/v1/N19-1108,48
+CLPsych 2019 Shared Task: Predicting the Degree of Suicide Risk in Reddit Posts,10.18653/v1/W19-3003,47
+Detecting Depression in Social Media using Fine-Grained Emotions,10.18653/v1/N19-1151,47
+A Structural Probe for Finding Syntax in Word Representations,10.18653/v1/N19-1419,46
+Suicide Risk Assessment with Multi-level Dual-Context Language and BERT,10.18653/v1/W19-3005,43
+Document-Level N-ary Relation Extraction with Multiscale Representation Learning,10.18653/v1/N19-1370,42
+Rethinking Complex Neural Network Architectures for Document Classification,10.18653/v1/N19-1408,41
+Enhancing Key-Value Memory Neural Networks for Knowledge Based Question Answering,10.18653/v1/N19-1301,40
+Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings,10.18653/v1/N19-1304,40
+Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text,10.18653/v1/N19-1243,39
+Probing the Need for Visual Context in Multimodal Machine Translation,10.18653/v1/N19-1422,38
+Semantically-Aligned Equation Generation for Solving and Reasoning Math Word Problems,10.18653/v1/N19-1272,38
+Pre-training on high-resource speech recognition improves low-resource speech-to-text translation,10.18653/v1/N19-1006,37
+An Encoding Strategy Based Word-Character LSTM for Chinese NER,10.18653/v1/N19-1247,37
+Selective Attention for Context-aware Neural Machine Translation,10.18653/v1/N19-1313,37
+Pre-trained language model representations for language generation,10.18653/v1/N19-1409,36
+Joint Multiple Intent Detection and Slot Labeling for Goal-Oriented Dialog,10.18653/v1/N19-1055,35
+Probing Biomedical Embeddings from Language Models,10.18653/v1/W19-2011,35
+An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models,10.18653/v1/N19-1213,35
+Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence,10.18653/v1/N19-1035,34
+Affect-Driven Dialog Generation,10.18653/v1/N19-1374,33
+Better Modeling of Incomplete Annotations for Named Entity Recognition,10.18653/v1/N19-1079,33
+A BERT-based Universal Model for Both Within- and Cross-sentence Clinical Temporal Relation Extraction,10.18653/v1/W19-1908,33
+Corpora Generation for Grammatical Error Correction,10.18653/v1/N19-1333,33
+Incorporating Emoji Descriptions Improves Tweet Classification,10.18653/v1/N19-1214,32
+What makes a good conversation? How controllable attributes affect human judgments,10.18653/v1/N19-1170,32
+Early Rumour Detection,10.18653/v1/N19-1163,32
+Massively Multilingual Adversarial Speech Recognition,10.18653/v1/N19-1009,31
+Single Document Summarization as Tree Induction,10.18653/v1/N19-1173,31
+"Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing",10.18653/v1/N19-1162,31
+Attention is not Explanation,10.18653/v1/N19-1357,31
+Improving Machine Reading Comprehension with General Reading Strategies,10.18653/v1/N19-1270,30
+A Survey on Biomedical Image Captioning,10.18653/v1/W19-1803,28
+Unifying Human and Statistical Evaluation for Natural Language Generation,10.18653/v1/N19-1169,28
+Modeling Recurrence for Transformer,10.18653/v1/N19-1122,28
+On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models,10.18653/v1/N19-1314,27
+Neural language models as psycholinguistic subjects: Representations of syntactic state,10.18653/v1/N19-1004,27
+Curriculum Learning for Domain Adaptation in Neural Machine Translation,10.18653/v1/N19-1189,27
+Sentence Embedding Alignment for Lifelong Relation Extraction,10.18653/v1/N19-1086,26
+Positional Encoding to Control Output Sequence Length,10.18653/v1/N19-1401,26
+Reinforcement Learning Based Text Style Transfer without Parallel Training Corpus,10.18653/v1/N19-1320,26
+Argument Mining for Understanding Peer Reviews,10.18653/v1/N19-1219,25
+Medical Entity Linking using Triplet Network,10.18653/v1/W19-1912,25
+Extreme Multi-Label Legal Text Classification: A Case Study in EU Legislation,10.18653/v1/W19-2209,24
+The emergence of number and syntax units in LSTM language models,10.18653/v1/N19-1002,24
+Analyzing the Perceived Severity of Cybersecurity Threats Reported on Social Media,10.18653/v1/N19-1140,24
+Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications,10.18653/v1/N19-1337,23
+Modeling Document-level Causal Structures for Event Causal Relation Identification,10.18653/v1/N19-1179,23
+Topic-Guided Variational Auto-Encoder for Text Generation,10.18653/v1/N19-1015,23
+Hierarchical User and Item Representation with Three-Tier Attention for Recommendation,10.18653/v1/N19-1180,22
+Overcoming Catastrophic Forgetting During Domain Adaptation of Neural Machine Translation,10.18653/v1/N19-1209,22
+Submodular Optimization-based Diverse Paraphrasing and its Effectiveness in Data Augmentation,10.18653/v1/N19-1363,22
+"Adversarial Regularization for Visual Question Answering: Strengths, Shortcomings, and Side Effects",10.18653/v1/W19-1801,22
+Syntax-Enhanced Neural Machine Translation with Syntax-Aware Word Representations,10.18653/v1/N19-1118,22
+Let’s Make Your Request More Persuasive: Modeling Persuasive Strategies via Semi-Supervised Neural Nets on Crowdfunding Platforms,10.18653/v1/N19-1364,21
+Adversarial Category Alignment Network for Cross-domain Sentiment Classification,10.18653/v1/N19-1258,21
+Biomedical Event Extraction based on Knowledge-driven Tree-LSTM,10.18653/v1/N19-1145,21
+White-to-Black: Efficient Distillation of Black-Box Adversarial Attacks,10.18653/v1/N19-1139,21
+Enhancing the Measurement of Social Effects by Capturing Morality,10.18653/v1/W19-1305,21
+Event Detection without Triggers,10.18653/v1/N19-1080,21
+Text Processing Like Humans Do: Visually Attacking and Shielding NLP Systems,10.18653/v1/N19-1165,20
+Repurposing Entailment for Multi-Hop Question Answering Tasks,10.18653/v1/N19-1302,20
+Rethinking Action Spaces for Reinforcement Learning in End-to-end Dialog Agents with Latent Variable Models,10.18653/v1/N19-1123,19
+Courteously Yours: Inducing courteous behavior in Customer Care responses using Reinforced Pointer Generator Network,10.18653/v1/N19-1091,19
+Sentence Boundary Detection in Legal Text,10.18653/v1/W19-2204,19
+Something’s Brewing! Early Prediction of Controversy-causing Posts from Discussion Features,10.18653/v1/N19-1166,19
+Linguistic Analysis of Schizophrenia in Reddit Posts,10.18653/v1/W19-3009,18
+A Novel System for Extractive Clinical Note Summarization using EHR Data,10.18653/v1/W19-1906,18
+Does My Rebuttal Matter? Insights from a Major NLP Conference,10.18653/v1/N19-1129,18
+Simple Question Answering with Subgraph Ranking and Joint-Scoring,10.18653/v1/N19-1029,18
+"BERT has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model",10.18653/v1/W19-2304,17
+Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory,10.18653/v1/N19-1124,17
+Non-Parametric Adaptation for Neural Machine Translation,10.18653/v1/N19-1191,17
+Using Similarity Measures to Select Pretraining Data for NER,10.18653/v1/N19-1149,17
+Improved Lexically Constrained Decoding for Translation and Monolingual Rewriting,10.18653/v1/N19-1090,17
+"Speak up, Fight Back! Detection of Social Media Disclosures of Sexual Harassment",10.18653/v1/N19-3018,17
+Neural Text Normalization with Subword Units,10.18653/v1/N19-2024,17
+Box of Lies: Multimodal Deception Detection in Dialogues,10.18653/v1/N19-1175,17
+Multi-task Learning with Sample Re-weighting for Machine Reading Comprehension,10.18653/v1/N19-1271,16
+Jointly Optimizing Diversity and Relevance in Neural Response Generation,10.18653/v1/N19-1125,16
+Shifting the Baseline: Single Modality Performance on Visual Navigation & QA,10.18653/v1/N19-1197,16
+CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge,10.18653/v1/N19-1421,16
+Evaluating Style Transfer for Text,10.18653/v1/N19-1049,16
+Detection of Abusive Language: the Problem of Biased Datasets,10.18653/v1/N19-1060,16
+A Robust Abstractive System for Cross-Lingual Summarization,10.18653/v1/N19-1204,16
+Reinforcement Learning based Curriculum Optimization for Neural Machine Translation,10.18653/v1/N19-1208,16
+Medical Word Embeddings for Spanish: Development and Evaluation,10.18653/v1/W19-1916,15
+Evaluating Coherence in Dialogue Systems using Entailment,10.18653/v1/N19-1381,15
+Knowledge-Augmented Language Model and Its Application to Unsupervised Named-Entity Recognition,10.18653/v1/N19-1117,15
+Complexity-Weighted Loss and Diverse Reranking for Sentence Simplification,10.18653/v1/N19-1317,15
+On Difficulties of Cross-Lingual Transfer with Order Differences: A Case Study on Dependency Parsing,10.18653/v1/N19-1253,15
+Correlation Coefficients and Semantic Textual Similarity,10.18653/v1/N19-1100,15
+Better Automatic Evaluation of Open-Domain Dialogue Systems with Contextualized Embeddings,10.18653/v1/W19-2310,15
+Distinguishing Clinical Sentiment: The Importance of Domain Adaptation in Psychiatric Patient Health Records,10.18653/v1/W19-1915,15
+BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions,10.18653/v1/N19-1300,14
+A Silver Standard Corpus of Human Phenotype-Gene Relations,10.18653/v1/N19-1152,14
+Detecting Customer Complaint Escalation with Recurrent Neural Networks and Manually-Engineered Features,10.18653/v1/N19-2008,14
+DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs,10.18653/v1/N19-1246,14
+Unsupervised Latent Tree Induction with Deep Inside-Outside Recursive Auto-Encoders,10.18653/v1/N19-1116,13
+Misspelling Oblivious Word Embeddings,10.18653/v1/N19-1326,13
+Microblog Hashtag Generation via Encoding Conversation Contexts,10.18653/v1/N19-1164,13
+Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing,10.18653/v1/N19-1084,13
+Better Word Embeddings by Disentangling Contextual n-Gram Information,10.18653/v1/N19-1098,13
+Mental Health Surveillance over Social Media with Digital Cohorts,10.18653/v1/W19-3013,13
+A Large-Scale Comparison of Historical Text Normalization Systems,10.18653/v1/N19-1389,13
+“President Vows to Cut <Taxes> Hair”: Dataset and Analysis of Creative Text Editing for Humorous Headlines,10.18653/v1/N19-1012,13
+Jointly Extracting and Compressing Documents with Summary State Representations,10.18653/v1/N19-1397,13
+An Investigation of Deep Learning Systems for Suicide Risk Assessment,10.18653/v1/W19-3023,13
+Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning,10.18653/v1/N19-1358,12
+Learning to Describe Unknown Phrases with Local and Global Contexts,10.18653/v1/N19-1350,12
+Connecting Language and Knowledge with Heterogeneous Representations for Neural Relation Extraction,10.18653/v1/N19-1323,12
+Addressing word-order Divergence in Multilingual Neural Machine Translation for extremely Low Resource Languages,10.18653/v1/N19-1387,12
+Evaluating and Enhancing the Robustness of Dialogue Systems: A Case Study on a Negotiation Agent,10.18653/v1/N19-1336,12
+“When Numbers Matter!”: Detecting Sarcasm in Numerical Portions of Text,10.18653/v1/W19-1309,12
+Identifying therapist conversational actions across diverse psychotherapeutic approaches,10.18653/v1/W19-3002,12
+Deep Learning Techniques for Humor Detection in Hindi-English Code-Mixed Tweets,10.18653/v1/W19-1307,12
+Text Similarity Estimation Based on Word Embeddings and Matrix Norms for Targeted Marketing,10.18653/v1/N19-1181,12
+Online Distilling from Checkpoints for Neural Machine Translation,10.18653/v1/N19-1192,12
+An Integrated Approach for Keyphrase Generation via Exploring the Power of Retrieval and Extraction,10.18653/v1/N19-1292,12
+"Beyond task success: A closer look at jointly learning to see, ask, and GuessWhat",10.18653/v1/N19-1265,12
+Improving Event Coreference Resolution by Learning Argument Compatibility from Unlabeled Data,10.18653/v1/N19-1085,12
+Detecting Cybersecurity Events from Noisy Short Text,10.18653/v1/N19-1138,12
+In Other News: a Bi-style Text-to-speech Model for Synthesizing Newscaster Voice with Limited Data,10.18653/v1/N19-2026,12
+Attention Neural Model for Temporal Relation Extraction,10.18653/v1/W19-1917,11
+Entity Recognition at First Sight: Improving NER with Eye Movement Information,10.18653/v1/N19-1001,11
+Scaling Multi-Domain Dialogue State Tracking via Query Reformulation,10.18653/v1/N19-2013,11
+Train One Get One Free: Partially Supervised Neural Network for Bug Report Duplicate Detection and Clustering,10.18653/v1/N19-2020,11
+Inoculation by Fine-Tuning: A Method for Analyzing Challenge Datasets,10.18653/v1/N19-1225,11
+Multi-Task Ordinal Regression for Jointly Predicting the Trustworthiness and the Leading Political Ideology of News Media,10.18653/v1/N19-1216,11
+Multi-Channel Convolutional Neural Network for Twitter Emotion and Sentiment Recognition,10.18653/v1/N19-1137,11
+Combining Distant and Direct Supervision for Neural Relation Extraction,10.18653/v1/N19-1184,11
+Outlier Detection for Improved Data Quality and Diversity in Dialog Systems,10.18653/v1/N19-1051,11
+Seeing Things from a Different Angle:Discovering Diverse Perspectives about Claims,10.18653/v1/N19-1053,11
+Unsupervised Recurrent Neural Network Grammars,10.18653/v1/N19-1114,11
+Text Generation with Exemplar-based Adaptive Decoding,10.18653/v1/N19-1263,11
+Learning When Not to Answer: a Ternary Reward Structure for Reinforcement Learning Based Question Answering,10.18653/v1/N19-2016,11
+Description-Based Zero-shot Fine-Grained Entity Typing,10.18653/v1/N19-1087,11
+Incorporating Word Attention into Character-Based Word Segmentation,10.18653/v1/N19-1276,10
+Iterative Search for Weakly Supervised Semantic Parsing,10.18653/v1/N19-1273,10
+Viable Dependency Parsing as Sequence Labeling,10.18653/v1/N19-1077,10
+Sub-event detection from twitter streams as a sequence labeling problem,10.18653/v1/N19-1081,10
+Improving Lemmatization of Non-Standard Languages with Joint Learning,10.18653/v1/N19-1153,10
+Learning to Denoise Distantly-Labeled Data for Entity Typing,10.18653/v1/N19-1250,10
+Emotion Impacts Speech Recognition Performance,10.18653/v1/N19-3003,10
+Legal Area Classification: A Comparative Study of Text Classifiers on Singapore Supreme Court Judgments,10.18653/v1/W19-2208,10
+Question Answering as an Automatic Evaluation Metric for News Article Summarization,10.18653/v1/N19-1395,10
+Attentive Mimicking: Better Word Embeddings by Attending to Informative Contexts,10.18653/v1/N19-1048,10
+Inferring Which Medical Treatments Work from Reports of Clinical Trials,10.18653/v1/N19-1371,10
+Vector of Locally-Aggregated Word Embeddings (VLAWE): A Novel Document-level Representation,10.18653/v1/N19-1033,10
+Jointly Measuring Diversity and Quality in Text Generation Models,10.18653/v1/W19-2311,10
+Multi-modal Discriminative Model for Vision-and-Language Navigation,10.18653/v1/W19-1605,10
+Information Aggregation for Multi-Head Attention with Routing-by-Agreement,10.18653/v1/N19-1359,10
+What’s in a Name? Reducing Bias in Bios without Access to Protected Attributes,10.18653/v1/N19-1424,10
+Guiding Extractive Summarization with Question-Answering Rewards,10.18653/v1/N19-1264,10
+compare-mt: A Tool for Holistic Comparison of Language Generation Systems,10.18653/v1/N19-4007,9
+Pragmatically Informative Text Generation,10.18653/v1/N19-1410,9
+Giving Attention to the Unexpected: Using Prosody Innovations in Disfluency Detection,10.18653/v1/N19-1008,9
+Context-Aware Cross-Lingual Mapping,10.18653/v1/N19-1391,9
+Mining Discourse Markers for Unsupervised Sentence Representation Learning,10.18653/v1/N19-1351,9
+Joint Multi-Label Attention Networks for Social Text Annotation,10.18653/v1/N19-1136,9
+Short-Term Meaning Shift: A Distributional Exploration,10.18653/v1/N19-1210,9
+Relation Extraction using Explicit Context Conditioning,10.18653/v1/N19-1147,9
+How do we feel when a robot dies? Emotions expressed on Twitter before and after hitchBOT’s destruction,10.18653/v1/W19-1308,9
+Alignment over Heterogeneous Embeddings for Question Answering,10.18653/v1/N19-1274,9
+A Dynamic Speaker Model for Conversational Interactions,10.18653/v1/N19-1284,9
+Evaluating Rewards for Question Generation Models,10.18653/v1/N19-1237,9
+Strong and Simple Baselines for Multimodal Utterance Embeddings,10.18653/v1/N19-1267,9
+Document-Level Event Factuality Identification via Adversarial Neural Network,10.18653/v1/N19-1287,9
+Ranking-Based Autoencoder for Extreme Multi-label Classification,10.18653/v1/N19-1289,9
+Generalizing Unmasking for Short Texts,10.18653/v1/N19-1068,9
+Adversarial Training for Satire Detection: Controlling for Confounding Variables,10.18653/v1/N19-1069,9
+Dataset Mention Extraction and Classification,10.18653/v1/W19-2604,8
+Semantic Characteristics of Schizophrenic Speech,10.18653/v1/W19-3010,8
+Coherence models in schizophrenia,10.18653/v1/W19-3015,8
+Towards Automatic Generation of Shareable Synthetic Clinical Notes Using Neural Language Models,10.18653/v1/W19-1905,8
+pair2vec: Compositional Word-Pair Embeddings for Cross-Sentence Inference,10.18653/v1/N19-1362,8
+Understanding Dataset Design Choices for Multi-hop Reasoning,10.18653/v1/N19-1405,8
+Neural Grammatical Error Correction with Finite State Transducers,10.18653/v1/N19-1406,8
+Multi-Modal Generative Adversarial Network for Short Product Title Generation in Mobile E-Commerce,10.18653/v1/N19-2009,8
+A large-scale study of the effects of word frequency and predictability in naturalistic reading,10.18653/v1/N19-1413,8
+Polyglot Contextual Representations Improve Crosslingual Transfer,10.18653/v1/N19-1392,8
+"Plan, Write, and Revise: an Interactive System for Open-Domain Story Generation",10.18653/v1/N19-4016,8
+Predicting Helpful Posts in Open-Ended Discussion Forums: A Neural Architecture,10.18653/v1/N19-1318,8
+Generating Token-Level Explanations for Natural Language Inference,10.18653/v1/N19-1101,8
+Subword Encoding in Lattice LSTM for Chinese Word Segmentation,10.18653/v1/N19-1278,8
+Adversarial Decomposition of Text Representation,10.18653/v1/N19-1088,8
+Mitigating Uncertainty in Document Classification,10.18653/v1/N19-1316,8
+An annotated dataset of literary entities,10.18653/v1/N19-1220,8
+"Practical, Efficient, and Customizable Active Learning for Named Entity Recognition in the Digital Humanities",10.18653/v1/N19-1231,8
+Consistency by Agreement in Zero-Shot Neural Machine Translation,10.18653/v1/N19-1121,8
+Extract and Edit: An Alternative to Back-Translation for Unsupervised Neural Machine Translation,10.18653/v1/N19-1120,8
+A Richer-but-Smarter Shortest Dependency Path with Attentive Augmentation for Relation Extraction,10.18653/v1/N19-1298,7
+“Caption” as a Coherence Relation: Evidence and Implications,10.18653/v1/W19-1806,7
+Structural Neural Encoders for AMR-to-text Generation,10.18653/v1/N19-1366,7
+Ranking and Selecting Multi-Hop Knowledge Paths to Better Predict Human Needs,10.18653/v1/N19-1368,7
+A Systematic Study of Leveraging Subword Information for Learning Word Representations,10.18653/v1/N19-1097,7
+Improving Distantly-supervised Entity Typing with Compact Latent Space Clustering,10.18653/v1/N19-1294,7
+Adaptive Convolution for Text Classification,10.18653/v1/N19-1256,7
+Hierarchical Nested Named Entity Recognition,10.18653/v1/W19-1904,7
+Deep Learning for Natural Language Inference,10.18653/v1/N19-5002,7
+"Eidos, INDRA, & Delphi: From Free Text to Executable Causal Models",10.18653/v1/N19-4008,7
+WiC: the Word-in-Context Dataset for Evaluating Context-Sensitive Meaning Representations,10.18653/v1/N19-1128,7
+Open Information Extraction from Question-Answer Pairs,10.18653/v1/N19-1239,7
+A Case Study on Neural Headline Generation for Editing Support,10.18653/v1/N19-2010,7
+Development and Deployment of a Large-Scale Dialog-based Intelligent Tutoring System,10.18653/v1/N19-2015,7
+Graph Pattern Entity Ranking Model for Knowledge Graph Completion,10.18653/v1/N19-1104,7
+Distantly Supervised Biomedical Knowledge Acquisition via Knowledge Graph Based Attention,10.18653/v1/W19-2601,7
+Fake News Detection using Deep Markov Random Fields,10.18653/v1/N19-1141,7
+Improving Neural Machine Translation with Neural Syntactic Distance,10.18653/v1/N19-1205,7
+Temporal Analysis of the Semantic Verbal Fluency Task in Persons with Subjective and Mild Cognitive Impairment,10.18653/v1/W19-3012,7
+CLPsych2019 Shared Task: Predicting Suicide Risk Level from Reddit Posts on Multiple Forums,10.18653/v1/W19-3020,7
+Similar Minds Post Alike: Assessment of Suicide Risk Using a Hybrid Model,10.18653/v1/W19-3018,7
+Improving Robustness of Machine Translation with Synthetic Noise,10.18653/v1/N19-1190,7
+Revisiting Adversarial Autoencoder for Unsupervised Word Translation with Cycle Consistency and Improved Training,10.18653/v1/N19-1386,7
+AudioCaps: Generating Captions for Audios in The Wild,10.18653/v1/N19-1011,7
+Highly Effective Arabic Diacritization using Sequence to Sequence Modeling,10.18653/v1/N19-1248,7
+Semantic Role Labeling with Associated Memory Network,10.18653/v1/N19-1340,7
+Continual Learning for Sentence Representations Using Conceptors,10.18653/v1/N19-1331,7
+How Large a Vocabulary Does Text Classification Need? A Variational Approach to Vocabulary Selection,10.18653/v1/N19-1352,6
+Simplified Neural Unsupervised Domain Adaptation,10.18653/v1/N19-1039,6
+Multi-Level Memory for Task Oriented Dialogs,10.18653/v1/N19-1375,6
+A Multi-Task Approach for Disentangling Syntax and Semantics in Sentence Representations,10.18653/v1/N19-1254,6
+Learning to Attend On Essential Terms: An Enhanced Retriever-Reader Model for Open-domain Question Answering,10.18653/v1/N19-1030,6
+How to Avoid Sentences Spelling Boring? Towards a Neural Approach to Unsupervised Metaphor Generation,10.18653/v1/N19-1092,6
+Language and Dialect Identification of Cuneiform Texts,10.18653/v1/W19-1409,6
+Keyphrase Generation: A Text Summarization Struggle,10.18653/v1/N19-1070,6
+Learning to Decipher Hate Symbols,10.18653/v1/N19-1305,6
+Structural Supervision Improves Learning of Non-Local Grammatical Dependencies,10.18653/v1/N19-1334,6
+An Effective Label Noise Model for DNN Text Classification,10.18653/v1/N19-1328,6
+Low-Resource Syntactic Transfer with Unsupervised Source Reordering,10.18653/v1/N19-1385,6
+A Study of Incorrect Paraphrases in Crowdsourced User Utterances,10.18653/v1/N19-1026,6
+Neural Vector Conceptualization for Word Vector Space Interpretation,10.18653/v1/W19-2001,6
+Subword-Level Language Identification for Intra-Word Code-Switching,10.18653/v1/N19-1201,6
+Uphill from here: Sentiment patterns in videos from left- and right-wing YouTube news channels,10.18653/v1/W19-2110,6
+Improving Cuneiform Language Identification with BERT,10.18653/v1/W19-1402,6
+Domain adaptation for part-of-speech tagging of noisy user-generated text,10.18653/v1/N19-1345,6
+Relation Classification Using Segment-Level Attention-based CNN and Dependency-based RNN,10.18653/v1/N19-1286,6
+Improving Domain Adaptation Translation with Domain Invariant and Specific Information,10.18653/v1/N19-1312,6
+Cross-lingual Subjectivity Detection for Resource Lean Languages,10.18653/v1/W19-1310,6
+Plain English Summarization of Contracts,10.18653/v1/W19-2201,6
+An Analysis of Attention over Clinical Notes for Predictive Tasks,10.18653/v1/W19-1902,6
+Depressed Individuals Use Negative Self-Focused Language When Recalling Recent Interactions with Close Romantic Partners but Not Family or Friends,10.18653/v1/W19-3008,6
+Dependency Parsing with your Eyes: Dependency Structure Predicts Eye Regressions During Reading,10.18653/v1/W19-2909,6
+PAWS: Paraphrase Adversaries from Word Scrambling,10.18653/v1/N19-1131,6
+Frequency vs. Association for Constraint Selection in Usage-Based Construction Grammar,10.18653/v1/W19-2913,6
+Tweet Classification without the Tweet: An Empirical Examination of User versus Document Attributes,10.18653/v1/W19-2103,6
+Density Matching for Bilingual Word Embedding,10.18653/v1/N19-1161,6
+Bi-Directional Differentiable Input Reconstruction for Low-Resource Neural Machine Translation,10.18653/v1/N19-1043,6
+Cross-lingual Multi-Level Adversarial Transfer to Enhance Low-Resource Name Tagging,10.18653/v1/N19-1383,6
+Audio De-identification - a New Entity Recognition Task,10.18653/v1/N19-2025,6
+A Submodular Feature-Aware Framework for Label Subset Selection in Extreme Classification Problems,10.18653/v1/N19-1106,6
+Step-by-Step: Separating Planning from Realization in Neural Data-to-Text Generation,10.18653/v1/N19-1236,6
+Geolocating Political Events in Text,10.18653/v1/W19-2104,6
+Analyzing Incorporation of Emotion in Emoji Prediction,10.18653/v1/W19-1311,6
+Scalable Methods for Annotating Legal-Decision Corpora,10.18653/v1/W19-2202,5
+Stylometric Classification of Ancient Greek Literary Texts by Genre,10.18653/v1/W19-2507,5
+CODAH: An Adversarially-Authored Question Answering Dataset for Common Sense,10.18653/v1/W19-2008,5
+Semantic Spatial Representation: a unique representation of an environment based on an ontology for robotic applications,10.18653/v1/W19-1606,5
+A Report on the Third VarDial Evaluation Campaign,10.18653/v1/W19-1401,5
+Speech-based Estimation of Bulbar Regression in Amyotrophic Lateral Sclerosis,10.18653/v1/W19-1704,5
+How Well Do Embedding Models Capture Non-compositionality? A View from Multiword Expressions,10.18653/v1/W19-2004,5
+Unsupervised Hierarchical Story Infilling,10.18653/v1/W19-2405,5
+Language Discrimination and Transfer Learning for Similar Languages: Experiments with Feature Combinations and Adaptation,10.18653/v1/W19-1406,5
+GraphIE: A Graph-Based Framework for Information Extraction,10.18653/v1/N19-1082,5
+Towards Coherent and Cohesive Long-form Text Generation,10.18653/v1/W19-2401,5
+Exploiting Noisy Data in Distant Supervision Relation Classification,10.18653/v1/N19-1325,5
+Adapting RNN Sequence Prediction Model to Multi-label Set Prediction,10.18653/v1/N19-1321,5
+Studying the Inductive Biases of RNNs with Synthetic Variations of Natural Languages,10.18653/v1/N19-1356,5
+Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations,10.18653/v1/N19-1296,5
+Modeling Behavioral Aspects of Social Media Discourse for Moral Classification,10.18653/v1/W19-2112,5
+"How to Compare Summarizers without Target Length? Pitfalls, Solutions and Re-Examination of the Neural Summarization Literature",10.18653/v1/W19-2303,5
+An Adversarial Learning Framework For A Persona-Based Multi-Turn Dialogue Model,10.18653/v1/W19-2301,5
+Automatically Generating Psychiatric Case Notes From Digital Transcripts of Doctor-Patient Conversations,10.18653/v1/W19-1918,5
+Cross-Corpora Evaluation and Analysis of Grammatical Error Correction Models — Is Single-Corpus Evaluation Enough?,10.18653/v1/N19-1132,5
+Overcoming the bottleneck in traditional assessments of verbal memory: Modeling human ratings and classifying clinical group membership,10.18653/v1/W19-3016,5
+Predicting Suicide Risk from Online Postings in Reddit The UGent-IDLab submission to the CLPysch 2019 Shared Task A,10.18653/v1/W19-3019,5
+A Crowdsourced Frame Disambiguation Corpus with Ambiguity,10.18653/v1/N19-1224,5
+Crowdsourcing Lightweight Pyramids for Manual Summary Evaluation,10.18653/v1/N19-1072,5
+Left-to-Right Dependency Parsing with Pointer Networks,10.18653/v1/N19-1076,5
+Fluent Translations from Disfluent Speech in End-to-End Speech Translation,10.18653/v1/N19-1285,5
+Text Classification with Few Examples using Controlled Generalization,10.18653/v1/N19-1319,5
+Using Contextual Representations for Suicide Risk Assessment from Internet Forums,10.18653/v1/W19-3022,5
+Learning Unsupervised Multilingual Word Embeddings with Incremental Multilingual Hubs,10.18653/v1/N19-1188,5
+Text Generation from Knowledge Graphs with Graph Transformers,10.18653/v1/N19-1238,5
+One Size Does Not Fit All: Comparing NMT Representations of Different Granularities,10.18653/v1/N19-1154,5
+On Knowledge distillation from complex networks for response prediction,10.18653/v1/N19-1382,5
+Measuring the perceptual availability of phonological features during language acquisition using unsupervised binary stochastic autoencoders,10.18653/v1/N19-1007,5
+Integration of Knowledge Graph Embedding Into Topic Modeling with Hierarchical Dirichlet Process,10.18653/v1/N19-1099,5
+Strong Baselines for Complex Word Identification across Multiple Languages,10.18653/v1/N19-1102,5
+UHop: An Unrestricted-Hop Relation Extraction Framework for Knowledge-Based Question Answering,10.18653/v1/N19-1031,5
+A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification,10.18653/v1/N19-1036,5
+Code-Switching for Enhancing NMT with Pre-Specified Translation,10.18653/v1/N19-1044,5
+Learning Bilingual Sentiment-Specific Word Embeddings without Cross-lingual Supervision,10.18653/v1/N19-1040,5
+Data Augmentation by Data Noising for Open-vocabulary Slots in Spoken Language Understanding,10.18653/v1/N19-3014,5
+Handling Noisy Labels for Robustly Learning from Self-Training Data for Low-Resource Sequence Labeling,10.18653/v1/N19-3005,5
+Latent Code and Text-based Generative Adversarial Networks for Soft-text Generation,10.18653/v1/N19-1234,5
+CLaC at CLPsych 2019: Fusion of Neural Features and Predicted Class Probabilities for Suicide Risk Assessment Based on Online Posts,10.18653/v1/W19-3004,5
+Practical Semantic Parsing for Spoken Language Understanding,10.18653/v1/N19-2003,5
+Fixed That for You: Generating Contrastive Claims with Semantic Edits,10.18653/v1/N19-1174,4
+Designing a Symbolic Intermediate Representation for Neural Surface Realization,10.18653/v1/W19-2308,4
+Joint Approach to Deromanization of Code-mixed Texts,10.18653/v1/W19-1403,4
+Cross-lingual Visual Verb Sense Disambiguation,10.18653/v1/N19-1200,4
+A Sociolinguistic Study of Online Echo Chambers on Twitter,10.18653/v1/W19-2109,4
+Neural Text Simplification in Low-Resource Conditions Using Weak Supervision,10.18653/v1/W19-2305,4
+Permanent Magnetic Articulograph (PMA) vs Electromagnetic Articulograph (EMA) in Articulation-to-Speech Synthesis for Silent Speech Interface,10.18653/v1/W19-1703,4
+Pun Generation with Surprise,10.18653/v1/N19-1172,4
+A Simple Joint Model for Improved Contextual Neural Lemmatization,10.18653/v1/N19-1155,4
+Are Fictional Voices Distinguishable? Classifying Character Voices in Modern Drama,10.18653/v1/W19-2504,4
+Towards augmenting crisis counselor training by improving message retrieval,10.18653/v1/W19-3001,4
+Locale-agnostic Universal Domain Classification Model in Spoken Language Understanding,10.18653/v1/N19-2002,4
+Stochastic Wasserstein Autoencoder for Probabilistic Sentence Generation,10.18653/v1/N19-1411,4
+Neural Lexicons for Slot Tagging in Spoken Language Understanding,10.18653/v1/N19-2011,4
+Fast Prototyping a Dialogue Comprehension System for Nurse-Patient Conversations on Symptom Monitoring,10.18653/v1/N19-2004,4
+Sequential Attention with Keyword Mask Model for Community-based Question Answering,10.18653/v1/N19-1228,4
+Neural Text Generation from Rich Semantic Representations,10.18653/v1/N19-1235,4
+Evaluating Text GANs as Language Models,10.18653/v1/N19-1233,4
+"A Qualitative Comparison of CoQA, SQuAD 2.0 and QuAC",10.18653/v1/N19-1241,4
+ChatEval: A Tool for Chatbot Evaluation,10.18653/v1/N19-4011,4
+Extracting Adverse Drug Event Information with Minimal Engineering,10.18653/v1/W19-1903,4
+Abusive Language Detection with Graph Convolutional Networks,10.18653/v1/N19-1221,4
+On the Importance of Distinguishing Word Meaning Representations: A Case Study on Reverse Dictionary Mapping,10.18653/v1/N19-1222,4
+Cooperative Learning of Disjoint Syntax and Semantics,10.18653/v1/N19-1115,4
+Multimodal Machine Translation with Embedding Prediction,10.18653/v1/N19-3012,4
+"Scalable, Semi-Supervised Extraction of Structured Information from Scientific Literature",10.18653/v1/W19-2602,4
+MuST-C: a Multilingual Speech Translation Corpus,10.18653/v1/N19-1202,4
+The Active-Filler Strategy in a Move-Eager Left-Corner Minimalist Grammar Parser,10.18653/v1/W19-2901,4
+Dictionaries and Decision Trees for the 2019 CLPsych Shared Task,10.18653/v1/W19-3025,4
+Detecting dementia in Mandarin Chinese using transfer learning from a parallel corpus,10.18653/v1/N19-1199,4
+Using natural conversations to classify autism with limited data: Age matters,10.18653/v1/W19-3006,4
+FreebaseQA: A New Factoid QA Data Set Matching Trivia-Style Question-Answer Pairs with Freebase,10.18653/v1/N19-1028,4
+MathQA: Towards Interpretable Math Word Problem Solving with Operation-Based Formalisms,10.18653/v1/N19-1245,4
+Abstractive Summarization of Reddit Posts with Multi-level Memory Networks,10.18653/v1/N19-1260,4
+Evaluating Composition Models for Verb Phrase Elliptical Sentence Embeddings,10.18653/v1/N19-1023,4
+Incorporating Context and External Knowledge for Pronoun Coreference Resolution,10.18653/v1/N19-1093,4
+Unsupervised Deep Structured Semantic Models for Commonsense Reasoning,10.18653/v1/N19-1094,4
+Understanding Learning Dynamics Of Language Models with SVCCA,10.18653/v1/N19-1329,4
+Improving Dialogue State Tracking by Discerning the Relevant Context,10.18653/v1/N19-1057,4
+Syntax-aware Neural Semantic Role Labeling with Supertags,10.18653/v1/N19-1075,4
+The Extent of Repetition in Contract Language,10.18653/v1/W19-2203,4
+Semi-Supervised Teacher-Student Architecture for Relation Extraction,10.18653/v1/W19-1505,4
+Lightly-supervised Representation Learning with Global Interpretability,10.18653/v1/W19-1504,4
+Modeling Global Syntactic Variation in English Using Dialect Classification,10.18653/v1/W19-1405,3
+Experiments in Cuneiform Language Identification,10.18653/v1/W19-1423,3
+Benchmarking Approximate Inference Methods for Neural Structured Prediction,10.18653/v1/N19-1335,3
+Enhancing Opinion Role Labeling with Semantic-Aware Word Representations from Semantic Role Labeling,10.18653/v1/N19-1066,3
+SWOW-8500: Word Association task for Intrinsic Evaluation of Word Embeddings,10.18653/v1/W19-2006,3
+Classification of Semantic Paraphasias: Optimization of a Word Embedding Model,10.18653/v1/W19-2007,3
+Neural Constituency Parsing of Speech Transcripts,10.18653/v1/N19-1282,3
+Paraphrase Generation for Semi-Supervised Learning in NLU,10.18653/v1/W19-2306,3
+DAL: Dual Adversarial Learning for Dialogue Generation,10.18653/v1/W19-2302,3
+Developing and Orchestrating a Portfolio of Natural Legal Language Processing and Document Curation Services,10.18653/v1/W19-2207,3
+"Identification, Interpretability, and Bayesian Word Embeddings",10.18653/v1/W19-2102,3
+Typological Features for Multilingual Delexicalised Dependency Parsing,10.18653/v1/N19-1393,3
+Riemannian Normalizing Flow on Variational Wasserstein Autoencoder for Text Modeling,10.18653/v1/N19-1025,3
+Dialogue Act Classification with Context-Aware Self-Attention,10.18653/v1/N19-1373,3
+Towards Content Transfer through Grounded Text Generation,10.18653/v1/N19-1269,3
+HiGRU: Hierarchical Gated Recurrent Units for Utterance-Level Emotion Recognition,10.18653/v1/N19-1037,3
+Deep Cross-Lingual Coreference Resolution for Less-Resourced Languages: The Case of Basque,10.18653/v1/W19-2806,3
+Modeling Word Emotion in Historical Language: Quantity Beats Supposed Stability in Seed Word Selection,10.18653/v1/W19-2501,3
+Learning Interpretable Negation Rules via Weak Supervision at Document Level: A Reinforcement Learning Approach,10.18653/v1/N19-1038,3
+CAN-NER: Convolutional Attention Network for Chinese Named Entity Recognition,10.18653/v1/N19-1342,3
+Multilingual prediction of Alzheimer’s disease through domain adaptation and concept-based language modelling,10.18653/v1/N19-1367,3
+Recursive Routing Networks: Learning to Compose Modules for Language Understanding,10.18653/v1/N19-1365,3
+Legal Linking: Citation Resolution and Suggestion in Constitutional Law,10.18653/v1/W19-2205,3
+IMHO Fine-Tuning Improves Claim Detection,10.18653/v1/N19-1054,3
+Neural Machine Translation of Text from Non-Native Speakers,10.18653/v1/N19-1311,3
+Predicting Malware Attributes from Cybersecurity Texts,10.18653/v1/N19-1293,3
+Semantics and Homothetic Clustering of Hafez Poetry,10.18653/v1/W19-2511,3
+Relation Extraction with Temporal Reasoning Based on Memory Augmented Distant Supervision,10.18653/v1/N19-1107,3
+A Simple and Robust Approach to Detecting Subject-Verb Agreement Errors,10.18653/v1/N19-1251,3
+Be Consistent! Improving Procedural Text Comprehension using Label Consistency,10.18653/v1/N19-1244,3
+Introduction to Discourse Relation Parsing and Treebanking (DISRPT): 7th Workshop on Rhetorical Structure Theory and Related Formalisms,10.18653/v1/W19-2701,3
+FAKTA: An Automatic End-to-End Fact Checking System,10.18653/v1/N19-4014,3
+Applying Rhetorical Structure Theory to Student Essays for Providing Automated Writing Feedback,10.18653/v1/W19-2720,3
+Deep Adversarial Learning for NLP,10.18653/v1/N19-5001,3
+Conversation Model Fine-Tuning for Classifying Client Utterances in Counseling Dialogues,10.18653/v1/N19-1148,3
+SEDTWik: Segmentation-based Event Detection from Tweets Using Wikipedia,10.18653/v1/N19-3011,3
+Effective Feature Representation for Clinical Text Concept Extraction,10.18653/v1/W19-1901,3
+Variation between Different Discourse Types: Literate vs. Oral,10.18653/v1/W19-1407,3
+A Streamlined Method for Sourcing Discourse-level Argumentation Annotations from the Crowd,10.18653/v1/N19-1177,3
+A Crowdsourced Corpus of Multiple Judgments and Disagreement on Anaphoric Interpretation,10.18653/v1/N19-1176,3
+"Multilingual Entity, Relation, Event and Human Value Extraction",10.18653/v1/N19-4019,3
+Suicide Risk Assessment on Social Media: USI-UPF at the CLPsych 2019 Shared Task,10.18653/v1/W19-3021,3
+ConvSent at CLPsych 2019 Task A: Using Post-level Sentiment Features for Suicide Risk Prediction on Reddit,10.18653/v1/W19-3024,3
+Robust Semantic Parsing with Adversarial Learning for Domain Generalization,10.18653/v1/N19-2021,3
+Opinion Mining with Deep Contextualized Embeddings,10.18653/v1/N19-3006,3
+Simple Attention-Based Representation Learning for Ranking Short Social Media Posts,10.18653/v1/N19-1229,3
+Cross-lingual NIL Entity Clustering for Low-resource Languages,10.18653/v1/W19-2804,3
+A Probabilistic Generative Model of Linguistic Typology,10.18653/v1/N19-1156,3
+Augmenting word2vec with latent Dirichlet allocation within a clinical application,10.18653/v1/N19-1414,3
+Cross-lingual Transfer Learning for Japanese Named Entity Recognition,10.18653/v1/N19-2023,3
+Generating Text through Adversarial Training Using Skip-Thought Vectors,10.18653/v1/N19-3008,3
+Evaluation of named entity coreference,10.18653/v1/W19-2801,3
+Neural Coreference Resolution with Limited Lexical Context and Explicit Mention Detection for Oral French,10.18653/v1/W19-2802,3
+The Development of Abstract Concepts in Children’s Early Lexical Networks,10.18653/v1/W19-2914,3
+Joint Learning of Pre-Trained and Random Units for Domain Adaptation in Part-of-Speech Tagging,10.18653/v1/N19-1416,3
+Show Some Love to Your n-grams: A Bit of Progress and Stronger n-gram Language Modeling Baselines,10.18653/v1/N19-1417,3
+SpatialNet: A Declarative Resource for Spatial Relations,10.18653/v1/W19-1607,3
+Investigating Machine Learning Methods for Language and Dialect Identification of Cuneiform Texts,10.18653/v1/W19-1420,3
+Detecting cognitive impairments by agreeing on interpretations of linguistic features,10.18653/v1/N19-1146,3
+Joint Detection and Location of English Puns,10.18653/v1/N19-1217,3
+Modeling Personal Biases in Language Use by Inducing Personalized Word Embeddings,10.18653/v1/N19-1215,3
+Personalized Neural Embeddings for Collaborative Filtering with Text,10.18653/v1/N19-1212,3
+Active Learning for New Domains in Natural Language Understanding,10.18653/v1/N19-2012,3
+On the Feasibility of Automated Detection of Allusive Text Reuse,10.18653/v1/W19-2514,3
+Clustering-Based Article Identification in Historical Newspapers,10.18653/v1/W19-2502,2
+The Scientization of Literary Study,10.18653/v1/W19-2503,2
+Word Embedding-Based Automatic MT Evaluation Metric using Word Position Information,10.18653/v1/N19-1186,2
+Generating Knowledge Graph Paths from Textual Definitions using Sequence-to-Sequence Models,10.18653/v1/N19-1196,2
+Tweet Stance Detection Using an Attention based Neural Ensemble Model,10.18653/v1/N19-1185,2
+Mutual Information Maximization for Simple and Accurate Part-Of-Speech Induction,10.18653/v1/N19-1113,2
+OpenKI: Integrating Open Information Extraction and Knowledge Bases with Relation Inference,10.18653/v1/N19-1083,2
+"Better, Faster, Stronger Sequence Tagging Constituent Parsers",10.18653/v1/N19-1341,2
+Topic Spotting using Hierarchical Networks with Self Attention,10.18653/v1/N19-1376,2
+Automatic Alignment and Annotation Projection for Literary Texts,10.18653/v1/W19-2505,2
+Bilingual-GAN: A Step Towards Parallel Text Generation,10.18653/v1/W19-2307,2
+Learning Relational Representations by Analogy using Hierarchical Siamese Networks,10.18653/v1/N19-1327,2
+Neural Text Style Transfer via Denoising and Reranking,10.18653/v1/W19-2309,2
+Acoustic-to-Word Models with Conversational Context Information,10.18653/v1/N19-1283,2
+The Steep Road to Happily Ever after: an Analysis of Current Visual Storytelling Models,10.18653/v1/W19-1805,2
+Learning Multilingual Word Embeddings Using Image-Text Data,10.18653/v1/W19-1807,2
+Discriminating between Mandarin Chinese and Swiss-German varieties using adaptive language models,10.18653/v1/W19-1419,2
+Decomposed Local Models for Coordinate Structure Parsing,10.18653/v1/N19-1343,2
+"Big BiRD: A Large, Fine-Grained, Bigram Relatedness Dataset for Examining Semantic Composition",10.18653/v1/N19-1050,2
+Unsupervised Dialog Structure Learning,10.18653/v1/N19-1178,2
+Lost in Machine Translation: A Method to Reduce Meaning Loss,10.18653/v1/N19-1042,2
+ExCL: Extractive Clip Localization Using Natural Language Descriptions,10.18653/v1/N19-1198,2
+Scalable Collapsed Inference for High-Dimensional Topic Models,10.18653/v1/N19-1291,2
+Evaluation of Morphological Embeddings for English and Russian Languages,10.18653/v1/W19-2010,2
+The Influence of Down-Sampling Strategies on SVD Word Embedding Stability,10.18653/v1/W19-2003,2
+Characterizing the Impact of Geometric Properties of Word Embeddings on Task Performance,10.18653/v1/W19-2002,2
+Character Identification Refined: A Proposal,10.18653/v1/W19-2402,2
+Extraction of Message Sequence Charts from Narrative History Text,10.18653/v1/W19-2404,2
+Tracking Discrete and Continuous Entity State for Process Understanding,10.18653/v1/W19-1502,2
+Identifying Sensible Lexical Relations in Generated Stories,10.18653/v1/W19-2406,2
+Leveraging Pretrained Word Embeddings for Part-of-Speech Tagging of Code Switching Data,10.18653/v1/W19-1410,2
+Using Structured Representation and Data: A Hybrid Model for Negation and Sentiment in Customer Service Conversations,10.18653/v1/W19-1306,2
+The Rhetorical Structure of Attribution,10.18653/v1/W19-2706,2
+Differentiable Sampling with Flexible Reference Word Order for Neural Machine Translation,10.18653/v1/N19-1207,2
+Is It Dish Washer Safe? Automatically Answering “Yes/No” Questions Using Customer Reviews,10.18653/v1/N19-3001,2
+Content-based Dwell Time Engagement Prediction Model for News Articles,10.18653/v1/N19-2028,2
+Exploring Fine-Tuned Embeddings that Model Intensifiers for Emotion Analysis,10.18653/v1/W19-1304,2
+Modeling Hierarchical Syntactic Structures in Morphological Processing,10.18653/v1/W19-2905,2
+Applications of Natural Language Processing in Clinical Research and Practice,10.18653/v1/N19-5006,2
+Expectation and Locality Effects in the Prediction of Disfluent Fillers and Repairs in English Speech,10.18653/v1/N19-3015,2
+ADIDA: Automatic Dialect Identification for Arabic,10.18653/v1/N19-4002,2
+DTeam @ VarDial 2019: Ensemble based on skip-gram and triplet loss neural networks for Moldavian vs. Romanian cross-dialect topic identification,10.18653/v1/W19-1422,2
+OpenCeres: When Open Information Extraction Meets the Semi-Structured Web,10.18653/v1/N19-1309,2
+Understanding the Polarity of Events in the Biomedical Literature: Deep Learning vs. Linguistically-informed Methods,10.18653/v1/W19-2603,2
+Issue Framing in Online Discussion Fora,10.18653/v1/N19-1142,2
+Towards the Data-driven System for Rhetorical Parsing of Russian Texts,10.18653/v1/W19-2711,2
+Priming vs. Inhibition of Optional Infinitival “to”,10.18653/v1/W19-2902,2
+Simulating Spanish-English Code-Switching: El Modelo Está Generating Code-Switches,10.18653/v1/W19-2903,2
+Analyzing the use of existing systems for the CLPsych 2019 Shared Task,10.18653/v1/W19-3017,2
+Reviving a psychometric measure: Classification and prediction of the Operant Motive Test,10.18653/v1/W19-3014,2
+"Partial Or Complete, That’s The Question",10.18653/v1/N19-1227,2
+CNM: An Interpretable Complex-valued Network for Matching,10.18653/v1/N19-1420,2
+Verb-Second Effect on Quantifier Scope Interpretation,10.18653/v1/W19-2915,2
+Neural Self-Training through Spaced Repetition,10.18653/v1/N19-1003,2
+The Role of Utterance Boundaries and Word Frequencies for Part-of-speech Learning in Brazilian Portuguese Through Distributional Analysis,10.18653/v1/W19-2917,2
+Understanding language-elicited EEG data by predicting it from a fine-tuned language model,10.18653/v1/N19-1005,2
+Extraction of Message Sequence Charts from Software Use-Case Descriptions,10.18653/v1/N19-2017,2
+Diversifying Reply Suggestions Using a Matching-Conditional Variational Autoencoder,10.18653/v1/N19-2006,2
+Recovering dropped pronouns in Chinese conversations via modeling their referents,10.18653/v1/N19-1095,2
+Self-Discriminative Learning for Unsupervised Document Embedding,10.18653/v1/N19-1255,2
+Zero-Shot Cross-Lingual Opinion Target Extraction,10.18653/v1/N19-1257,2
+Answer-based Adversarial Training for Generating Clarification Questions,10.18653/v1/N19-1013,2
+Tensorized Self-Attention: Efficiently Modeling Pairwise and Global Dependencies Together,10.18653/v1/N19-1127,2
+Recursive Subtree Composition in LSTM-Based Dependency Parsing,10.18653/v1/N19-1159,2
+Modelling Instance-Level Annotator Reliability for Natural Language Labelling Tasks,10.18653/v1/N19-1295,2
+Accelerated Reinforcement Learning for Sentence Generation by Vocabulary Prediction,10.18653/v1/N19-1315,2
+Corpus of Multimodal Interaction for Collaborative Planning,10.18653/v1/W19-1601,2
+Content Differences in Syntactic and Semantic Representation,10.18653/v1/N19-1047,2
+Phylogenic Multi-Lingual Dependency Parsing,10.18653/v1/N19-1017,2
+Discontinuous Constituency Parsing with a Stack-Free Transition System and a Dynamic Oracle,10.18653/v1/N19-1018,2
+Cross-lingual Annotation Projection Is Effective for Neural Part-of-Speech Tagging,10.18653/v1/W19-1425,2
+Stance Detection in Code-Mixed Hindi-English Social Media Data using Multi-Task Learning,10.18653/v1/W19-1301,2
+Ensemble Methods to Distinguish Mainland and Taiwan Chinese,10.18653/v1/W19-1417,1
+SC-UPB at the VarDial 2019 Evaluation Campaign: Moldavian vs. Romanian Cross-Dialect Topic Identification,10.18653/v1/W19-1418,1
+Improving Natural Language Interaction with Robots Using Advice,10.18653/v1/N19-1195,1
+Learning to Stop in Structured Prediction for Neural Machine Translation,10.18653/v1/N19-1187,1
+"Stance Classification, Outcome Prediction, and Impact Assessment: NLP Tasks for Studying Group Decision-Making",10.18653/v1/W19-2108,1
+Cross-Topic Distributional Semantic Representations Via Unsupervised Mappings,10.18653/v1/N19-1110,1
+Litigation Analytics: Case Outcomes Extracted from US Federal Court Dockets,10.18653/v1/W19-2206,1
+Syntactic Interchangeability in Word Embedding Models,10.18653/v1/W19-2009,1
+Using time series and natural language processing to identify viral moments in the 2016 U.S. Presidential Debate,10.18653/v1/W19-2107,1
+Glocal: Incorporating Global Information in Local Convolution for Keyphrase Extraction,10.18653/v1/N19-1182,1
+Context Dependent Semantic Parsing over Temporally Structured Data,10.18653/v1/N19-1360,1
+Multi-Task Learning for Japanese Predicate Argument Structure Analysis,10.18653/v1/N19-1344,1
+Neural Chinese Address Parsing,10.18653/v1/N19-1346,1
+CITE: A Corpus of Image-Text Discourse Relations,10.18653/v1/N19-1056,1
+Simple dynamic word embeddings for mapping perceptions in the public sphere,10.18653/v1/W19-2111,1
+Modeling Acoustic-Prosodic Cues for Word Importance Prediction in Spoken Dialogues,10.18653/v1/W19-1702,1
+Referring to Objects in Videos Using Spatio-Temporal Identifying Descriptions,10.18653/v1/W19-1802,1
+Revisiting Visual Grounding,10.18653/v1/W19-1804,1
+CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog,10.18653/v1/N19-1058,1
+Learning Outside the Box: Discourse-level Features Improve Metaphor Identification,10.18653/v1/N19-1059,1
+Relation Discovery with Out-of-Relation Knowledge Base as Supervision,10.18653/v1/N19-1332,1
+Improving Cross-Domain Chinese Word Segmentation with Word Embeddings,10.18653/v1/N19-1279,1
+What do Entity-Centric Models Learn? Insights from Entity Linking in Multi-Party Dialogue,10.18653/v1/N19-1378,1
+Top-Down Structurally-Constrained Neural Response Generation with Lexicalized Probabilistic Context-Free Grammar,10.18653/v1/N19-1377,1
+Understanding the Behaviour of Neural Abstractive Summarizers using Contrastive Examples,10.18653/v1/N19-1396,1
+NLP Whack-A-Mole: Challenges in Cross-Domain Temporal Expression Extraction,10.18653/v1/N19-1369,1
+Combining Discourse Markers and Cross-lingual Embeddings for Synonym–Antonym Classification,10.18653/v1/N19-1390,1
+Inferring missing metadata from environmental policy texts,10.18653/v1/W19-2506,1
+ComQA: A Community-sourced Dataset for Complex Factoid Question Answering with Paraphrase Clusters,10.18653/v1/N19-1027,1
+BAG: Bi-directional Attention Entity Graph Convolutional Network for Multi-hop Reasoning Question Answering,10.18653/v1/N19-1032,1
+AutoSeM: Automatic Task Selection and Mixing in Multi-Task Learning,10.18653/v1/N19-1355,1
+Subword-based Compact Reconstruction of Word Embeddings,10.18653/v1/N19-1353,1
+Linguistically-Informed Specificity and Semantic Plausibility for Dialogue Generation,10.18653/v1/N19-1349,1
+PoMo: Generating Entity-Specific Post-Modifiers in Context,10.18653/v1/N19-1089,1
+ToNy: Contextual embeddings for accurate multilingual discourse segmentation of full documents,10.18653/v1/W19-2715,1
+Multi-lingual and Cross-genre Discourse Unit Segmentation,10.18653/v1/W19-2714,1
+Disentangling Language and Knowledge in Task-Oriented Dialogs,10.18653/v1/N19-1126,1
+A Bag-of-concepts Model Improves Relation Extraction in a Narrow Knowledge Domain with Limited Data,10.18653/v1/N19-3007,1
+Quantifiers in a Multimodal World: Hallucinating Vision with Language and Sound,10.18653/v1/W19-2912,1
+Testing a Minimalist Grammar Parser on Italian Relative Clause Asymmetries,10.18653/v1/W19-2911,1
+Toward a Computational Multidimensional Lexical Similarity Measure for Modeling Word Association Tasks in Psycholinguistics,10.18653/v1/W19-2908,1
+Correcting Whitespace Errors in Digitized Historical Texts,10.18653/v1/W19-2513,1
+SC-LSTM: Learning Task-Specific Representations in Multi-Task Learning for Sequence Labeling,10.18653/v1/N19-1249,1
+Graph convolutional networks for exploring authorship hypotheses,10.18653/v1/W19-2510,1
+The DISRPT 2019 Shared Task on Elementary Discourse Unit Segmentation and Connective Detection,10.18653/v1/W19-2713,1
+The Strength of the Weakest Supervision: Topic Classification Using Class Labels,10.18653/v1/N19-3004,1
+RST-Tace A tool for automatic comparison and evaluation of RST trees,10.18653/v1/W19-2712,1
+Beyond The Wall Street Journal: Anchoring and Comparing Discourse Signals across Genres,10.18653/v1/W19-2710,1
+Annotating Shallow Discourse Relations in Twitter Conversations,10.18653/v1/W19-2707,1
+Entity Decisions in Neural Language Modelling: Approaches and Problems,10.18653/v1/W19-2803,1
+Continuous Learning for Large-scale Personalized Domain Classification,10.18653/v1/N19-1379,1
+Goal-Oriented End-to-End Conversational Models with Profile Features in a Real-World Setting,10.18653/v1/N19-2007,1
+Conversation Initiation by Diverse News Contents Introduction,10.18653/v1/N19-1400,1
+Lost in Interpretation: Predicting Untranslated Terminology in Simultaneous Interpretation,10.18653/v1/N19-1010,1
+The importance of sharing patient-generated clinical speech and language data,10.18653/v1/W19-3007,1
+"Generate, Filter, and Rank: Grammaticality Classification for Production-Ready NLG Systems",10.18653/v1/N19-2027,1
+Measuring Immediate Adaptation Performance for Neural Machine Translation,10.18653/v1/N19-1206,1
+Nuclearity in RST and signals of coherence relations,10.18653/v1/W19-2705,1
+A Research Platform for Multi-Robot Dialogue with Humans,10.18653/v1/N19-4023,1
+Chat-crowd: A Dialog-based Platform for Visual Layout Composition,10.18653/v1/N19-4024,1
+Study of lexical aspect in the French medical language. Development of a lexical resource,10.18653/v1/W19-1907,1
+A General-Purpose Annotation Model for Knowledge Discovery: Case Study in Spanish Clinical Text,10.18653/v1/W19-1910,1
+Abbreviation Explorer - an interactive system for pre-evaluation of Unsupervised Abbreviation Disambiguation,10.18653/v1/N19-4001,1
+SNAP-BATNET: Cascading Author Profiling and Social Network Graphs for Suicide Ideation Detection on Social Media,10.18653/v1/N19-3019,1
+A Pregroup Representation of Word Order Alternation Using Hindi Syntax,10.18653/v1/N19-3017,1
+Textual and Visual Characteristics of Mathematical Expressions in Scholar Documents,10.18653/v1/W19-2610,1
+LeafNATS: An Open-Source Toolkit and Live Demo System for Neural Abstractive Text Summarization,10.18653/v1/N19-4012,1
+"Train, Sort, Explain: Learning to Diagnose Translation Models",10.18653/v1/N19-4006,1
+INS: An Interactive Chinese News Synthesis System,10.18653/v1/N19-4004,1
+GumDrop at the DISRPT2019 Shared Task: A Model Stacking Approach to Discourse Unit Segmentation and Connective Detection,10.18653/v1/W19-2717,1
+An Analysis of Deep Contextual Word Embeddings and Neural Architectures for Toponym Mention Detection in Scientific Publications,10.18653/v1/W19-2607,1
+Deep Learning and Sociophonetics: Automatic Coding of Rhoticity Using Neural Networks,10.18653/v1/N19-3013,1
+Gating Mechanisms for Combining Character and Word-level Word Representations: an Empirical Study,10.18653/v1/N19-3016,1
+Community lexical access for an endangered polysynthetic language: An electronic dictionary for St. Lawrence Island Yupik,10.18653/v1/N19-4021,1
+LT Expertfinder: An Evaluation Framework for Expert Finding Methods,10.18653/v1/N19-4017,1
+Predicting Annotation Difficulty to Improve Task Routing and Model Performance for Biomedical Information Extraction,10.18653/v1/N19-1150,1
+From legal to technical concept: Towards an automated classification of German political Twitter postings as criminal offenses,10.18653/v1/N19-1135,1
+Factorising AMR generation through syntax,10.18653/v1/N19-1223,1
+Fast Concept Mention Grouping for Concept Map-based Multi-Document Summarization,10.18653/v1/N19-1074,1
+SEQˆ3: Differentiable Sequence-to-Sequence-to-Sequence Autoencoder for Unsupervised Abstractive Sentence Compression,10.18653/v1/N19-1071,1
+"Frowning Frodo, Wincing Leia, and a Seriously Great Friendship: Learning to Classify Emotional Relationships of Fictional Characters",10.18653/v1/N19-1067,1
+GAN Driven Semi-distant Supervision for Relation Extraction,10.18653/v1/N19-1307,1
+A user study to compare two conversational assistants designed for people with hearing impairments,10.18653/v1/W19-1701,1
+Online abuse detection: the value of preprocessing and neural attention models,10.18653/v1/W19-1303,1
+Parallelizable Stack Long Short-Term Memory,10.18653/v1/W19-1501,1
+Improving Human Text Comprehension through Semi-Markov CRF-based Neural Section Title Generation,10.18653/v1/N19-1168,1
+TwistBytes - Identification of Cuneiform Languages and German Dialects at VarDial 2019,10.18653/v1/W19-1421,0
+Neural Machine Translation between Myanmar (Burmese) and Rakhine (Arakanese),10.18653/v1/W19-1408,0
+Toward a deep dialectological representation of Indo-Aryan,10.18653/v1/W19-1411,0
+No Permanent Friends or Enemies: Tracking Relationships between Nations from News,10.18653/v1/N19-1167,0
+A Soft Label Strategy for Target-Level Sentiment Classification,10.18653/v1/W19-1302,0
+Comparing Pipelined and Integrated Approaches to Dialectal Arabic Neural Machine Translation,10.18653/v1/W19-1424,0
+What a neural language model tells us about spatial relations,10.18653/v1/W19-1608,0
+An Empirical Investigation of Global and Local Normalization for Recurrent Neural Sequence Models Using a Continuous Relaxation to Beam Search,10.18653/v1/N19-1171,0
+Structured Minimally Supervised Learning for Neural Relation Extraction,10.18653/v1/N19-1310,0
+Serial Recall Effects in Neural Language Modeling,10.18653/v1/N19-1073,0
+GenderQuant: Quantifying Mention-Level Genderedness,10.18653/v1/N19-1303,0
+Fact Discovery from Knowledge Base via Facet Decomposition,10.18653/v1/N19-1297,0
+Litigation Analytics: Extracting and querying motions and orders from US federal courts,10.18653/v1/N19-4020,0
+SkillBot: Towards Automatic Skill Development via User Demonstration,10.18653/v1/N19-4018,0
+iComposer: An Automatic Songwriting System for Chinese Popular Music,10.18653/v1/N19-4015,0
+Browsing Health: Information Extraction to Support New Interfaces for Accessing Medical Evidence,10.18653/v1/W19-2606,0
+Annotating with Pros and Cons of Technologies in Computer Science Papers,10.18653/v1/W19-2605,0
+Vector of Locally Aggregated Embeddings for Text Representation,10.18653/v1/N19-1143,0
+Adaptation of Hierarchical Structured Models for Speech Act Recognition in Asynchronous Conversation,10.18653/v1/N19-1134,0
+Harry Potter and the Action Prediction Challenge from Natural Language,10.18653/v1/N19-1218,0
+Extracting Factual Min/Max Age Information from Clinical Trial Studies,10.18653/v1/W19-1914,0
+Annotating and Characterizing Clinical Sentences with Explicit Why-QA Cues,10.18653/v1/W19-1913,0
+Predicting ICU transfers using text messages between nurses and doctors,10.18653/v1/W19-1911,0
+Contextualization of Morphological Inflection,10.18653/v1/N19-1203,0
+Clinical Data Classification using Conditional Random Fields and Neural Parsing for Morphologically Rich Languages,10.18653/v1/W19-1919,0
+From News to Medical: Cross-domain Discourse Segmentation,10.18653/v1/W19-2704,0
+Acquiring Annotated Data with Cross-lingual Explicitation for Implicit Discourse Relation Classification,10.18653/v1/W19-2703,0
+Computational Investigations of Pragmatic Effects in Natural Language,10.18653/v1/N19-3010,0
+A Partially Rule-Based Approach to AMR Generation,10.18653/v1/N19-3009,0
+Language Learning and Processing in People and Machines,10.18653/v1/N19-5005,0
+Measuring and Modeling Language Change,10.18653/v1/N19-5003,0
+Visualizing Inferred Morphotactic Systems,10.18653/v1/N19-4022,0
+Using Rhetorical Structure Theory to Assess Discourse Coherence for Non-native Spontaneous Speech,10.18653/v1/W19-2719,0
+Towards discourse annotation and sentiment analysis of the Basque Opinion Corpus,10.18653/v1/W19-2718,0
+Learning to Respond to Mixed-code Queries using Bilingual Word Embeddings,10.18653/v1/N19-4005,0
+Enabling Search and Collaborative Assembly of Causal Interactions Extracted from Multilingual and Multi-domain Free Text,10.18653/v1/N19-4003,0
+Toward Cross-theory Discourse Relation Annotation,10.18653/v1/W19-2702,0
+Playing by the Book: An Interactive Game Approach for Action Graph Extraction from Text,10.18653/v1/W19-2609,0
+STAC: Science Toolkit Based on Chinese Idiom Knowledge Graph,10.18653/v1/W19-2608,0
+Surprisal and Interference Effects of Case Markers in Hindi Word Order,10.18653/v1/W19-2904,0
+Computational Linguistics for Enhancing Scientific Reproducibility and Reducing Healthcare Inequities,10.18653/v1/W19-3011,0
+TOI-CNN: a Solution of Information Extraction on Chinese Insurance Policy,10.18653/v1/N19-2022,0
+A k-Nearest Neighbor Approach towards Multi-level Sequence Labeling,10.18653/v1/N19-2019,0
+Improving Knowledge Base Construction from Robust Infobox Extraction,10.18653/v1/N19-2018,0
+Doc2hash: Learning Discrete Latent variables for Documents Retrieval,10.18653/v1/N19-1232,0
+AttentiveChecker: A Bi-Directional Attention Flow Mechanism for Fact Verification,10.18653/v1/N19-1230,0
+On the Idiosyncrasies of the Mandarin Chinese Classifier System,10.18653/v1/N19-1415,0
+Benchmarking Hierarchical Script Knowledge,10.18653/v1/N19-1412,0
+Saliency Learning: Teaching the Model Where to Pay Attention,10.18653/v1/N19-1404,0
+Multilingual segmentation based on neural networks and pre-trained word embeddings,10.18653/v1/W19-2716,0
+EusDisParser: improving an under-resourced discourse parser with cross-lingual data,10.18653/v1/W19-2709,0
+A Discourse Signal Annotation System for RST Trees,10.18653/v1/W19-2708,0
+Detecting Derogatory Compounds – An Unsupervised Approach,10.18653/v1/N19-1211,0
+Cross-lingual CCG Induction,10.18653/v1/N19-1160,0
+Analyzing Bayesian Crosslingual Transfer in Topic Models,10.18653/v1/N19-1158,0
+Quantifying the morphosyntactic content of Brown Clusters,10.18653/v1/N19-1157,0
+Cross-lingual Incongruences in the Annotation of Coreference,10.18653/v1/W19-2805,0
+Using Grounded Word Representations to Study Theories of Lexical Concepts,10.18653/v1/W19-2918,0
+Neural Models of the Psychosemantics of ‘Most’,10.18653/v1/W19-2916,0
+Using Natural Language Relations between Answer Choices for Machine Comprehension,10.18653/v1/N19-1403,0
+The Lower The Simpler: Simplifying Hierarchical Recurrent Models,10.18653/v1/N19-1402,0
+Are the Tools up to the Task? an Evaluation of Commercial Dialog Tools in Developing Conversational Enterprise-grade Dialog Systems,10.18653/v1/N19-2014,0
+Enabling Real-time Neural IME with Incremental Vocabulary Selection,10.18653/v1/N19-2001,0
+Data Augmentation for Context-Sensitive Neural Lemmatization Using Inflection Tables and Raw Text,10.18653/v1/N19-1418,0
+A Framework for Decoding Event-Related Potentials from Text,10.18653/v1/W19-2910,0
+Modeling Long-Distance Cue Integration in Spoken Word Recognition,10.18653/v1/W19-2907,0
+A Modeling Study of the Effects of Surprisal and Entropy in Perceptual Decision Making of an Adaptive Agent,10.18653/v1/W19-2906,0
+Not My President: How Names and Titles Frame Political Figures,10.18653/v1/W19-2101,0
+Sign Clustering and Topic Extraction in Proto-Elamite,10.18653/v1/W19-2516,0
+The limits of Spanglish?,10.18653/v1/W19-2515,0
+Computational Linguistics Applications for Multimedia Services,10.18653/v1/W19-2512,0
+Revisiting NMT for Normalization of Early English Letters,10.18653/v1/W19-2509,0
+A framework for streamlined statistical prediction using topic models,10.18653/v1/W19-2508,0
+CCG Parsing Algorithm with Incremental Tree Rotation,10.18653/v1/N19-1020,0
+How Bad are PoS Tagger in Cross-Corpora Settings? Evaluating Annotation Divergence in the UD Project.,10.18653/v1/N19-1019,0
+Unsupervised Extraction of Partial Translations for Neural Machine Translation,10.18653/v1/N19-1384,0
+The problem with probabilistic DAG automata for semantic graphs,10.18653/v1/N19-1096,0
+Implementation of a Chomsky-Schützenberger n-best parser for weighted multiple context-free grammars,10.18653/v1/N19-1016,0
+A Grounded Unsupervised Universal Part-of-Speech Tagger for Low-Resource Languages,10.18653/v1/N19-1252,0
+Casting Light on Invisible Cities: Computationally Engaging with Literary Criticism,10.18653/v1/N19-1130,0
+Decay-Function-Free Time-Aware Attention to Context and Speaker Indicator for Spoken Language Understanding,10.18653/v1/N19-1372,0
+Cross-referencing Using Fine-grained Topic Modeling,10.18653/v1/N19-1399,0
+News Article Teaser Tweets and How to Generate Them,10.18653/v1/N19-1398,0
+Neural Finite-State Transducers: Beyond Rational Relations,10.18653/v1/N19-1024,0
+Recurrent models and lower bounds for projective syntactic decoding,10.18653/v1/N19-1022,0
+VQD: Visual Query Detection In Natural Scenes,10.18653/v1/N19-1194,0
+Value-based Search in Execution Space for Mapping Instructions to Programs,10.18653/v1/N19-1193,0
+A Study of Latent Structured Prediction Approaches to Passage Reranking,10.18653/v1/N19-1183,0
+Bayesian Learning for Neural Dependency Parsing,10.18653/v1/N19-1354,0
+DiscoFuse: A Large-Scale Dataset for Discourse-Based Sentence Fusion,10.18653/v1/N19-1348,0
+The World in My Mind: Visual Dialog with Adversarial Multi-modal Feature Encoding,10.18653/v1/N19-1266,0
+Data-efficient Neural Text Compression with Interactive Learning,10.18653/v1/N19-1262,0
+Automatic learner summary assessment for reading comprehension,10.18653/v1/N19-1261,0
+What just happened? Evaluating retrofitted distributional word vectors,10.18653/v1/N19-1111,0
+Word-Node2Vec: Improving Word Embedding with Document-Level Non-Local Word Co-occurrences,10.18653/v1/N19-1109,0
+Bridging the Gap: Attending to Discontinuity in Identification of Multiword Expressions,10.18653/v1/N19-1275,0
+Understanding and Improving Hidden Representations for Neural Machine Translation,10.18653/v1/N19-1046,0
+Aligning Vector-spaces with Noisy Supervised Lexicon,10.18653/v1/N19-1045,0
+ReWE: Regressing Word Embeddings for Regularization of Neural Machine Translation Systems,10.18653/v1/N19-1041,0
+Modeling performance differences on cognitive tests using LSTMs and skip-thought vectors trained on reported media consumption.,10.18653/v1/W19-2106,0
+Neural Network Prediction of Censorable Language,10.18653/v1/W19-2105,0
+Multi-Context Term Embeddings: the Use Case of Corpus-based Term Set Expansion,10.18653/v1/W19-2013,0
+Dyr Bul Shchyl. Proxying Sound Symbolism With Word Embeddings,10.18653/v1/W19-2012,0
+Asking the Right Question: Inferring Advice-Seeking Intentions from Personal Narratives,10.18653/v1/N19-1052,0
+Customizing Grapheme-to-Phoneme System for Non-Trivial Transcription Problems in Bangla Language,10.18653/v1/N19-1322,0
+Posterior-regularized REINFORCE for Instance Selection in Distant Supervision,10.18653/v1/N19-1290,0
+Shrinking Japanese Morphological Analyzers With Neural Networks and Semi-supervised Learning,10.18653/v1/N19-1281,0
+Neural Semi-Markov Conditional Random Fields for Robust Character-Based Part-of-Speech Tagging,10.18653/v1/N19-1280,0
+VCWE: Visual Character-Enhanced Word Embeddings,10.18653/v1/N19-1277,0
+Learning from Implicit Information in Natural Language Instructions for Robotic Manipulations,10.18653/v1/W19-1604,0
+From Virtual to Real: A Framework for Verbal Interaction with Robots,10.18653/v1/W19-1603,0
+¿Es un plátano? Exploring the Application of a Physically Grounded Language Acquisition System to Spanish,10.18653/v1/W19-1602,0
+Transferable Neural Projection Representations,10.18653/v1/N19-1339,0
+Using Large Corpus N-gram Statistics to Improve Recurrent Neural Language Models,10.18653/v1/N19-1330,0
+Segmentation-free compositional n-gram embedding,10.18653/v1/N19-1324,0
+Combining Sentiment Lexica with a Multi-View Variational Autoencoder,10.18653/v1/N19-1065,0
+Measuring Semantic Abstraction of Multilingual NMT with Paraphrase Recognition and Generation Tasks,10.18653/v1/W19-2005,0
+Naive Bayes and BiLSTM Ensemble for Discriminating between Mainland and Taiwan Variation of Mandarin Chinese,10.18653/v1/W19-1412,0
+Deep Natural Language Understanding of News Text,10.18653/v1/W19-2403,0
+Char-RNN for Word Stress Detection in East Slavic Languages,10.18653/v1/W19-1404,0
+Noisy Neural Language Modeling for Typing Prediction in BCI Communication,10.18653/v1/W19-1707,0
+Investigating Speech Recognition for Improving Predictive AAC,10.18653/v1/W19-1706,0
+A Blissymbolics Translation System,10.18653/v1/W19-1705,0
+Grounded Word Sense Translation,10.18653/v1/W19-1808,0
+SPARSE: Structured Prediction using Argument-Relative Structured Encoding,10.18653/v1/W19-1503,0
+Neural and Linear Pipeline Approaches to Cross-lingual Morphological Analysis,10.18653/v1/W19-1416,0
+Initial Experiments In Cross-Lingual Morphological Analysis Using Morpheme Segmentation,10.18653/v1/W19-1415,0
+The R2I_LIS Team Proposes Majority Vote for VarDial’s MRC Task,10.18653/v1/W19-1414,0
+BAM: A combination of deep and shallow models for German Dialect Identification.,10.18653/v1/W19-1413,0

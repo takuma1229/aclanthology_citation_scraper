@@ -1,0 +1,170 @@
+Title,DOI,Citations
+"Model With Minimal Translation Units, But Decode With Phrases",,0
+Beyond Left-to-Right: Multiple Decomposition Structures for SMT,,0
+Improved Reordering for Phrase-Based Translation using Sparse Features,,0
+Simultaneous Word-Morpheme Alignment for Statistical Machine Translation,,0
+Multi-faceted Event Recognition with Bootstrapped Dictionaries,,0
+Named Entity Recognition with Bilingual Constraints,,0
+Minimally Supervised Method for Multilingual Paraphrase Extraction from Definition Sentences on the Web,,0
+Relation Extraction with Matrix Factorization and Universal Schemas,,0
+Extracting the Native Language Signal for Second Language Acquisition,,0
+An Analysis of Frequency- and Memory-Based Processing Costs,,0
+Cross-Lingual Semantic Similarity of Words as the Similarity of Their Semantic Word Responses,,0
+Combining multiple information types in Bayesian word segmentation,,0
+Training Parsers on Incompatible Treebanks,,0
+Learning a Part-of-Speech Tagger from Two Hours of Annotation,,0
+Experiments with Spectral Learning of Latent-Variable PCFGs,,0
+Representing Topics Using Images,,0
+Drug Extraction from the Web: Summarizing Drug Experiences with Multi-Dimensional Topic Models,,0
+Towards Topic Labeling with Phrase Entailment and Aggregation,,0
+Topic Segmentation with a Structured Topic Model,,0
+Text Alignment for Real-Time Crowd Captioning,,0
+Discriminative Joint Modeling of Lexical Variation and Acoustic Confusion for Automated Narrative Retelling Assessment,,0
+Using Out-of-Domain Data for Lexical Addressee Detection in Human-Human-Computer Dialog,,0
+Segmentation Strategies for Streaming Speech Translation,,0
+Enforcing Subcategorization Constraints in a Parser Using Sub-parses Recombining,,0
+Large-Scale Discriminative Training for Statistical Machine Translation Using Held-Out Line Search,,0
+Measuring Term Informativeness in Context,,0
+Unsupervised Learning Summarization Templates from Concise Summaries,,0
+Classification of South African languages using text and acoustic based methods: A case of six selected languages,,0
+Improving Syntax-Augmented Machine Translation by Coarsening the Label Set,,0
+Keyphrase Extraction for N-best Reranking in Multi-Sentence Compression,,0
+Development of a Persian Syntactic Dependency Treebank,,0
+Improving reordering performance using higher order and structural features,,0
+Massively Parallel Suffix Array Queries and On-Demand Phrase Extraction for Statistical Machine Translation Using GPUs,,0
+Discriminative Training of 150 Million Translation Parameters and Its Application to Pruning,,0
+Applying Pairwise Ranked Optimisation to Improve the Interpolation of Translation Models,,0
+Dialectal Arabic to English Machine Translation: Pivoting through Modern Standard Arabic,,0
+What to do about bad language on the internet,,0
+Minibatch and Parallelization for Online Large Margin Structured Learning,,0
+Improved Part-of-Speech Tagging for Online Conversational Text with Word Clusters,,0
+Parser lexicalisation through self-learning,,0
+Mining User Relations from Online Discussions using Sentiment Analysis and Probabilistic Matrix Factorization,,0
+Focused training sets to reduce noise in NER feature models,,0
+Learning to Relate Literal and Sentimental Descriptions of Visual Properties,,0
+Morphological Analysis and Disambiguation for Dialectal Arabic,,0
+Using a Supertagged Dependency Language Model to Select a Good Translation in System Combination,,0
+Dudley North visits North London: Learning When to Transliterate to Arabic,,0
+Better Twitter Summaries?,,0
+Training MRF-Based Phrase Translation Models using Gradient Ascent,,0
+Automatic Morphological Enrichment of a Morphologically Underspecified Treebank,,0
+A Beam-Search Decoder for Normalization of Social Media Text with Application to Machine Translation,,0
+Parameter Estimation for LDA-Frames,,0
+Approximate PCFG Parsing Using Tensor Decomposition,,0
+Negative Deceptive Opinion Spam,,0
+Improving speech synthesis quality by reducing pitch peaks in the source recordings,,0
+Robust Systems for Preposition Error Correction Using Wikipedia Revisions,,0
+Supervised Bilingual Lexicon Induction with Multiple Monolingual Signals,,0
+Creating Reverse Bilingual Dictionaries,,0
+Identification of Temporal Event Relationships in Biographical Accounts,,0
+Predicative Adjectives: An Unsupervised Criterion to Extract Subjective Adjectives,,0
+Modeling Syntactic and Semantic Structures in Hierarchical Phrase-based Translation,,0
+Using Derivation Trees for Informative Treebank Inter-Annotator Agreement Evaluation,,0
+Embracing Ambiguity: A Comparison of Annotation Methodologies for Crowdsourcing Word Sense Labels,,0
+Compound Embedding Features for Semi-supervised Learning,,0
+On Quality Ratings for Spoken Dialogue Systems – Experts vs. Users,,0
+Overcoming the Memory Bottleneck in Distributed Training of Latent Variable Models of Text,,0
+Processing Spontaneous Orthography,,0
+Purpose and Polarity of Citation: Towards NLP-based Bibliometrics,,0
+Estimating effect size across datasets,,0
+Systematic Comparison of Professional and Crowdsourced Reference Translations for Machine Translation,,0
+Down-stream effects of tree-to-dependency conversions,,0
+The Life and Death of Discourse Entities: Identifying Singleton Mentions,,0
+Automatic Generation of English Respellings,,0
+"A Simple, Fast, and Effective Reparameterization of IBM Model 2",,0
+Phrase Training Based Adaptation for Statistical Machine Translation,,0
+Translation Acquisition Using Synonym Sets,,0
+Supersense Tagging for Arabic: the MT-in-the-Middle Attack,,0
+Zipfian corruptions for robust POS tagging,,0
+A Multi-Dimensional Bayesian Approach to Lexical Style,,0
+Unsupervised Domain Tuning to Improve Word Sense Disambiguation,,0
+What’s in a Domain? Multi-Domain Learning for Multi-Attribute Data,,0
+An opinion about opinions about opinions: subjectivity and the aggregate reader,,0
+An Examination of Regret in Bullying Tweets,,0
+A Cross-language Study on Automatic Speech Disfluency Detection,,0
+Distributional semantic models for the evaluation of disordered language,,0
+Atypical Prosodic Structure as an Indicator of Reading Level and Text Difficulty,,0
+Using Document Summarization Techniques for Speech Data Subset Selection,,0
+Semi-Supervised Discriminative Language Modeling with Out-of-Domain Text Data,,0
+More than meets the eye: Study of Human Cognition in Sense Annotation,,0
+Improving Lexical Semantics for Sentential Semantics: Modeling Selectional Preference and Similar Words in a Latent Variable Model,,0
+Linguistic Regularities in Continuous Space Word Representations,,0
+TruthTeller: Annotating Predicate Truth,,0
+PPDB: The Paraphrase Database,,0
+Exploiting the Scope of Negations and Heterogeneous Features for Relation Extraction: A Case Study for Drug-Drug Interaction Extraction,,0
+Graph-Based Seed Set Expansion for Relation Extraction Using Random Walk Hitting Times,,0
+Distant Supervision for Relation Extraction with an Incomplete Knowledge Base,,0
+Measuring the Structural Importance through Rhetorical Structure Index,,0
+Separating Fact from Fear: Tracking Flu Infections on Twitter,,0
+Differences in User Responses to a Wizard-of-Oz versus Automated System,,0
+Improving the Quality of Minority Class Identification in Dialog Act Tagging,,0
+Discourse Connectors for Latent Subjectivity in Sentiment Analysis,,0
+Coherence Modeling for the Automated Assessment of Spontaneous Spoken Responses,,0
+Disfluency Detection Using Multi-step Stacked Learning,,0
+Using Semantic Unification to Generate Regular Expressions from Natural Language,,0
+Probabilistic Frame Induction,,0
+A Quantum-Theoretic Approach to Distributional Semantics,,0
+Answer Extraction as Sequence Tagging with Tree Edit Distance,,0
+Open Information Extraction with Tree Kernels,,0
+Finding What Matters in Questions,,0
+A Just-In-Time Keyword Extraction from Meeting Transcripts,,0
+"Same Referent, Different Words: Unsupervised Mining of Opaque Coreferent Mentions",,0
+Global Inference for Bridging Anaphora Resolution,,0
+Classifying Temporal Relations with Rich Linguistic Knowledge,,0
+Improved Information Structure Analysis of Scientific Documents Through Discourse and Lexical Constraints,,0
+Adaptation of Reordering Models for Statistical Machine Translation,,0
+Multi-Metric Optimization Using Ensemble Tuning,,0
+Grouping Language Model Boundary Words to Speed K–Best Extraction from Hypergraphs,,0
+A Systematic Bayesian Treatment of the IBM Alignment Models,,0
+Unsupervised Metaphor Identification Using Hierarchical Graph Factorization Clustering,,0
+Three Knowledge-Free Methods for Automatic Lexical Chain Extraction,,0
+Combining Heterogeneous Models for Measuring Relational Similarity,,0
+Broadly Improving User Classification via Communication-Based Name and Location Clustering on Twitter,,0
+To Link or Not to Link? A Study on End-to-End Tweet Entity Linking,,0
+A Latent Variable Model for Viewpoint Discovery from Threaded Forum Posts,,0
+Identifying Intention Posts in Discussion Forums,,0
+Dependency-based empty category detection via phrase structure trees,,0
+Target Language Adaptation of Discriminative Transfer Parsers,,0
+Emergence of Gricean Maxims from Multi-Agent Decision Theory,,0
+Open Dialogue Management for Relational Databases,,0
+A method for the approximation of incremental understanding of explicit utterance meaning using predictive models in finite domains,,0
+Paving the Way to a Large-scale Pseudosense-annotated Dataset,,0
+Labeling the Languages of Words in Mixed-Language Documents using Weakly Supervised Methods,,0
+Learning Whom to Trust with MACE,,0
+Supervised All-Words Lexical Substitution using Delexicalized Features,,0
+A Tensor-based Factorization Model of Semantic Compositionality,,0
+A Participant-based Approach for Event Summarization Using Twitter Streams,,0
+Towards Coherent Multi-Document Summarization,,0
+Generating Expressions that Refer to Visible Objects,,0
+Supervised Learning of Complete Morphological Paradigms,,0
+Optimal Data Set Selection: An Application to Grapheme-to-Phoneme Conversion,,0
+Knowledge-Rich Morphological Priors for Bayesian Language Models,,0
+Critical Reflections on Evaluation Practices in Coreference Resolution,,0
+Reducing Annotation Effort on Unbalanced Corpus based on Cost Matrix,,0
+A Machine Learning Approach to Automatic Term Extraction using a Rich Feature Set,,0
+A Rule-based Approach for Karmina Generation,,0
+From Language to Family and Back: Native Language and Language Family Identification from English Text,,0
+Ontology Label Translation,,0
+Reversing Morphological Tokenization in English-to-Arabic SMT,,0
+Statistical Machine Translation in Low Resource Settings,,0
+Large-Scale Paraphrasing for Natural Language Understanding,,0
+Domain-Independent Captioning of Domain-Specific Images,,0
+Helpfulness-Guided Review Summarization,,0
+"Entrainment in Spoken Dialogue Systems: Adopting, Predicting and Influencing User Behavior",,0
+User Goal Change Model for Spoken Dialog State Tracking,,0
+DALE: A Word Sense Disambiguation System for Biomedical Documents Trained using Automatically Labeled Examples,,0
+Topic Models and Metadata for Visualizing Text Corpora,,0
+TMTprime: A Recommender System for MT and TM Integration,,0
+Anafora: A Web-based General Purpose Annotation Tool,,0
+A Web Application for the Diagnostic Evaluation of Machine Translation over Specific Linguistic Phenomena,,0
+KooSHO: Japanese Text Input Environment based on Aerial Hand Writing,,0
+UMLS::Similarity: Measuring the Relatedness and Similarity of Biomedical Concepts,,0
+KELVIN: a tool for automated knowledge base construction,,0
+Argviz: Interactive Visualization of Topic Dynamics in Multi-party Conversations,,0
+NAACL HLT 2013 Tutorial Abstracts,,0
+Deep Learning for NLP (without Magic),,0
+Discourse Processing,,0
+NLP for uncertain data at scale,,0
+Semantic Role Labeling,,0
+Spectral Learning Algorithms for Natural Language Processing,,0
+"Morphological, Syntactical and Semantic Knowledge in Statistical Machine Translation",,0

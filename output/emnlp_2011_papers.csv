@@ -1,0 +1,150 @@
+Title,DOI,Citations
+Fast and Robust Joint Models for Biomedical Event Extraction,,0
+Predicting Thread Discourse Structure over Technical Web Forums,,0
+Exact Decoding of Phrase-Based Translation Models through Lagrangian Relaxation,,0
+Optimal Search for Minimum Error Rate Training,,0
+Unsupervised Structure Prediction with Non-Parallel Multilingual Guidance,,0
+Multi-Source Transfer of Delexicalized Dependency Parsers,,0
+SMT Helps Bitext Dependency Parsing,,0
+Accurate Parsing with Compact Tree-Substitution Grammars: Double-DOP,,0
+A Generate and Rank Approach to Sentence Paraphrasing,,0
+Correcting Semantic Collocation Errors with L1-induced Paraphrases,,0
+Class Label Enhancement via Related Instances,,0
+A Joint Model for Extended Semantic Role Labeling,,0
+Domain-Assisted Product Aspect Hierarchy Generation: Towards Hierarchical Organization of Unstructured Consumer Reviews,,0
+Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions,,0
+Unsupervised Discovery of Discourse Relations for Eliminating Intra-sentence Polarity Ambiguities,,0
+Compositional Matrix-Space Models for Sentiment Analysis,,0
+Training a Parser for Machine Translation Reordering,,0
+Inducing Sentence Structure from Parallel Corpora for Reordering,,0
+Augmenting String-to-Tree Translation Models with Fuzzy Use of Source-side Syntax,,0
+A novel dependency-to-string model for statistical machine translation,,0
+Bayesian Checking for Topic Models,,0
+Dual Decomposition with Many Overlapping Components,,0
+Approximate Scalable Bounded Space Sketch for Large Data NLP,,0
+Optimizing Semantic Coherence in Topic Models,,0
+A Weakly-supervised Approach to Argumentative Zoning of Scientific Documents,,0
+Linear Text Segmentation Using Affinity Propagation,,0
+Minimally Supervised Event Causality Identification,,0
+A Model of Discourse Predictions in Human Sentence Processing,,0
+Simple Effective Decipherment via Combinatorial Optimization,,0
+Universal Morphological Analysis using Structured Nearest Neighbor Prediction,,0
+Training a Log-Linear Parser with Loss Functions via Softmax-Margin,,0
+Large-Scale Cognate Recovery,,0
+Domain Adaptation via Pseudo In-Domain Data Selection,,0
+Language Models for Machine Translation: Original vs. Translated Texts,,0
+Better Evaluation Metrics Lead to Better Machine Translation,,0
+Evaluating Dependency Parsing: Robust and Heuristics-Free Cross-Annotation Evaluation,,0
+Parser Evaluation over Local and Non-Local Deep Dependencies in a Large Corpus,,0
+Learning to Simplify Sentences with Quasi-Synchronous Grammar and Integer Programming,,0
+Bootstrapping Semantic Parsers from Conversations,,0
+Timeline Generation through Evolutionary Trans-Temporal Summarization,,0
+Corpus-Guided Sentence Generation of Natural Images,,0
+Corroborating Text Evaluation Results with Heterogeneous Measures,,0
+Ranking Human and Machine Summarization Systems,,0
+Quasi-Synchronous Phrase Dependency Grammars for Machine Translation,,0
+A Word Reordering Model for Improved Machine Translation,,0
+Feature-Rich Language-Independent Syntax-Based Alignment for Statistical Machine Translation,,0
+Efficient retrieval of tree translation examples for Syntax-Based Machine Translation,,0
+A generative model for unsupervised discovery of relations and argument classes from clinical texts,,0
+Random Walk Inference and Learning in A Large Scale Knowledge Base,,0
+Exploring Supervised LDA Models for Assigning Attributes to Adjective-Noun Phrases,,0
+Semantic Topic Models: Combining Word Distributional Statistics and Dictionary Definitions,,0
+Cooooooooooooooollllllllllllll!!!!!!!!!!!!!! Using Word Lengthening to Detect Sentiment in Microblogs,,0
+Personalized Recommendation of User Comments via Factor Models,,0
+Data-Driven Response Generation in Social Media,,0
+Predicting a Scientific Community’s Response to an Article,,0
+Non-parametric Bayesian Segmentation of Japanese Noun Phrases,,0
+Discovering Morphological Paradigms from Plain Text Using a Dirichlet Process Mixture Model,,0
+Multilayer Sequence Labeling,,0
+A Bayesian Mixture Model for PoS Induction Using Multiple Features,,0
+Large-Scale Noun Compound Interpretation Using Bootstrapping and the Web as a Corpus,,0
+Linguistic Redundancy in Twitter,,0
+Divide and Conquer: Crowdsourcing the Creation of Cross-Lingual Textual Entailment Corpora,,0
+Literal and Metaphorical Sense Identification through Concrete and Abstract Context,,0
+Syntactic Decision Tree LMs: Random Selection or Intelligent Design?,,0
+The Imagination of Crowds: Conversational AAC Language Modeling using Crowdsourcing and Large Data Sources,,0
+Using Syntactic and Semantic Structural Kernels for Classifying Definition Questions in Jeopardy!,,0
+Multiword Expression Identification with Tree Substitution Grammars: A Parsing tour de force with French,,0
+Modelling Discourse Relations for Arabic,,0
+Classifying Sentences as Speech Acts in Message Board Posts,,0
+Learning Local Content Shift Detectors from Document-level Information,,0
+Collaborative Ranking: A Case Study on Entity Linking,,0
+Robust Disambiguation of Named Entities in Text,,0
+A Cascaded Classification Approach to Semantic Head Recognition,,0
+Linking Entities to a Knowledge Base with Query Expansion,,0
+Unsupervised Information Extraction with Distributional Prior Knowledge,,0
+Relation Acquisition using Word Classes and Partial Patterns,,0
+Identification of Multi-word Expressions by Combining Multiple Linguistic Information Sources,,0
+Analyzing Methods for Improving Precision of Pivot Based Bilingual Dictionaries,,0
+Soft Dependency Constraints for Reordering in Hierarchical Phrase-Based Translation,,0
+Statistical Machine Translation with Local Language Models,,0
+Fast Generation of Translation Forest for Large-Scale SMT Discriminative Training,,0
+A Correction Model for Word Alignments,,0
+Heuristic Search for Non-Bottom-Up Tree Structure Prediction,,0
+Cache-based Document-level Statistical Machine Translation,,0
+Minimum Imputed-Risk: Unsupervised Discriminative Training for Machine Translation,,0
+Improving Bilingual Projections via Sparse Covariance Matrices,,0
+Entire Relaxation Path for Maximum Entropy Problems,,0
+A Non-negative Matrix Factorization Based Approach for Active Dual Supervision from Document and Word Labels,,0
+Splitting Noun Compounds via Monolingual and Bilingual Paraphrasing: A Study on Japanese Katakana Words,,0
+Enhancing Chinese Word Segmentation Using Unlabeled Data,,0
+Unsupervised Learning of Selectional Restrictions and Detection of Argument Coercions,,0
+Harnessing different knowledge sources to measure semantic relatedness under a uniform model,,0
+Refining the Notions of Depth and Density in WordNet-based Semantic Similarity Measures,,0
+Latent Vector Weighting for Word Meaning in Context,,0
+Hierarchical Verb Clustering Using Graph Factorization,,0
+Structured Lexical Similarity via Convolution Kernels on Dependency Trees,,0
+Probabilistic models of similarity in syntactic context,,0
+"Lexical Co-occurrence, Statistical Significance, and Word Association",,0
+Learning the Information Status of Noun Phrases in Spoken Dialogues,,0
+Harnessing WordNet Senses for Supervised Sentiment Classification,,0
+Learning General Connotation of Words using Graph-based Algorithms,,0
+Hypotheses Selection Criteria in a Reranking Framework for Spoken Language Understanding,,0
+A Fast Re-scoring Strategy to Capture Long-Distance Dependencies,,0
+Efficient Subsampling for Training Complex Language Models,,0
+Generating Aspect-oriented Multi-Document Summarization with Event-aspect model,,0
+Syntax-Based Grammaticality Improvement using CCG and Guided Search,,0
+Generating Subsequent Reference in Shared Visual Scenes: Computation vs Re-Use,,0
+Learning Sentential Paraphrases from Bilingual Parallel Corpora for Text-to-Text Generation,,0
+Joint Models for Chinese POS Tagging and Dependency Parsing,,0
+Relaxed Cross-lingual Projection of Constituent Syntax,,0
+Computing Logical Form on Regulatory Texts,,0
+Computation of Infix Probabilities for Probabilistic Context-Free Grammars,,0
+Parse Correction with Specialized Models for Difficult Attachment Types,,0
+Exact Inference for Generative Probabilistic Non-Projective Dependency Parsing,,0
+Semi-supervised CCG Lexicon Extension,,0
+"A Fast, Accurate, Non-Projective, Semantically-Enriched Parser",,0
+"Lateen EM: Unsupervised Training with Multiple Objectives, Applied to Dependency Grammar Induction",,0
+Unsupervised Dependency Parsing without Gold Part-of-Speech Tags,,0
+Exploiting Syntactic and Distributional Information for Spelling Correction with Web-Scale N-gram Models,,0
+Discriminating Gender on Twitter,,0
+Identifying and Following Expert Investors in Stock Microblogs,,0
+Unsupervised Semantic Role Induction with Graph Partitioning,,0
+Structural Opinion Mining for Graph-based Sentiment Representation,,0
+Summarize What You Are Interested In: An Optimization Framework for Interactive Personalized Summarization,,0
+Tuning as Ranking,,0
+Watermarking the Outputs of Structured Prediction with an application in Statistical Machine Translation.,,0
+Hierarchical Phrase-based Translation Representations,,0
+Improved Transliteration Mining Using Graph Reinforcement,,0
+Experimental Support for a Categorical Compositional Distributional Model of Meaning,,0
+Cross-Cutting Models of Lexical Semantics,,0
+Reducing Grounded Learning Tasks To Grammatical Inference,,0
+Relation Extraction with Relation Topics,,0
+Extreme Extraction – Machine Reading in a Week,,0
+Discovering Relations between Noun Categories,,0
+Structured Relation Discovery using Generative Models,,0
+"Closing the Loop: Fast, Interactive Semi-Supervised Annotation With Queries on Features and Instances",,0
+Third-order Variational Reranking on Packed-Shared Dependency Forests,,0
+Training dependency parsers by jointly optimizing multiple objectives,,0
+Structured Sparsity in Structured Prediction,,0
+Lexical Generalization in CCG Grammar Induction for Semantic Parsing,,0
+Named Entity Recognition in Tweets: An Experimental Study,,0
+Identifying Relations for Open Information Extraction,,0
+Active Learning with Amazon Mechanical Turk,,0
+Bootstrapped Named Entity Recognition for Product Attribute Extraction,,0
+Twitter Catches The Flu: Detecting Influenza Epidemics using Twitter,,0
+A Simple Word Trigger Method for Social Tag Suggestion,,0
+Rumor has it: Identifying Misinformation in Microblogs,,0
+Exploiting Parse Structures for Native Language Identification,,0
+A Probabilistic Forest-to-String Model for Language Generation from Typed Lambda Calculus Expressions,,0
